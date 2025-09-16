@@ -1,0 +1,264 @@
+```json
+[
+  {
+    "question": "De acordo com os materiais fornecidos, qual é o conceito fundamental da Medicina Legal?",
+    "options": [
+      "É uma especialidade médica focada exclusivamente em cirurgias de emergência.",
+      "É o estudo das doenças raras e suas implicações genéticas.",
+      "É o conjunto de informações que a ciência médica tem para oferecer à justiça, aplicando o conhecimento da ciência médica ao direito.",
+      "É a prática de embalsamamento de corpos para fins religiosos e históricos.",
+      "É uma disciplina que se ocupa unicamente da prevenção de acidentes de trabalho."
+    ],
+    "correctIndex": 2,
+    "explanation": "A Medicina Legal é conceituada como o conjunto de informações que a ciência médica oferece à justiça, aplicando seu conhecimento ao direito para a produção de provas médico-legais. Não é propriamente uma especialidade médica, mas uma ciência, técnica e arte que aplica conhecimentos diversos da Medicina às solicitações do Direito.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual das seguintes alternativas representa corretamente a sequência das fases da Medicina Legal no contexto global, conforme os materiais?",
+    "options": [
+      "Canônica, Antiga, Moderna, Romana.",
+      "Moderna, Antiga, Romana, Canônica.",
+      "Antiga, Romana, Canônica, Moderna.",
+      "Romana, Moderna, Canônica, Antiga.",
+      "Antiga, Canônica, Romana, Moderna."
+    ],
+    "correctIndex": 2,
+    "explanation": "Os materiais indicam que as fases da Medicina Legal são: Antiga, Romana, Canônica e Moderna. A fase antiga era baseada na comparação anatômica, a romana e canônica tinham foco em impedimentos matrimoniais e descendência, culminando na medicina moderna que se aproxima da prática atual.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quem é atribuído como o 'pai da Medicina Legal' devido ao lançamento do primeiro tratado sobre o assunto em 1575?",
+    "options": [
+      "Paolo Zacchias, com sua obra 'Questiones Medico Legales'.",
+      "Fortunatus Fidelis, com seu tratado mais completo 'De Relatoribus Libri Quator'.",
+      "Mathieu Joseph Bonaventure Orfila, criador da Toxicologia Forense.",
+      "Ambroise Paré, com o tratado 'Des Rapports et des Moyens d‘Embaumer les Corps Morts'.",
+      "Raymundo Nina Rodrigues, precursor da nacionalização da Medicina Legal no Brasil."
+    ],
+    "correctIndex": 3,
+    "explanation": "Ambroise Paré é atribuído como o pai da Medicina Legal por ter lançado, em 1575, o primeiro tratado intitulado 'Des Rapports et des Moyens d‘Embaumer les Corps Morts', que abordava a gravidade das feridas, asfixia e diagnóstico de virgindade, entre outros. Embora Fortunatus Fidelis e Paolo Zacchias tenham publicado obras mais completas posteriormente, Paré é reconhecido pelo primeiro tratado.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual país teve a maior influência no desenvolvimento da Medicina Legal no Brasil?",
+    "options": [
+      "Alemanha, devido à sua excelsa produção de tabelas biométricas.",
+      "Estados Unidos, pela sua avançada tecnologia laboratorial.",
+      "Portugal, por ser a nação colonizadora do Brasil.",
+      "França, cuja influência se estendeu a muitos países do mundo.",
+      "Itália, berço da Medicina Legal prática no século XVI."
+    ],
+    "correctIndex": 3,
+    "explanation": "A Medicina Legal no Brasil tem uma influência muito grande da medicina legal francesa, que, por sua vez, influenciou muitos países.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual dos seguintes nomes é creditado como o responsável pela 'verdadeira nacionalização' da Medicina Legal brasileira e pelo início da pesquisa científica médico-legal a partir da realidade nacional?",
+    "options": [
+      "Agostinho José de Souza Lima, por inaugurar o primeiro curso prático de tanatologia forense.",
+      "Oscar Freire de Carvalho, por iniciar a publicação de trabalhos experimentais em São Paulo.",
+      "Raymundo Nina Rodrigues, com o início da pesquisa científica médico-legal na Bahia.",
+      "Hélio Gomes, por suas contribuições doutrinárias e filosóficas.",
+      "José Martins da Cruz Jobim, pelo ensino médico-legal no Rio de Janeiro."
+    ],
+    "correctIndex": 2,
+    "explanation": "A verdadeira nacionalização da Medicina Legal no Brasil se deu com Raymundo Nina Rodrigues na Bahia, iniciando com ele a fase da pesquisa científica médico-legal a partir de nossa própria realidade. Agostinho José de Souza Lima, embora importante, foi creditado por inaugurar o primeiro curso prático de tanatologia forense no Rio de Janeiro.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em que ano as duas primeiras Faculdades de Medicina do Brasil incluíram oficialmente a Medicina Legal como disciplina obrigatória?",
+    "options": [
+      "1856, com a regulamentação da atividade médico-pericial.",
+      "1891, quando Rui Barbosa propôs a criação da Cátedra de Medicina Legal.",
+      "1922, com a criação do Instituto Oscar Freire.",
+      "1832, na Bahia e no Rio de Janeiro, ano em que o Código de Processo Criminal estabeleceu a perícia oficial.",
+      "1896, com a criação do Serviço Médico-Legal na Bahia."
+    ],
+    "correctIndex": 3,
+    "explanation": "As duas primeiras Faculdades de Medicina do Brasil – a da Bahia e a do Rio de Janeiro – incluíram oficialmente a Medicina Legal como disciplina obrigatória a partir de 1832. Neste mesmo ano, o Código de Processo Criminal estabelecia a perícia oficial para a realização dos exames de corpo de delito.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a principal tendência recente observada na organização dos Institutos Médico-Legais (IMLs) no Brasil, segundo os materiais?",
+    "options": [
+      "Aumento da subordinação aos órgãos de segurança pública.",
+      "Centralização dos serviços periciais em nível federal.",
+      "Criação de coordenadorias gerais de perícias, sempre vinculadas às Secretarias de Segurança Pública.",
+      "Desvinculação dos órgãos de segurança pública e busca por autonomia administrativa.",
+      "Privatização dos serviços de perícia médico-legal em alguns estados."
+    ],
+    "correctIndex": 3,
+    "explanation": "Embora a maioria dos IMLs no Brasil permaneça no âmbito dos órgãos de segurança pública, começou-se a verificar a desvinculação destes Institutos da área da Segurança, buscando independência administrativa, como nos estados do Amapá e Pará. Há um movimento a favor da autonomia da perícia médico-legal.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A autonomia da perícia médico-legal é defendida sob qual principal argumento?",
+    "options": [
+      "Redução de custos operacionais e burocráticos.",
+      "Aumento da velocidade na emissão de laudos periciais.",
+      "Melhor alinhamento com os interesses da administração policial.",
+      "Garantia de que a Medicina Legal seja vista como ciência a serviço da Justiça, sem ser preposto da autoridade policial.",
+      "Possibilidade de contratação de peritos sem concurso público."
+    ],
+    "correctIndex": 3,
+    "explanation": "A autonomia da Medicina Legal é defendida sob o argumento de que ela deve ser vista como um núcleo de ciência a serviço da Justiça, e o médico nessas condições não pode ser um preposto da autoridade policial. Essa desvinculação visa evitar a imagem de comprometimento e a pressão que pode ocorrer quando os IMLs estão ligados a órgãos de polícia repressiva.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual ramo da Medicina Legal Especial se dedica ao estudo dos transtornos mentais e da conduta, e dos problemas da capacidade civil e responsabilidade penal?",
+    "options": [
+      "Antropologia Médico-Legal.",
+      "Traumatologia Médico-Legal.",
+      "Sexologia Médico-Legal.",
+      "Psiquiatria Médico-Legal.",
+      "Tanatologia Médico-Legal."
+    ],
+    "correctIndex": 3,
+    "explanation": "A Psiquiatria Médico-Legal estuda os transtornos mentais e da conduta, os problemas da capacidade civil e da responsabilidade penal sob o ponto de vista médico-forense.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que caracteriza a identidade de uma pessoa, conforme o conceito abordado na Medicina Legal?",
+    "options": [
+      "A identidade é estabelecida pela cor dos cabelos, que pode se alterar com o tempo.",
+      "É um parâmetro que se altera significativamente ao longo da vida, tornando a identificação complexa.",
+      "A identidade só pode ser estabelecida quando um parâmetro é igual a ele mesmo em diferentes tempos da vida da pessoa, como as impressões digitais.",
+      "A identidade é determinada principalmente por características faciais, que podem mudar com cirurgias plásticas.",
+      "É um conceito puramente filosófico, sem aplicação prática na área forense."
+    ],
+    "correctIndex": 2,
+    "explanation": "A identidade de uma pessoa só pode ser estabelecida quando um parâmetro é igual a ele mesmo em diferentes tempos da vida da pessoa, como a identificação papiloscópica, onde as impressões digitais são idênticas desde o útero até após a morte, pois não se alteram.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual é a importância do estudo da Medicina Legal para o juiz, conforme os materiais?",
+    "options": [
+      "Permite ao juiz substituir o perito médico-legal na elaboração dos laudos.",
+      "Fornece ao juiz o conhecimento para anular a necessidade de perícias, pois ele já deteria o saber médico.",
+      "Auxilia o juiz a apreciar melhor a verdade, analisando informes periciais e adquirindo consciência dos fatos que constituem o problema jurídico.",
+      "Habilita o juiz a definir, de forma independente, a distância de um tiro apenas pela lesão.",
+      "Concede ao juiz a prerrogativa de determinar a idade gestacional de um feto sem auxílio de tabelas."
+    ],
+    "correctIndex": 2,
+    "explanation": "Para o juiz, é indispensável o estudo da Medicina Legal, a fim de que possa apreciar melhor a verdade em um critério exato, analisando os informes periciais e adquirindo uma consciência dos fatos que constituem o problema jurídico, orientando e iluminando a consciência do magistrado para evitar erros judiciais.",
+    "type": "conteudista"
+  },
+  {
+    "question": "A Medicina Legal é descrita como 'Ciência, Técnica e Arte'. Qual característica a qualifica como 'Arte'?",
+    "options": [
+      "Seu método experimental dedutivo para obter conclusões prováveis.",
+      "A sistematização de seus métodos para um objetivo determinado e restrito.",
+      "A utilização de métodos sofisticados em busca da verdade e seu uso no tempo certo.",
+      "A exigência de qualidades instintivas para demonstrar a sequência lógica de uma lesão violenta e a inserção do devido entendimento no laudo.",
+      "A necessidade de comparar impressões digitais para identificar pessoas."
+    ],
+    "correctIndex": 3,
+    "explanation": "A Medicina Legal é Arte porque exige qualidades instintivas para demonstrar de forma significativa, por exemplo, a sequência lógica do resultado dramático da lesão violenta, e inserir na descrição do laudo o devido entendimento que se deve ter de sua leitura a partir da exata compreensão do fato analisado. É uma arte estritamente objetiva e racional.",
+    "type": "conteudista"
+  },
+  {
+    "question": "No contexto da quantificação de dano corporal, qual é a implicação médico-legal de uma agressão que causa o nascimento de um feto sem vida, independentemente da idade gestacional?",
+    "options": [
+      "É considerado lesão corporal leve, pois não há risco à vida da mãe.",
+      "É classificado como lesão corporal grave, com pena de 5 a 8 anos de detenção para o agressor.",
+      "É tratado como aborto legal, isentando o agressor de culpa.",
+      "É considerado legalmente aborto e resulta em lesão corporal gravíssima, com pena de 8 a 12 anos de reclusão para o agressor.",
+      "É interpretado como um parto acelerado, sem implicações legais adicionais."
+    ],
+    "correctIndex": 3,
+    "explanation": "Para a medicina legal, todo produto que sai do útero da mãe sem vida, independentemente da idade gestacional, é considerado legalmente aborto. Uma agressão que causa aborto muda a gravidade da lesão para gravíssima, submetendo o agressor a uma pena de 8 a 12 anos de reclusão, tamanha a gravidade da agressão.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um indivíduo que comete um crime sob a vigência de um 'estado puerperal' pode ter sua pena atenuada. Qual é o principal motivo para essa atenuação, de acordo com a psiquiatria forense?",
+    "options": [
+      "A falta de premeditação do crime.",
+      "A ausência de testemunhas no momento do ato.",
+      "O estado puerperal, que indica que a mãe não tem discernimento claro do que está fazendo, segundo a lei.",
+      "A ocorrência do crime em ambiente doméstico.",
+      "A idade avançada da mãe no momento do crime."
+    ],
+    "correctIndex": 2,
+    "explanation": "A mãe, na vigência do estado puerperal, pelas condições desse estado, não tem discernimento claro do que está fazendo, segundo a lei. Nessa condição, se ela mata o próprio filho, a pena é atenuada, sendo caracterizado como infanticídio.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual das fases da putrefação cadavérica é caracterizada pela produção de gases que levam ao inchaço do corpo, incluindo a bolsa escrotal?",
+    "options": [
+      "Fase de esqueletização, onde o corpo se desintegra completamente.",
+      "Fase de coloração, que marca o início do processo decompositivo.",
+      "Fase enfisematosa, com produção de gases pelas bactérias.",
+      "Fase de coliquação, em que os tecidos se liquefazem.",
+      "Fase de saponificação, quando o tecido vira cera."
+    ],
+    "correctIndex": 2,
+    "explanation": "A fase enfisematosa da putrefação é caracterizada pela produção de gases pelas bactérias, que fazem o corpo inchar, como a bolsa escrotal ilustrada, por exemplo. As fases da putrefação são: coloração, produção de gases (enfisematosa), coliquação e esqueletização.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um perito médico-legal se depara com um cadáver apresentando um sulco cervical horizontalizado e contínuo. Historicamente, como a Medicina Legal evoluiu para interpretar essa lesão, e qual seria a suspeita atual mais provável?",
+    "options": [
+      "No passado, essa lesão seria imediatamente atribuída a um suicídio, sem investigações aprofundadas. Atualmente, a suspeita recairia sobre um acidente doméstico.",
+      "A Medicina Legal sempre atribuiu essa lesão a estrangulamento voluntário. Hoje, a tecnologia permite descartar qualquer hipótese de homicídio.",
+      "Antigamente, a interpretação era limitada a observações anatômicas básicas. Hoje, essa lesão, por ser horizontalizada e contínua, é fortemente sugestiva de estrangulamento homicida, pois dificilmente seria voluntária.",
+      "A evolução histórica demonstra que essa lesão é primariamente associada a rituais religiosos. No presente, seria considerada uma lesão autoprovocada.",
+      "Ambroise Paré já descrevia a lesão como indicativa de enforcamento voluntário. Atualmente, a Medicina Legal rejeita qualquer possibilidade de intervenção de terceiros."
+    ],
+    "correctIndex": 2,
+    "explanation": "A Medicina Legal evoluiu de observações anatômicas para um raciocínio mais qualificado. Um sulco cervical horizontalizado e contínuo, como o descrito, dificilmente é uma lesão voluntária. O raciocínio médico-legal atual aponta para um grande potencial de ser uma lesão homicida, ou seja, estrangulamento. A evolução do conhecimento permite distinguir causas e oferecer elementos à autoridade policial para investigação.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "A Medicina Legal no Brasil recebeu forte influência francesa, enquanto o sistema dos EUA é descrito como menos evoluído globalmente, mas bom em tabelas. Considerando as diferenças, como um perito brasileiro abordaria a análise de idade gestacional de um feto em comparação com um perito americano?",
+    "options": [
+      "O perito brasileiro daria maior peso à experiência individual e à interpretação subjetiva, enquanto o americano se basearia em intuição.",
+      "Ambos os peritos se concentrariam unicamente nas observações visuais, sem recorrer a dados padronizados.",
+      "O perito brasileiro, seguindo a tradição francesa, tenderia a uma análise mais doutrinária e interpretativa. O americano, por sua vez, utilizaria tabelas como a de Etton-Rohleder para comparar dados biométricos e definir a idade gestacional de forma quantitativa.",
+      "O perito brasileiro se basearia em leis canônicas para determinar a idade gestacional. O americano priorizaria a análise da história clínica materna apenas.",
+      "A abordagem seria idêntica, pois a Medicina Legal é uma ciência universalmente padronizada em todos os países."
+    ],
+    "correctIndex": 2,
+    "explanation": "A Medicina Legal no Brasil, de origem francesa, historicamente tem uma abordagem mais interpretativa e doutrinária. Contudo, os americanos são 'muito bons para tabelas', como a de Etton-Rohleder, para relacionar dados biométricos de fetos (peso corporal, comprimento, etc.) e determinar a idade gestacional de forma precisa. Portanto, o perito americano faria uso extensivo dessas tabelas, que são um avanço científico na prática forense.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um projétil de arma de fogo atinge uma vítima a curta distância, deixando na pele grânulos de pólvora incbusta. Como a observação científica desse fenômeno se correlaciona diretamente com a prática forense e auxilia na investigação?",
+    "options": [
+      "A pólvora incbusta é irrelevante, pois a única informação útil é a lesão de entrada do projétil, indicando apenas que a vítima foi atingida.",
+      "A presença de pólvora incbusta é uma indicação de que o atirador estava a uma distância indeterminada, mas seguramente mais de 50 cm da vítima.",
+      "Essa observação permite determinar que o disparo foi efetuado a curta distância, pois a pólvora não queimada se impregna na pele, auxiliando a autoridade policial na investigação do cenário do crime e da dinâmica dos fatos.",
+      "A pólvora incbusta é um artefato comum em qualquer disparo, sem valor para a reconstituição da distância do tiro.",
+      "A ocorrência de pólvora incbusta sugere que o projétil era de baixa velocidade, sem relação com a distância do disparo."
+    ],
+    "correctIndex": 2,
+    "explanation": "A impregnação de pólvora incbusta na pele significa que o atirador estava muito próximo da vítima. A pólvora, a fumaça e o fogo são lançados com o projétil; se não há tempo para queimar toda a pólvora, seus grânulos impregnam na pele. Isso é uma evidência crucial para determinar a curta distância do tiro ('queima-roupa', 'encostado'), o que é fundamental para a autoridade policial na investigação da dinâmica do crime.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "A quantificação do dano corporal em Medicina Legal (lesão leve, grave, gravíssima) visa dar um dado objetivo ao juiz. Qual seria o impacto de uma mudança legislativa que eliminasse essa classificação, deixando a pena totalmente à discricionariedade do juiz, sem parâmetros médicos definidos?",
+    "options": [
+      "O impacto seria positivo, pois o juiz teria mais liberdade para considerar as particularidades de cada caso, tornando a justiça mais humana e flexível.",
+      "Não haveria impacto significativo, pois os laudos médicos ainda descreveriam as lesões, e o juiz usaria seu conhecimento geral para definir a pena.",
+      "A eliminação da classificação geraria insegurança jurídica e subjetividade excessiva na aplicação da pena, pois o juiz perderia um parâmetro objetivo crucial para decidir a quantidade de pena do agressor, podendo levar a disparidades e injustiças.",
+      "A mudança legislativa incentivaria os médicos a focar mais no tratamento do que na perícia, simplificando o processo judicial.",
+      "Resultaria em penas mais brandas para todos os agressores, dada a falta de critérios para agravar a lesão."
+    ],
+    "correctIndex": 2,
+    "explanation": "A quantificação do dano corporal (leve, grave, gravíssima) é fundamental porque 'o juiz, quando ele for decidir a quantidade de pena do agressor, ele precisa ter um dado objetivo'. A ausência de parâmetros objetivos, como a classificação de lesões, levaria a um aumento da subjetividade e à possibilidade de decisões arbitrárias na aplicação da pena, resultando em insegurança jurídica e disparidades no sistema de justiça, comprometendo a equidade e a capacidade do juiz de fundamentar a medida da pena.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "O caso do advogado americano erroneamente identificado como autor do atentado de Madrid por meio de uma impressão digital ilustra uma limitação crucial na prática forense. Qual lição principal pode ser extraída desse evento sobre a aplicação de evidências científicas na justiça?",
+    "options": [
+      "Impressões digitais são a única prova irrefutável, e erros como esse são raros e isolados, não devendo abalar a confiança na técnica.",
+      "A tecnologia de identificação de impressões digitais ainda é incipiente e não deve ser usada em investigações criminais sérias.",
+      "Mesmo evidências tidas como 'idênticas' e de alta confiabilidade, como impressões digitais, exigem análise criteriosa e cautelosa, pois a interpretação humana e a correlação com outros dados são essenciais para evitar erros judiciais graves.",
+      "A falha ocorreu devido à falta de ampliação da impressão digital, e com técnicas modernas, tais erros são impossíveis.",
+      "O problema residia na nacionalidade do advogado, não na técnica pericial, pois a identificação seria mais fácil se ele fosse de outra origem."
+    ],
+    "correctIndex": 2,
+    "explanation": "O caso do advogado americano, que foi preso injustamente com base em uma impressão digital supostamente compatível até que um argelino se apresentou, demonstra que mesmo 'evidências que têm que ser muito muito criteriosamente analisadas, muito cautelosamente analisadas' podem levar a problemas sérios. A lição é que, embora as impressões digitais sejam um parâmetro de identificação forte, a interpretação e a contextualização de dados científicos são cruciais para evitar erros judiciais, e nenhuma evidência, por si só, é uma 'verdade soberana' que prescinda de escrutínio rigoroso.",
+    "type": "raciocínio"
+  }
+]
+```

@@ -1,0 +1,262 @@
+[
+  {
+    "question": "Qual a definição médico-legal de asfixia, considerando sua fisiopatologia?",
+    "options": [
+      "Síndrome caracterizada pela ausência ou muito baixa concentração de oxigênio no ar respirável, levando à hipoxemia e acúmulo de dióxido de carbono.",
+      "Condição de hiperventilação pulmonar com aumento da pressão parcial de oxigênio e redução do dióxido de carbono, sem comprometimento venoso.",
+      "Processo inflamatório agudo das vias aéreas com broncoconstrição, hipersecreção de muco e pneumonia lobar.",
+      "Distúrbio metabólico em que a falência renal provoca uremia, acidose metabólica e hipóxia tecidual secundária.",
+      "Estado de choque circulatório por hemorragia maciça, com diminuição do débito cardíaco e perfusão tecidual inadequada."
+    ],
+    "correctIndex": 0,
+    "explanation": "Asfixia, no contexto médico‑legal, é uma síndrome causada pela ausência ou baixíssima concentração de oxigênio no ar respirável. Isso leva ao aumento de dióxido de carbono, hipoxemia e prejuízo às funções vitais. Não se confunde com processos inflamatórios, choques hemorrágicos ou insuficiências orgânicas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Para que a ventilação e perfusão pulmonar sejam eficazes, quais requisitos fisiológicos devem estar presentes no organismo?",
+    "options": [
+      "Atmosfera hipobárica com baixa pressão de oxigênio, desidratação alveolar e ausência de hemoglobina funcional.",
+      "Ambiente rico em ozônio e outros gases irritantes, fechamento da glote e paralisia do diafragma por toxinas neuromusculares.",
+      "Ambiente com elevada concentração de dióxido de carbono, aumento do espaço morto respiratório e rigidez do tórax com circulação comprometida.",
+      "Ar rarefeito com predominância de nitrogênio, obstrução parcial das vias aéreas superiores e insuficiência ventricular grave.",
+      "Ar ambiente com aproximadamente 21% de oxigênio, vias aéreas permeáveis, elasticidade torácica, expansibilidade pulmonar e circulação sanguínea eficiente."
+    ],
+    "correctIndex": 4,
+    "explanation": "A ventilação normal requer ar atmosférico com cerca de 21% de oxigênio, vias aéreas desobstruídas, elasticidade torácica e expansão pulmonar adequadas, bem como circulação capaz de transportar oxigênio. Condições como hipoxia ambiental, obstrução das vias aéreas ou rigidez torácica comprometem a ventilação e a perfusão.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os sinais externos gerais de asfixia mecânica observados no exame macroscópico?",
+    "options": [
+      "Face cianótica e congestionada, hipóstases de cor violácea, petéquias em mucosas e pele (manchas de Tardieu) e presença de espuma nas vias aéreas.",
+      "Palidez cutânea generalizada, ausência de hipóstases visíveis e rigidez cadavérica precoce sem edema facial.",
+      "Vermelhidão difusa da face, vômito sanguinolento e cortes profundos nos membros inferiores sem alterações nas vias respiratórias.",
+      "Lividez intensa na face e dorso, sem formação de petéquias, com hipotermia marcada e ausência de espuma nas vias aéreas.",
+      "Edema facial discreto com equimoses traumáticas no tronco e membros, hipertermia cutânea e ausência de secreção espumosa."
+    ],
+    "correctIndex": 0,
+    "explanation": "No exame externo de asfixia mecânica, observa‑se a máscara de Morestin (congestão e cianose da face), hipóstases violáceas, petéquias em mucosas e pele e cogumelo de espuma na boca ou narinas. Esses sinais indicam dificuldade respiratória e congestão venosa.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O que são manchas de Tardieu e qual sua importância na asfixiologia?",
+    "options": [
+      "Microlesões ulceradas nas mucosas gástricas originadas por ingestão de substâncias corrosivas, sem correlação com asfixias, mas sim com intoxicações químicas ou queimaduras internas.",
+      "Acúmulos de pigmento biliar no fígado e trato digestivo resultantes de icterícia prolongada, observados em doenças hepáticas crônicas e não relacionados à asfixia.",
+      "Pequenas hemorragias puntiformes sob pleura, pericárdio, peritônio e meninges, provocadas pelo aumento súbito da pressão venosa nas asfixias e indicativas de congestão polivisceral.",
+      "Depósitos calcificados nos ligamentos laringotraqueais observados em adultos idosos, representando alterações degenerativas sem relação com asfixias.",
+      "Grandes equimoses superficiais no tórax e abdome decorrentes de traumatismos contusos durante a luta, que podem ocorrer em homicídios, mas não correspondem às manchas de Tardieu."
+    ],
+    "correctIndex": 2,
+    "explanation": "Manchas de Tardieu são petequias hemorrágicas localizadas nas superfícies serosas e meninges, formadas pelo aumento da pressão venosa durante a asfixia. Elas auxiliam na confirmação de congestão polivisceral, mas não devem ser confundidas com equimoses traumáticas ou outros processos patológicos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Segundo a classificação de Afrânio Peixoto, como são categorizadas as asfixias mecânicas?",
+    "options": [
+      "Asfixias puras (confinamento, sufocação, afogamento e soterramento), complexas (enforcamento, estrangulamento) e mistas (esganadura).",
+      "Asfixias hematológicas (por anemia), metabólicas e infecciosas, classificadas conforme o agente etiológico, uso restrito na medicina clínica, mas não na perícia.",
+      "Asfixias traumáticas divididas em agudas, subagudas, crônicas e tardias segundo o tempo de evolução, uma classificação clínica que não se aplica à asfixiologia forense.",
+      "Asfixias químicas, térmicas e elétricas, subdivididas conforme a fonte de energia que compromete o sistema respiratório, hipótese sem base na literatura médico‑legal.",
+      "Asfixias internas causadas por doenças sistêmicas e asfixias externas provocadas por infecções bacterianas graves, classificação incorreta para a prática médico‑legal."
+    ],
+    "correctIndex": 0,
+    "explanation": "Afrânio Peixoto propôs uma classificação médico‑legal em que as asfixias puras envolvem confinamento, sufocação, afogamento e soterramento; as complexas incluem enforcamento e estrangulamento; e as mistas compreendem a esganadura. Essa tipologia orienta a investigação e a análise pericial.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os mecanismos de morte implicados no enforcamento segundo a literatura forense?",
+    "options": [
+      "Obstrução das vias aéreas pela retropulsão da língua, compressão das artérias e veias cervicais reduzindo o fluxo sanguíneo cerebral, e inibição vagal reflexa pelo estímulo do seio carotídeo.",
+      "Insuficiência renal aguda por toxidade, com hipercalemia, acidose metabólica e choque hipovolêmico, quadro sistêmico sem compressão cervical ou obstrução das vias aéreas.",
+      "Lesão direta do tronco encefálico por fratura craniana grave, ocasionando hemorragia subdural, aumento da pressão intracraniana e coma profundo, sem participação de compressão cervical.",
+      "Ruptura simultânea do baço e fígado com hemorragia interna maciça, choque hipovolêmico e falência multiorgânica, quadro hemorrágico traumático sem compressão cervical.",
+      "Isquemia intestinal seguida de perfuração e peritonite aguda, com sepse sistêmica, levando a choque séptico, condição abdominal que não caracteriza asfixia mecânica."
+    ],
+    "correctIndex": 0,
+    "explanation": "No enforcamento, a morte se deve à obstrução da via aérea pela retropulsão da língua, à interrupção do fluxo sanguíneo cerebral por compressão das carótidas e jugulares e a um reflexo vagal decorrente da pressão no seio carotídeo. Choques hemorrágicos ou falências orgânicas não caracterizam esse mecanismo.",
+    "type": "conteudista"
+  },
+  {
+    "question": "No exame de um sulco cervical em um caso de suspensão pelo pescoço, quais características distinguem o enforcamento do estrangulamento?",
+    "options": [
+      "No enforcamento o sulco é oblíquo ascendente, único e acima da cartilagem tireoide, interrompendo‑se no nó; no estrangulamento é horizontal, contínuo ou múltiplo e fica abaixo da tireoide.",
+      "No enforcamento o sulco forma ângulo de 90° na região mandibular e se dirige horizontalmente; no estrangulamento localiza‑se mais inferiormente junto ao esterno, sem interrupção.",
+      "No enforcamento o sulco é sempre horizontal e duplo acima da cartilagem cricoide, com profundidade uniforme; no estrangulamento é oblíquo e superficial, sem interrupções.",
+      "No enforcamento o sulco é circular completo na base do pescoço com profundidade uniforme; no estrangulamento ele é vertical irregular com interrupções e múltiplas voltas.",
+      "Em ambos os casos os sulcos são idênticos, de profundidade constante e sem relação com a posição do nó ou número de voltas, não sendo possível diferenciá‑los morfologicamente."
+    ],
+    "correctIndex": 0,
+    "explanation": "O sulco do enforcamento é oblíquo ascendente, único e geralmente situado acima da cartilagem tireoide, interrompendo‑se no local do nó; já no estrangulamento o sulco é horizontal, contínuo ou múltiplo, localizado abaixo da tireoide. Essas diferenças são fundamentais para distinguir suicídio de homicídio.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os principais achados anatomopatológicos internos no enforcamento?",
+    "options": [
+      "Hemorragias infiltrativas no subcutâneo e músculos cervicais, fissuras ou fraturas do osso hioide e cartilagens laríngeas, ruptura da íntima das artérias carótidas (sinal de Amussat) e lesões ligamentares cervicais.",
+      "Congestão hepática e esplênica leve, atrofia muscular generalizada, calcificação valvar aórtica e ausência de lesões cervicais, achados não relacionados ao enforcamento.",
+      "Necrose cortical renal bilateral com tromboembolismo pulmonar maciço, aneurisma cerebral roto e edema cerebral difuso, alterações sistêmicas sem relação com compressão cervical.",
+      "Anemia medular grave acompanhada de hipertrofia cardíaca compensatória, pneumotórax bilateral espontâneo e falência respiratória, quadro clínico sem origem traumática cervical.",
+      "Ruptura do diafragma com herniação de alças intestinais para o tórax, laceração hepática extensa e hemorragia intraperitoneal, trauma abdominal grave sem asfixia mecânica."
+    ],
+    "correctIndex": 0,
+    "explanation": "No enforcamento, encontram‑se infiltrações hemorrágicas no subcutâneo e nos músculos do pescoço, fraturas ou fissuras do hioide e cartilagens laríngeas, rupturas da camada íntima das artérias carótidas (sinal de Amussat) e lesões ligamentares. Esses achados refletem a força aplicada pelo laço.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais características são típicas do estrangulamento no exame externo?",
+    "options": [
+      "Sulco em forma de V profundo sob o mento, acompanhado de ruptura da traqueia e paralisia de membros, características de trauma cervical incomum e não típico de estrangulamento.",
+      "Ausência de sulco, edema facial discreto e hematomas disseminados nos membros inferiores por queda ou contusões, sem alterações no pescoço, quadro traumático incompatível com estrangulamento.",
+      "Face intensamente congestionada, língua protrusa e sulco horizontal contínuo ou múltiplo abaixo da cartilagem tireoide, com escoriações ou marcas de unhas devido à luta defensiva, caracterizando estrangulamento.",
+      "Sulco oblíquo ascendente único localizado acima da cartilagem tireoide sem vestígio de escoriação, sugerindo enforcamento autoaplicado e não estrangulamento homicida.",
+      "Sulco vertical nas laterais do pescoço associado a fratura do occipital e ausência de congestão facial, lesão traumática incompatível com compressão por laço."
+    ],
+    "correctIndex": 2,
+    "explanation": "No estrangulamento homicida, o laço é apertado por outra pessoa, produzindo sulco horizontal contínuo ou múltiplo abaixo da cartilagem tireoide; a face apresenta intensa congestão com língua protrusa e há escoriações ou marcas de unhas decorrentes da luta. Sulcos oblíquos ou ausência de sulco sugerem outras modalidades.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na sufocação por obstrução das vias aéreas (boca e narinas), quais sinais específicos podem ser encontrados no cadáver?",
+    "options": [
+      "Erosões cutâneas extensas na região lombar, equimoses nos membros e hemorragia intracraniana difusa, sem alterações nas vias aéreas ou sulco cervical, quadro traumático sem relação com sufocação.",
+      "Escoriações ao redor das narinas e lábios, equimoses nas mucosas oral e orofaríngea, e presença do corpo obstrutor (pano, plástico ou alimento) na cavidade bucal ou faringe, evidenciando sufocação por obstrução.",
+      "Fraturas múltiplas das cartilagens laríngeas e traqueais com esmagamento cervical, sem marcas externas na face ou pescoço, indicando trauma direto e não sufocação por obstrução.",
+      "Lesões perfurocortantes no tórax e abdome provocadas por arma branca, sem sinais de obstrução das vias respiratórias ou trauma cervical, compatíveis com homicídio por arma branca.",
+      "Deslocamento do maxilar com luxação temporomandibular, hemorragia intensa da cavidade bucal e ausência de corpo estranho, achado traumático sem relação com sufocação mecânica."
+    ],
+    "correctIndex": 1,
+    "explanation": "A sufocação por obstrução mecânica da boca e narinas apresenta escoriações ao redor dos orifícios, equimoses das mucosas e geralmente o corpo estranho utilizado para tamponar a via aérea. Não se observam fraturas do hioide ou sulcos, pois a compressão é sobre a face.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual característica distingue a asfixia indireta (compressão torácica) das outras formas de sufocação?",
+    "options": [
+      "Afogamento vital, em que há entrada de água nos pulmões e estômago, cutis anserina, maceração das extremidades e cogumelo de espuma abundante, diferindo da compressão torácica.",
+      "Enforcamento, caracterizado por sulco oblíquo ascendente acima da cartilagem tireoide, fraturas do osso hioide, obstrução da via aérea superior e ausência de cogumelo de espuma.",
+      "Estrangulamento, com sulco horizontal múltiplo abaixo da cartilagem tireoide, protrusão da língua, escoriações e marcas de unhas no pescoço, indicando laço apertado por terceiro.",
+      "Sufocação por obstrução direta de boca e narinas, manifestada por escoriações periorais, equimoses da mucosa oral e presença de corpo estranho tamponando as vias respiratórias.",
+      "As vias aéreas permanecem livres, mas a pressão sobre o tórax e abdome impede a expansão pulmonar; observam‑se congestão facial intensa, numerosas petéquias e ausência de sulco cervical, definindo asfixia mecânica indireta."
+    ],
+    "correctIndex": 4,
+    "explanation": "Na asfixia indireta por compressão torácica, o peso sobre o tórax impede a expansão pulmonar apesar das vias aéreas estarem livres. O cadáver apresenta congestão facial e petéquias sem sulco cervical. Enforcamento, estrangulamento e sufocação por obstrução direta exibem sulcos ou corpos obstrutores, e o afogamento apresenta maceração e presença de água.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais achados ajudam a diagnosticar a asfixia por soterramento?",
+    "options": [
+      "Sulco horizontal profundo no pescoço com hematoma subcutâneo e congestão facial intensa, típico de estrangulamento.",
+      "Maceramento epidérmico das extremidades, cutis anserina e cogumelo de espuma abundante nas vias aéreas, compatível com afogamento.",
+      "Fraturas do hioide e cartilagens laríngeas com protrusão ocular e fratura da base do crânio, indicando enforcamento violento.",
+      "Identificação de partículas de terra ou pó fino na boca, fossas nasais, vias aéreas, esôfago e estômago, associada a lesões traumáticas do desabamento.",
+      "Presença de algas microscópicas nos pulmões e água límpida no estômago sem partículas sólidas, sugerindo afogamento vital."
+    ],
+    "correctIndex": 3,
+    "explanation": "Na asfixia por soterramento, demonstra‑se vitalidade ao se encontrar terra ou pó nas vias aéreas, boca, esôfago e estômago. Esses achados, aliados a lesões traumáticas causadas pelo colapso do solo, indicam que a vítima inspirou ou ingeriu material antes de morrer.",
+    "type": "conteudista"
+  },
+  {
+    "question": "No afogamento típico em água doce ou salgada, quais são os sinais externos comumente observados?",
+    "options": [
+      "Edema agudo de pulmão com face cianótica, sangue escuro nas vias aéreas e ausência de maceração das extremidades.",
+      "Lividez uniforme e intensa no dorso, sem maceração cutânea e ausência de espuma nas vias respiratórias, indicando cadáver lançado na água após a morte.",
+      "Hipotermia corporal, cutis anserina, maceração da pele das mãos e pés, espuma abundante nas vias aéreas e escoriações com detritos sob as unhas.",
+      "Rigidez cadavérica precoce, lividez com manchas violáceas, icterícia difusa e ausência de cutis anserina ou maceração.",
+      "Pele seca sem alterações, face congestionada com sulco cervical e fraturas do hioide, sugerindo asfixia mecânica pelo pescoço."
+    ],
+    "correctIndex": 2,
+    "explanation": "O afogamento vital apresenta baixa temperatura corporal, pele de 'galinha' (cutis anserina), maceração das mãos e pés (mãos de lavadeira), espuma abundante nas vias aéreas e escoriações com detritos sob as unhas. Esses sinais indicam permanência em meio aquático e tentativa de se libertar.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Como se diferenciam os efeitos fisiológicos de um afogamento em água doce em comparação com água salgada?",
+    "options": [
+      "Na água doce a entrada de líquido hipertônico retira água do sangue, causando hemoconcentração, e na água salgada a absorção de líquido hipotônico causa hemodiluição.",
+      "Em ambos os casos a osmolaridade do líquido aspirado não altera o balanço hidroeletrolítico, e a morte resulta apenas de broncoaspiração.",
+      "A água doce provoca coagulação intravascular disseminada, enquanto a água salgada desencadeia fibrinólise maciça, sem alteração do volume sanguíneo.",
+      "Em água doce hipotônica há diluição do plasma com hiperhidratação e hemodiluição; em água salgada hipertônica, a água do sangue passa para os alvéolos, provocando hemoconcentração e hipovolemia.",
+      "Tanto a água doce quanto a salgada geram hemoconcentração intensa com hipovolemia, sem diferença fisiológica entre elas."
+    ],
+    "correctIndex": 3,
+    "explanation": "A água doce, sendo hipotônica, dilui o plasma e produz hiperhidratação e hemodiluição. Já a água salgada, por ser hipertônica, extrai água do sangue para os alvéolos, provocando hemoconcentração e hipovolemia. Essa distinção fisiológica auxilia na investigação médico‑legal.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais sinais são característicos da asfixia por monóxido de carbono?",
+    "options": [
+      "Cutis anserina, maceração das extremidades e presença de areia sob as unhas associadas à ingestão de água no estômago.",
+      "Palidez cutânea marcada, livores discretos, sangue de tonalidade castanha e desenvolvimento rápido de rigidez cadavérica.",
+      "Coloração rosa‑cereja da pele e mucosas, hipóstases róseas, sangue fluido rosado e vísceras de cor carmim devido à formação de carboxiemoglobina.",
+      "Coloração azul‑arroxeada da pele, hipóstases violáceas, sangue escuro e espesso e rigidez cadavérica precoce típicos de asfixia mecânica.",
+      "Icterícia generalizada com equimoses abdominais, ascite hemorrágica e odor putrefativo precoce, sugerindo septicemia."
+    ],
+    "correctIndex": 2,
+    "explanation": "A intoxicação por monóxido de carbono causa coloração rosa‑cereja da pele e mucosas, hipóstases róseas, sangue fluido rosado e vísceras avermelhadas. Esses achados resultam da carboxiemoglobina, que impede o transporte adequado de oxigênio, e diferem dos sinais observados nas asfixias mecânicas ou nos afogamentos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um cadáver foi encontrado suspenso por um laço em uma viga. O sulco cervical era único, oblíquo ascendente, situado acima da cartilagem tireoide e interrompido no ponto de fixação do laço. Não havia sinais de luta ou outras lesões. Qual modalidade de asfixia e provável natureza do evento se deduzem desses achados?",
+    "options": [
+      "Estrangulamento homicida: sulco horizontal ou múltiplo abaixo da cartilagem tireoide com marcas de luta e escoriações nas mãos.",
+      "Afogamento vital: cutis anserina, maceração das mãos e pés, espuma aquosa nas vias aéreas e água no estômago.",
+      "Sufocação com travesseiro: ausência de sulco, presença de espuma rosada na boca e escoriações ao redor dos lábios.",
+      "Enforcamento suicida: sulco oblíquo ascendente único acima da cartilagem tireoide, ausência de lesões defensivas e posição suspensa da vítima.",
+      "Esganadura manual: ausência de sulco, equimoses digitiformes no pescoço e lesões musculares cervicais."
+    ],
+    "correctIndex": 3,
+    "explanation": "O sulco oblíquo ascendente único, situado acima da cartilagem tireoide e interrompido no nó, associado à ausência de lesões defensivas, caracteriza enforcamento de provável natureza suicida. Estrangulamento e esganadura apresentam sulcos horizontais ou ausentes com sinais de luta, e a sufocação com travesseiro não produz sulco cervical.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um corpo é retirado de um rio após horas submerso. O cadáver apresenta cutis anserina, maceração da pele das mãos, cogumelo de espuma nas vias aéreas e presença de areia sob as unhas. O estômago está cheio de líquido aquoso e há congestão polivisceral com petéquias subpleurais. Esses achados sugerem que a morte ocorreu por:",
+    "options": [
+      "Estrangulamento: sulco horizontal no pescoço, ausência de maceração e ausência de líquidos no estômago.",
+      "Asfixia posicional: ausência de entrada de água, sem maceração das extremidades e congestão facial moderada causada por compressão torácica.",
+      "Afogamento seco (apneia reflexa): laringoespasmo impede a entrada de água nos pulmões e estômago, não ocorrendo maceração das extremidades.",
+      "Afogamento vital: cutis anserina, maceração das mãos, espuma nas vias aéreas e água no estômago indicam que a vítima respirou e deglutiu água enquanto viva.",
+      "Intoxicação por monóxido de carbono: coloração rosa‑cereja da pele, vísceras carmins e ausência de maceração das extremidades."
+    ],
+    "correctIndex": 3,
+    "explanation": "A presença de cutis anserina, maceração das mãos, cogumelo de espuma e água no estômago indica que a vítima respirou e deglutiu água antes de morrer, confirmando um afogamento vital. Afogamento seco, estrangulamento ou intoxicação por monóxido de carbono não apresentam esse conjunto de sinais.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Durante uma tempestade, um tripulante fica preso sob um mastro que cai sobre seu tórax e abdome. O exame cadavérico mostra face cianótica e congesta, numerosas petéquias, cogumelo de espuma na traqueia e ausência de marcas de laço ou obstrução das vias aéreas. Qual tipo de asfixia esse quadro representa?",
+    "options": [
+      "Asfixia mecânica indireta por compressão torácica: o peso do mastro impede a expansão do tórax, embora as vias aéreas estejam livres, causando congestão facial e petéquias.",
+      "Sufocação por obstrução direta de boca e narinas: tampão facial produz escoriações periorais e presença de corpo obstrutor.",
+      "Estrangulamento com laço: sulco horizontal múltiplo abaixo da cartilagem tireoide com marcas de luta e protrusão da língua.",
+      "Enforcamento acidental: formação de sulco cervical oblíquo e fraturas do hioide decorrentes do peso do objeto que pende do pescoço.",
+      "Afogamento seco por laringoespasmo: não há entrada de água nas vias aéreas nem no estômago, e não ocorre compressão torácica externa."
+    ],
+    "correctIndex": 0,
+    "explanation": "Quando a expansão do tórax é impedida por um peso, ocorre asfixia mecânica indireta. O exame revela congestão facial, petéquias e espuma na traqueia, sem sulcos cervicais ou corpos obstrutores. Enforcamento, estrangulamento ou sufocação por obstrução direta apresentam sulcos ou corpos estranhos específicos, e o afogamento seco não envolve compressão externa.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Um cadáver é encontrado no chão de um quarto, com face congesta, língua protrusa e um sulco cervical horizontal e contínuo situado abaixo da cartilagem tireoide, com duas voltas de corda. Há escoriações e sinais de defesa nas mãos. Qual interpretação médico-legal é a mais plausível?",
+    "options": [
+      "Estrangulamento homicida: sulco horizontal contínuo ou múltiplo abaixo da cartilagem tireoide com escoriações de defesa nas mãos, indicando laço apertado por terceiro.",
+      "Enforcamento suicida: sulco oblíquo ascendente único acima da cartilagem tireoide sem marcas de defesa e posição suspensa.",
+      "Sufocação com travesseiro: sem sulco, presença de espuma rosada na boca e escoriações ao redor de nariz e lábios.",
+      "Asfixia posicional: ausência de sulco, congestão facial e traumatismos torácicos causados pela compressão de mobiliário.",
+      "Esganadura manual: ausência de sulco cervical, equimoses digitiformes e lesões musculares cervicais resultantes de compressão manual."
+    ],
+    "correctIndex": 0,
+    "explanation": "O sulco horizontal contínuo abaixo da cartilagem tireoide, com mais de uma volta, associado a escoriações de defesa, é típico do estrangulamento homicida, em que outra pessoa aperta o laço. Enforcamentos suicidas produzem sulco oblíquo ascendente sem marcas defensivas; esganadura e asfixia posicional não formam sulco.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "Duas pessoas são encontradas sem vida em um quarto aquecido com lareira. Os corpos apresentam coloração rosada da pele e mucosas, hipóstases de tonalidade rósea, órgãos internos carmins e sangue fluido com aspecto rosado. Exames laboratoriais mostram carboxiemoglobina elevada. Qual causa de morte é mais compatível com esses achados?",
+    "options": [
+      "Asfixia posicional: congestão facial intensa, livores violáceos, ausência de sulco cervical e compressão torácica prolongada, sem alteração de cor rosada nas mucosas.",
+      "Afogamento vital: cutis anserina, maceração das mãos e pés, cogumelo de espuma aquosa nas vias aéreas e ingestão de água no estômago, sem coloração rosa‑cereja das mucosas.",
+      "Intoxicação por monóxido de carbono: coloração rosa‑cereja da pele e mucosas, hipóstases róseas, vísceras avermelhadas e sangue fluido rosado, devido à formação de carboxiemoglobina e consequente asfixia química.",
+      "Estrangulamento: sulco horizontal múltiplo abaixo da cartilagem tireoide, protrusão da língua, escoriações no pescoço e livores violáceos, sem alteração de cor rosada nas mucosas e órgãos.",
+      "Enforcamento: sulco oblíquo ascendente, fraturas do osso hioide e ausência de coloração rosa‑cereja nas mucosas, apresentando livores violáceos e sinais de suspensão."
+    ],
+    "correctIndex": 2,
+    "explanation": "A coloração rosa‑cereja da pele e mucosas, vísceras avermelhadas e sangue rosado fluido são típicos da intoxicação por monóxido de carbono, pois o gás forma carboxiemoglobina que impede o transporte de oxigênio. Afogamento, enforcamento, estrangulamento e asfixia posicional apresentam sinais diferentes, como maceração, sulcos ou marcas de luta.",
+    "type": "raciocínio"
+  }
+]

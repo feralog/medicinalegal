@@ -1,0 +1,262 @@
+[
+  {
+    "question": "De acordo com o conceito clássico de identidade na antropologia médico‑legal, o que caracteriza a identidade de um indivíduo?",
+    "options": [
+      "Conjunto de atributos permanentes que tornam a pessoa distinta das demais",
+      "Processo de comparar impressões digitais para reconhecer uma pessoa",
+      "A percepção subjetiva que o indivíduo tem de si mesmo",
+      "Lista de características comuns a todos os membros de um grupo social",
+      "Atribuição legal do nome e filiação no registro civil"
+    ],
+    "correctIndex": 0,
+    "explanation": "No estudo da identidade, os autores definem identidade como o conjunto de caracteres que individualiza uma pessoa, tornando‑a diferente de todas as outras【87566598628168†L17-L29】. Não é um processo técnico (como a comparação de impressões digitais), nem uma percepção subjetiva; trata‑se de um conjunto de atributos permanentes que distingue um indivíduo【87566598628168†L17-L33】.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na antropologia médico‑legal, como se define o processo de identificação?",
+    "options": [
+      "Determinação de uma individualidade pela coleta e comparação de caracteres que a tornam única",
+      "Prática de familiares reconhecerem um cadáver pelo rosto",
+      "Registro legal de nascimento com nome e filiação",
+      "Lista de hábitos profissionais e tatuagens de uma pessoa",
+      "Percepção psicológica que cada um tem de ser sempre a mesma pessoa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Identificação é o processo pelo qual se determina a identidade de uma pessoa, ou seja, um conjunto de diligências para levantar características que a tornam única【87566598628168†L66-L73】. Não se resume ao reconhecimento visual por familiares nem ao registro civil e tampouco à percepção psicológica do indivíduo【87566598628168†L66-L73】.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Quais são os requisitos essenciais para um método de identificação ser considerado adequado em antropologia médico‑legal?",
+    "options": [
+      "Uniquidade, imutabilidade relativa, perenidade, praticabilidade e possibilidade de classificação",
+      "Sensibilidade, especificidade, universalidade, baixo custo e ausência de invasividade",
+      "Imutabilidade absoluta, possibilidade de reconstrução facial e rapidez na execução",
+      "Capacidade de revelar informações genéticas, dependência de testemunhas e acessibilidade pública",
+      "Caráter reversível, dependência de tecnologias de última geração e ausência de sigilo legal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Um método de identificação válido deve reunir cinco requisitos: unicidade (cada indivíduo possui traços exclusivos), imutabilidade relativa (esses traços não se modificam facilmente), perenidade (persistem ao longo da vida), praticabilidade (devem ser obtidos sem dificuldade) e classificabilidade (permitem ordenação em bancos de dados)【87566598628168†L159-L179】. Outras características como baixo custo ou rapidez são desejáveis, mas não são listadas como requisitos essenciais no texto.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Qual a diferença principal entre reconhecimento (reconhecimento leigo) e identificação científica de um cadáver?",
+    "options": [
+      "O reconhecimento é uma forma de identificação visual feita por familiares ou conhecidos, enquanto a identificação científica utiliza métodos técnico‑científicos como impressões digitais, odontologia e DNA",
+      "Ambos são procedimentos idênticos, variando apenas quanto ao local de realização",
+      "O reconhecimento depende exclusivamente de exames radiológicos, enquanto a identificação científica depende de registros civis",
+      "O reconhecimento é obrigatório por lei, ao passo que a identificação científica é meramente opcional",
+      "A identificação científica baseia‑se em testemunhos oculares, enquanto o reconhecimento utiliza exames laboratoriais"
+    ],
+    "correctIndex": 0,
+    "explanation": "O reconhecimento leigo é a identificação visual realizada por familiares ou pessoas que conheciam a vítima, e tem caráter subjetivo. A identificação científica, por sua vez, exige a análise de caracteres positivos como impressões digitais, arcada dentária, ossos e DNA, e é necessária quando o reconhecimento não é possível ou confiável【87566598628168†L197-L211】. Portanto, a primeira alternativa traduz corretamente essa distinção.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Segundo Ottolenghi, qual das opções abaixo descreve corretamente o tipo racial caucásico?",
+    "options": [
+      "Pele clara, cabelos ondulados, nariz estreito e face relativamente angulosa",
+      "Pele amarelada, cabelos lisos e grossos, nariz largo e face achatada",
+      "Pele escura, cabelos crespos, nariz muito amplo e maxila projetada",
+      "Pele parda avermelhada, cabelos ondulados longos, nariz em forma de gancho e queixo recuado",
+      "Pele negra, cabelos crespos curtos, nariz largo e prognatismo facial acentuado"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ottolenghi descreve o tipo caucásico como apresentando pele de tonalidade clara, cabelos geralmente ondulados, nariz estreito e alongado e traços faciais moderados【87566598628168†L306-L333】. As demais alternativas correspondem a características mongólicas, negroídes ou outras categorias étnicas, não ao tipo caucásico.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Um crânio com índice cefálico de 82 é classificado como:\n(Índice cefálico = largura máxima do crânio/ comprimento máximo × 100)",
+    "options": [
+      "Braquicéfalo, pois valores acima de 80 indicam crânio largo em relação ao comprimento",
+      "Dolicocéfalo, pois valores abaixo de 75 indicam crânio estreito",
+      "Mesaticéfalo, pois valores entre 75 e 80 caracterizam crânios médios",
+      "Mesobranquiocéfalo, denominação reservada para valores entre 80 e 85",
+      "Indeterminado, pois o índice cefálico não serve para essa classificação"
+    ],
+    "correctIndex": 0,
+    "explanation": "O índice cefálico divide‑se em dolicocéfalo (<75), mesaticéfalo (75–80) e braquicéfalo (>80)【87566598628168†L354-L360】. Um valor de 82 enquadra‑se na categoria braquicéfala, indicando crânio relativamente curto e largo. As demais alternativas apresentam faixas incorretas ou inexistentes.",
+    "type": "conteudista"
+  },
+  {
+    "question": "O índice tibiofemoral, empregado na antropologia médico‑legal para auxiliar na determinação de ancestralidade, apresenta valores médios de aproximadamente:\n(Índice = diâmetro transverso da tíbia/ diâmetro transverso do fêmur × 100)",
+    "options": [
+      "83–84 em indivíduos brancos e 87–88 em indivíduos negros, sugerindo maior proporção tibial nos negros",
+      "90–92 em indivíduos brancos e 80–82 em indivíduos negros, indicando tíbias mais curtas nos negros",
+      "75–76 em indivíduos brancos e 100–105 em indivíduos negros, refletindo forte dimorfismo sexual",
+      "87–88 em indivíduos brancos e 83–84 em indivíduos negros, demonstrando tíbias mais largas nos brancos",
+      "92–93 em todos os grupos raciais, demonstrando ausência de diferença entre populações"
+    ],
+    "correctIndex": 0,
+    "explanation": "O índice tibiofemoral é calculado dividindo‑se o diâmetro transverso da tíbia pelo do fêmur, multiplicado por 100. Valores médios de aproximadamente 83,5 foram observados em brancos, enquanto cerca de 87,5 foram encontrados em indivíduos negros【87566598628168†L361-L369】. Isso indica que o valor tende a ser um pouco maior em pessoas de origem africana. As demais alternativas apresentam faixas invertidas ou exageradas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "No contexto da determinação do sexo, qual elemento define o sexo cromossômico (genético)?",
+    "options": [
+      "A composição dos cromossomos sexuais (XX ou XY) presente em todas as células",
+      "A forma e a aparência dos genitais externos observados ao nascimento",
+      "A presença ou ausência de características secundárias como barba e voz grave",
+      "O género registrado na certidão de nascimento conforme a legislação",
+      "A percepção psicológica do indivíduo sobre sua identidade sexual"
+    ],
+    "correctIndex": 0,
+    "explanation": "Os tipos de sexo enumerados incluem o cromossômico, gonadal, morfológico e outros. O sexo cromossômico (ou genético) é determinado pela combinação de cromossomos sexuais – XX para fêmea e XY para macho – presente em cada célula【87566598628168†L441-L478】. Não se confunde com a aparência externa, os caracteres secundários ou a percepção psicológica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Em relação ao dimorfismo sexual do esqueleto, qual característica a seguir é típica do crânio masculino?",
+    "options": [
+      "Mandíbula robusta, arco supraorbital espesso e processos mastoides proeminentes",
+      "Forame supraorbital reduzido, fronte verticalizada e mandíbula delgada",
+      "Crista nucal pouco desenvolvida, ossos finos e face arredondada",
+      "Borda supraorbitária suave, eminências frontais discretas e queixo pontiagudo",
+      "Maxila curta, face delicada e tubérculos mastoides muito pequenos"
+    ],
+    "correctIndex": 0,
+    "explanation": "O crânio masculino apresenta ossos mais grossos, mandíbula robusta e mais angulada, glabela e arco supraorbital salientes, processos mastoides volumosos e crista nucal pronunciada【87566598628168†L504-L523】. As demais opções descrevem traços delicados e linhas suaves características do crânio feminino.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na craniometria proposta por Galvão, a soma das medidas de dez diâmetros obtidos a partir do conduto auditivo externo é usada principalmente para:\n(Considere que a soma inferior a 1000 mm sugere determinado sexo)",
+    "options": [
+      "Inferir o sexo do indivíduo, pois valores menores que 1000 mm sugerem crânio feminino",
+      "Determinar a idade pela progressão da sinostose das suturas cranianas",
+      "Classificar o crânio em dolicocéfalo ou braquicéfalo",
+      "Atribuir a ancestralidade racial com base na proporção craniana",
+      "Avaliar se há fraturas cranianas decorrentes de trauma"
+    ],
+    "correctIndex": 0,
+    "explanation": "O método de Galvão consiste em medir dez diâmetros do crânio partindo do conduto auditivo externo. A soma dessas medidas permite inferir o sexo: valores abaixo de 1000 mm são compatíveis com crânios femininos, enquanto valores superiores sugerem crânios masculinos【87566598628168†L568-L575】. O método não se destina a determinar idade, raça ou lesões traumáticas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Ao avaliar a dentição para estimar idade, qual idade aproximada indica uma fórmula dental de 14/14?",
+    "options": [
+      "Entre 14 e 18 anos, pois os terceiros molares ainda não erupcionaram",
+      "Menos de 14 anos, pois apenas a dentição decídua está presente",
+      "Mais de 18 anos, pois todos os dentes permanentes estão completos",
+      "Cerca de 30 anos, com todos os molares erupcionados há décadas",
+      "Entre 6 e 8 anos, fase de troca dos incisivos centrais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Na antropologia odontológica utiliza‑se a fórmula dental (número de dentes de cada hemiarcada). A fórmula 12/12 corresponde a crianças com menos de 14 anos; 14/14 é típica de adolescentes entre 14 e 18 anos; 16/16 indica adultos, pois os terceiros molares já erupcionaram【87566598628168†L909-L924】. Portanto, 14/14 sugere idade aproximada entre 14 e 18 anos.",
+    "type": "conteudista"
+  },
+  {
+    "question": "No método radiológico de estimativa de idade usando radiografia da mão e punho, a epífise distal do rádio normalmente aparece (ossifica) em que faixa etária?",
+    "options": [
+      "Por volta de 18 a 24 meses de vida, servindo como referência precoce de maturação esquelética",
+      "Entre 5 e 8 anos de idade, coincidindo com a fusão da epífise da ulna",
+      "Entre 8 e 10 anos de idade, concomitantemente com a ossificação dos ossos do carpo",
+      "Aos 12 a 14 anos, quando ocorre o fechamento das epífises das falanges",
+      "Somente após os 18 anos, durante a fase de crescimento tardio"
+    ],
+    "correctIndex": 0,
+    "explanation": "A radiografia do punho e mão permite avaliar a sequência de ossificação das epífises. A epífise distal do rádio surge entre 18 e 24 meses de vida, sendo um dos primeiros núcleos de ossificação observados【87566598628168†L1098-L1123】. Outras epífises, como a da ulna ou dos ossos do carpo, aparecem mais tarde.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Para que a identificação odontológica seja possível, quais dados devem constar em um prontuário dentário de referência?",
+    "options": [
+      "Posição de cada dente, presença de cáries, restaurações, próteses e características de cor ou forma",
+      "Comprimento dos ossos dos membros, perímetro craniano e peso corporal",
+      "Número de vértebras cervicais e torácicas, além de dados antropométricos gerais",
+      "Padronização dos diâmetros torácicos, pélvicos e abdominais do indivíduo",
+      "Descrição da arcada auricular, formato do nariz e pigmentação ocular"
+    ],
+    "correctIndex": 0,
+    "explanation": "A identificação odontológica requer um prontuário detalhado com a posição de cada dente, registros de cáries, restaurações, extrações, próteses e particularidades quanto a cor, forma e malformações【87566598628168†L3844-L3859】. Dados antropométricos gerais ou características faciais não substituem essa documentação específica.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Uma das limitações da identificação pelo estudo dos dentes é:\n",
+    "options": [
+      "A necessidade de registros antemortem detalhados e a possibilidade de alterações naturais ou terapêuticas na dentição ao longo da vida",
+      "A incapacidade total de distinguir dentes superiores dos inferiores em radiografias",
+      "A inexistência de variações individuais entre arcadas dentárias humanas",
+      "A proibição legal de utilizar prontuários odontológicos em investigações criminais",
+      "A impossibilidade de identificar adultos quando os terceiros molares foram extraídos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Embora muito valiosa, a identificação odontológica apresenta limitações: exige a existência de prontuários antemortem bem detalhados, as características dentárias podem sofrer alterações com extrações, tratamentos e desgastes, e nem sempre existe um sistema rotineiro de registro em consultórios【87566598628168†L3906-L3916】. Isso dificulta a comparação pós‑mortem. As demais alternativas não representam limitações descritas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "Na classificação datiloscópica, um desenho digital com dois deltas corresponde a que tipo de figura?",
+    "options": [
+      "Verticilo, pois apresenta duas bifurcações nas linhas papilares",
+      "Presilha externa, caracterizada por um delta voltado para o lado radial",
+      "Presilha interna, com um delta voltado para o lado ulnar",
+      "Arco, que possui linhas paralelas sem deltas",
+      "Arco em tenda, variação com três deltas visíveis"
+    ],
+    "correctIndex": 0,
+    "explanation": "A datiloscopia classifica os desenhos papilares em verticilo, presilha externa, presilha interna e arco. O verticilo é definido pela presença de dois deltas, formando uma figura circular ou espiral【87566598628168†L5821-L5832】. As presilhas apresentam apenas um delta e o arco não possui deltas.",
+    "type": "conteudista"
+  },
+  {
+    "question": "De acordo com a regra clássica para confronto de impressões digitais, quantos pontos característicos devem coincidir para que se conclua pela identidade?",
+    "options": [
+      "Doze pontos coincidentes, tornando praticamente impossível a ocorrência por acaso",
+      "Cinco pontos coincidentes, pois bastam algumas cristas papilares iguais",
+      "Oito pontos coincidentes, sem necessidade de coincidência de deltas",
+      "Vinte pontos coincidentes, estabelecidos por convenção internacional",
+      "Vinte e cinco pontos coincidentes, exigidos apenas em casos de crimes hediondos"
+    ],
+    "correctIndex": 0,
+    "explanation": "A comparação de impressões digitais leva em conta a coincidência de pontos característicos (bifurcações, ilhotas, terminações). Tradicionalmente, considera‑se que a coincidência de 12 pontos é suficiente para afirmar a identidade, pois a probabilidade de ocorrência fortuita é extremamente baixa【87566598628168†L5888-L5891】. Menos pontos aumentam o risco de erro, enquanto exigir números muito altos não é prático.",
+    "type": "conteudista"
+  },
+  {
+    "question": "[Caso prático] Um cadáver carbonizado foi encontrado com destruição extensa dos tecidos moles, preservando apenas ossos e parte da dentição. Para a identificação do indivíduo, qual combinação de métodos é mais apropriada?",
+    "options": [
+      "Análise odontológica dos dentes remanescentes e, se possível, exame de DNA extraído da polpa ou de ossos",
+      "Leitura de impressões digitais obtidas na pele carbonizada",
+      "Reconhecimento visual por familiares a partir do rosto carbonizado",
+      "Medida da pressão arterial e frequência cardíaca do cadáver",
+      "Determinação da voz da vítima por gravações recuperadas do local"
+    ],
+    "correctIndex": 0,
+    "explanation": "Em cadáveres carbonizados, as impressões digitais e outras características superficiais são destruídas. Os dentes, contudo, são estruturas muito resistentes ao calor; compará‑los com prontuários odontológicos e, quando possível, extrair DNA da polpa dentária ou de ossos são métodos indicados para identificação【87566598628168†L3844-L3859】. Reconhecimento visual ou dados fisiológicos não são viáveis nesse cenário.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "[Caso prático] Ossos isolados sem mandíbula e em estado de esqueletização foram localizados em uma mata. Qual abordagem é mais indicada para estimar sexo e idade?",
+    "options": [
+      "Análise dos ossos longos e do crânio, incluindo avaliação de epífises e características sexuais secundárias",
+      "Coleta de impressões digitais diretamente do osso",
+      "Determinação da cor dos olhos a partir da órbita",
+      "Avaliação da composição da voz por meio de gravações antigas",
+      "Medida da temperatura corporal e tempo de decesso"
+    ],
+    "correctIndex": 0,
+    "explanation": "Quando apenas restos esqueléticos estão disponíveis, a determinação de idade e sexo é feita por meio de antropometria e osteologia: examinam‑se crânio e ossos longos, observam‑se epífises abertas ou fusionadas, e avaliam‑se traços de dimorfismo sexual【87566598628168†L504-L523】【87566598628168†L1098-L1123】. Impressões digitais, cor dos olhos ou voz não podem ser obtidas de ossos isolados.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "[Interpretação] Um crânio apresenta índice cefálico de 84, índice tibiofemoral de 83 e ângulo facial de aproximadamente 76°. Com base nesses valores, a ancestralidade provável é:\n",
+    "options": [
+      "Caucásica, pois o crânio é braquicéfalo (>80), o índice tibiofemoral aproxima‑se de 83 e o ângulo facial é de cerca de 76°",
+      "Mongólica, pois o índice cefálico elevado e o ângulo facial de 76° sugerem esse grupo",
+      "Negroide, devido ao ângulo facial grande e ao índice tibiofemoral baixo",
+      "Indiana, pela combinação de crânio braquicéfalo e índice tibiofemoral reduzido",
+      "Australoide, pois os valores indicam prognatismo acentuado e crânio alongado"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ancestralidade pode ser inferida por diversos parâmetros. Um índice cefálico de 84 caracteriza um crânio braquicéfalo, comum em caucasóides e mongolóides; o ângulo facial de 76° aproxima‑se do valor típico de caucasianos (76,5°)【87566598628168†L374-L380】; o índice tibiofemoral próximo de 83 coincide com a média observada em brancos【87566598628168†L361-L369】. Por isso, a opção caucásica é a mais compatível. As demais alternativas combinam valores contraditórios.",
+    "type": "raciocínio"
+  },
+  {
+    "question": "[Caso prático] Um corpo mumificado com partes moles preservadas foi encontrado enterrado há vários meses. Qual sequência de procedimentos identificatórios é mais adequada?",
+    "options": [
+      "Exame odontológico detalhado, antropometria dos ossos e, se disponível, comparação radiológica com registros anteriores",
+      "Identificação por impressões digitais imediatamente, pois a pele está íntegra",
+      "Testes toxicológicos e dosagem alcoólica para inferir a identidade",
+      "Avaliação do timbre da voz a partir dos resquícios de laringe",
+      "Medição da pressão arterial e glicemia capilar para diferenciar indivíduos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Em corpos mumificados, pode haver preservação de ossos e parte da dentição. A identificação deve priorizar métodos resistentes ao tempo: exame odontológico comparado a prontuários, medidas antropométricas dos ossos e, quando existirem radiografias antemortem, superposição radiológica ou craniométrica【87566598628168†L3844-L3859】【87566598628168†L568-L575】. Impressões digitais raramente são recuperadas de tecidos ressequidos, e parâmetros fisiológicos ou toxicológicos não revelam identidade.",
+    "type": "raciocínio"
+  }
+]
