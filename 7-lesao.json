@@ -2,11 +2,11 @@
   {
     "question": "Qual é o conceito jurídico‑penal de lesão corporal segundo o art. 129 do Código Penal?",
     "options": [
-      "Ofensa à integridade corporal ou à saúde de alguém, causando qualquer dano anatômico, funcional ou mental", 
-      "Apenas ferimentos superficiais que cicatrizam sem deixar sequelas", 
-      "Ação que resulta exclusivamente na morte da vítima", 
-      "Ofensa apenas psicológica sem qualquer repercussão física", 
-      "Somente a perda de membros ou sentidos principais como braços ou olhos"
+      "Ofensa à integridade corporal ou à saúde de alguém, causando qualquer dano anatômico, funcional ou mental",
+      "Somente a perda de membros ou sentidos principais como braços ou olhos",
+      "Ofensa apenas psicológica sem qualquer repercussão física",
+      "Apenas ferimentos superficiais que cicatrizam sem deixar sequelas",
+      "Ação que resulta exclusivamente na morte da vítima"
     ],
     "correctIndex": 0,
     "explanation": "O art. 129 do Código Penal define lesão corporal como ofensa à integridade corporal ou à saúde da vítima, abrangendo qualquer dano anatômico, fisiológico ou mental que modifique o funcionamento normal do corpo【550527429706474†L140-L149】. Portanto, ferimentos superficiais, lesões que resultam em morte ou exclusivamente psicológicas não esgotam o conceito legal.",
@@ -15,75 +15,75 @@
   {
     "question": "No âmbito da medicina legal, como se classificam as lesões corporais em função da gravidade?",
     "options": [
-      "Leve, grave e gravíssima", 
-      "Simples, moderada e severa", 
-      "Menor, média, maior e letal", 
-      "Inicial, intermediária e terminal", 
-      "Aguda, crônica e incurável"
+      "Inicial, intermediária e terminal",
+      "Simples, moderada e severa",
+      "Leve, grave e gravíssima",
+      "Aguda, crônica e incurável",
+      "Menor, média, maior e letal"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "A legislação brasileira, refletida no art. 129 do Código Penal, divide as lesões corporais em três níveis: lesão leve (caput), lesão grave (§ 1º) e lesão gravíssima (§ 2º). Não existe subdivisão em 'moderada', 'severa' ou categorias cronológicas; essas nomenclaturas seriam imprecisas.",
     "type": "conteudista"
   },
   {
     "question": "Quais são os critérios para que uma lesão corporal seja considerada de natureza grave?",
     "options": [
-      "Incapacidade para as ocupações habituais por mais de 30 dias, perigo de vida, debilidade permanente de membro/sentido/função e aceleração de parto", 
-      "Incapacidade permanente para o trabalho, perda de membro ou sentido, deformidade permanente e aborto", 
-      "Qualquer ferimento que cause dor intensa por mais de sete dias", 
-      "Só quando há risco de morte imediato sem necessidade de tratamento médico", 
-      "Apenas quando há fratura de ossos longos ou amputação de dedos"
+      "Incapacidade permanente para o trabalho, perda de membro ou sentido, deformidade permanente e aborto",
+      "Só quando há risco de morte imediato sem necessidade de tratamento médico",
+      "Incapacidade para as ocupações habituais por mais de 30 dias, perigo de vida, debilidade permanente de membro/sentido/função e aceleração de parto",
+      "Apenas quando há fratura de ossos longos ou amputação de dedos",
+      "Qualquer ferimento que cause dor intensa por mais de sete dias"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "O parágrafo 1º do art. 129 estabelece que a lesão corporal será qualificada como grave quando resultar incapacidade para as ocupações habituais por mais de trinta dias, perigo de vida, debilidade permanente de membro, sentido ou função, ou aceleração de parto【287051749618227†L532-L540】. Outros critérios, como perda total de membro ou incapacidade permanente para o trabalho, pertencem à classificação de gravíssima【287051749618227†L520-L527】.",
     "type": "conteudista"
   },
   {
     "question": "O que se entende por incapacidade para as ocupações habituais na qualificação de lesão grave?",
     "options": [
-      "Impossibilidade de realizar atividades costumeiras, laborais ou recreativas, incluindo higiene pessoal e lazer, por mais de 30 dias", 
-      "Apenas ausência ao trabalho remunerado por período indeterminado", 
-      "Somente incapacidade de praticar atividades físicas intensas como esportes competitivos", 
-      "Apenas a impossibilidade permanente de exercer qualquer profissão", 
-      "Qualquer dor ou desconforto que dure mais de uma semana"
+      "Impossibilidade de realizar atividades costumeiras, laborais ou recreativas, incluindo higiene pessoal e lazer, por mais de 30 dias",
+      "Qualquer dor ou desconforto que dure mais de uma semana",
+      "Apenas ausência ao trabalho remunerado por período indeterminado",
+      "Apenas a impossibilidade permanente de exercer qualquer profissão",
+      "Somente incapacidade de praticar atividades físicas intensas como esportes competitivos"
     ],
     "correctIndex": 0,
-    "explanation": "A incapacidade para as ocupações habituais refere‑se à impossibilidade de desempenhar as atividades rotineiras do indivíduo, sejam elas laborais, recreativas ou de auto‑cuidado, por período superior a trinta dias【550527429706474†L253-L262】. Ela não se restringe apenas ao trabalho remunerado e não se confunde com incapacidade permanente para o trabalho (critério de gravíssima).", 
+    "explanation": "A incapacidade para as ocupações habituais refere‑se à impossibilidade de desempenhar as atividades rotineiras do indivíduo, sejam elas laborais, recreativas ou de auto‑cuidado, por período superior a trinta dias【550527429706474†L253-L262】. Ela não se restringe apenas ao trabalho remunerado e não se confunde com incapacidade permanente para o trabalho (critério de gravíssima).",
     "type": "conteudista"
   },
   {
     "question": "Em relação à debilidade permanente prevista como qualificadora de lesão grave, qual é o entendimento correto?",
     "options": [
-      "É a redução duradoura da capacidade de uso de um membro, sentido ou função, sem perda total", 
-      "É a perda completa e definitiva de um órgão ou função", 
-      "Refere‑se apenas a incapacidades temporárias e reversíveis", 
-      "Diz respeito exclusivamente à saúde mental, sem relação com funções corporais", 
-      "Abrange somente deformidades estéticas que não afetam funções"
+      "Abrange somente deformidades estéticas que não afetam funções",
+      "É a redução duradoura da capacidade de uso de um membro, sentido ou função, sem perda total",
+      "Diz respeito exclusivamente à saúde mental, sem relação com funções corporais",
+      "É a perda completa e definitiva de um órgão ou função",
+      "Refere‑se apenas a incapacidades temporárias e reversíveis"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Debilidade permanente significa diminuição duradoura da capacidade de utilização de um membro, sentido ou função, mantendo‑se parte da funcionalidade【550527429706474†L320-L330】. A perda total ou inutilização do órgão caracteriza lesão gravíssima【550527429706474†L346-L349】. Portanto, não se trata de incapacidade temporária nem se limita à esfera psicológica.",
     "type": "conteudista"
   },
   {
     "question": "Qual afirmação descreve corretamente a diferença entre debilidade e perda de um órgão ou sentido?",
     "options": [
-      "A debilidade implica redução da capacidade funcional, enquanto a perda é a inutilização total", 
-      "Ambas significam o desaparecimento completo do órgão acometido", 
-      "A debilidade se aplica apenas a órgãos internos, e a perda apenas a membros externos", 
-      "A perda é considerada grave e a debilidade é classificada como gravíssima", 
-      "A debilidade sempre evolui para perda, sendo ambas iguais para fins legais"
+      "A debilidade sempre evolui para perda, sendo ambas iguais para fins legais",
+      "A perda é considerada grave e a debilidade é classificada como gravíssima",
+      "Ambas significam o desaparecimento completo do órgão acometido",
+      "A debilidade implica redução da capacidade funcional, enquanto a perda é a inutilização total",
+      "A debilidade se aplica apenas a órgãos internos, e a perda apenas a membros externos"
     ],
-    "correctIndex": 0,
+    "correctIndex": 3,
     "explanation": "No regime do art. 129, a debilidade traduz uma diminuição permanente da função, mas não extinção completa, como no caso de alguém que passa a mancar após fratura【287051749618227†L584-L588】. A perda ou inutilização total do membro, sentido ou função constitui lesão gravíssima【550527429706474†L369-L375】. Por isso, as expressões têm significados distintos e importam classificações diferentes.",
     "type": "conteudista"
   },
   {
     "question": "Segundo a classificação da lesão gravíssima, quais situações estão contempladas no § 2º do art. 129?",
     "options": [
-      "Incapacidade permanente para o trabalho, enfermidade incurável, perda ou inutilização de membro, sentido ou função, deformidade permanente e aborto", 
-      "Incapacidade para as ocupações habituais, debilidade permanente, aceleração de parto e perigo de vida,  deformidade permanente e aborto", 
-      "Qualquer fratura de ossos longos ou amputação de dedo mínimo, aceleração de parto e perigo de vida", 
-      "Fissuras cutâneas superficiais que cicatrizam em menos de 30 dias", 
+      "Incapacidade permanente para o trabalho, enfermidade incurável, perda ou inutilização de membro, sentido ou função, deformidade permanente e aborto",
+      "Fissuras cutâneas superficiais que cicatrizam em menos de 30 dias",
+      "Incapacidade para as ocupações habituais, debilidade permanente, aceleração de parto e perigo de vida,  deformidade permanente e aborto",
+      "Qualquer fratura de ossos longos ou amputação de dedo mínimo, aceleração de parto e perigo de vida",
       "Somente doenças graves tratáveis e lesões que causam dor crônica"
     ],
     "correctIndex": 0,
@@ -93,63 +93,63 @@
   {
     "question": "Por que a aquisição de uma enfermidade incurável após uma agressão qualifica a lesão como gravíssima?",
     "options": [
-      "Porque se trata de alteração da saúde que não pode ser eficazmente combatida pelos recursos médicos e implica sofrimento duradouro", 
-      "Porque qualquer doença, mesmo que facilmente tratável, transforma uma lesão leve em gravíssima", 
-      "Porque toda enfermidade leva obrigatoriamente à perda de membro ou sentido", 
-      "Porque é necessária apenas a suspeita de contaminação, sem prova pericial", 
+      "Porque qualquer doença, mesmo que facilmente tratável, transforma uma lesão leve em gravíssima",
+      "Porque é necessária apenas a suspeita de contaminação, sem prova pericial",
+      "Porque toda enfermidade leva obrigatoriamente à perda de membro ou sentido",
+      "Porque se trata de alteração da saúde que não pode ser eficazmente combatida pelos recursos médicos e implica sofrimento duradouro",
       "Porque só doenças hereditárias são consideradas incuráveis"
     ],
-    "correctIndex": 0,
+    "correctIndex": 3,
     "explanation": "A enfermidade incurável é descrita como alteração prejudicial da saúde, de causa física ou psíquica, que não pode ser eficazmente combatida com os recursos médicos disponíveis【550527429706474†L416-L425】. A lei exige comprovação pericial e considera esse resultado gravíssimo pela repercussão permanente na vida da vítima. Doenças tratáveis ou simples suspeitas não preenchem o requisito.",
     "type": "conteudista"
   },
   {
     "question": "Em que situação a deformidade permanente configura lesão gravíssima?",
     "options": [
-      "Quando altera a forma ou a função do corpo de maneira irreversível", 
-      "Quando a cicatriz é discreta e fica oculta sob a roupa", 
-      "Somente quando afeta a face, independentemente do tamanho", 
-      "Apenas se houver dor intensa associada à deformidade", 
+      "Apenas se houver dor intensa associada à deformidade",
+      "Quando altera a forma ou a função do corpo de maneira irreversível",
+      "Somente quando afeta a face, independentemente do tamanho",
+      "Quando a cicatriz é discreta e fica oculta sob a roupa",
       "Apenas se a deformidade resultar de procedimento cirúrgico voluntário"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "A deformidade permanente enquadra‑se como lesão gravíssima quando causa alteração morfológica duradoura ou irreversível, perceptível e capaz de comprometer a aparência ou a função do corpo【287051749618227†L520-L527】. Pequenas cicatrizes ocultas ou alterações corrigíveis não configuram essa qualificadora.",
     "type": "conteudista"
   },
   {
     "question": "Qual das situações abaixo caracteriza lesão corporal grave pelo critério de perigo de vida?",
     "options": [
-      "Ferimento torácico que gerou pneumotórax e exigiu drenagem para evitar parada respiratória", 
-      "Corte superficial em dedo indicador sem necessidade de sutura", 
-      "Pequena equimose no braço decorrente de beliscão", 
-      "Fratura nasal alinhada sem risco respiratório", 
-      "Luxação de tornozelo imobilizada com tala de gesso por sete dias"
+      "Luxação de tornozelo imobilizada com tala de gesso por sete dias",
+      "Fratura nasal alinhada sem risco respiratório",
+      "Pequena equimose no braço decorrente de beliscão",
+      "Ferimento torácico que gerou pneumotórax e exigiu drenagem para evitar parada respiratória",
+      "Corte superficial em dedo indicador sem necessidade de sutura"
     ],
-    "correctIndex": 0,
+    "correctIndex": 3,
     "explanation": "O perigo de vida, descrito como qualificadora de lesão grave, exige possibilidade concreta e imediata de morte em razão das lesões【287051749618227†L599-L606】. Um pneumotórax hipertensivo, se não drenado, pode causar desvio de mediastino e parada respiratória, configurando perigo de vida. Lesões superficiais ou que não ameaçam a vida não se enquadram nesse critério.",
     "type": "conteudista"
   },
   {
     "question": "Quando a aceleração do parto é considerada critério de lesão grave?",
     "options": [
-      "Quando uma agressão antecipa o parto e o bebê nasce vivo", 
-      "Somente quando a criança nasce morta (aborto)", 
-      "Apenas quando a gestante não sabia da gravidez", 
-      "Quando o parto prematuro ocorre por causas naturais sem relação com agressão", 
-      "Quando a gestante decide voluntariamente adiantar o parto por preferência"
+      "Quando o parto prematuro ocorre por causas naturais sem relação com agressão",
+      "Apenas quando a gestante não sabia da gravidez",
+      "Quando a gestante decide voluntariamente adiantar o parto por preferência",
+      "Quando uma agressão antecipa o parto e o bebê nasce vivo",
+      "Somente quando a criança nasce morta (aborto)"
     ],
-    "correctIndex": 0,
+    "correctIndex": 3,
     "explanation": "A aceleração de parto é uma das hipóteses de lesão grave: ocorre quando a agressão precipita o nascimento de um bebê que nasce vivo, ainda que prematuro, e expõe mãe e feto a riscos【287051749618227†L539-L540】. Se a agressão resulta em aborto (feto nasce morto), a classificação é gravíssima【287051749618227†L653-L656】. A antecipação voluntária ou natural do parto não se relaciona com esse critério.",
     "type": "conteudista"
   },
   {
     "question": "Qual evento determina que a lesão corporal seja classificada como gravíssima em razão de aborto?",
     "options": [
-      "Agressão que provoca interrupção da gestação com nascimento sem vida, independentemente da idade gestacional", 
-      "Qualquer parto prematuro em que o bebê sobrevive", 
-      "Perda espontânea da gestação sem relação com agressão", 
-      "Cesárea agendada por motivos clínicos na 39ª semana", 
-      "Gestante que sofre queda, mas a gestação continua até o termo"
+      "Agressão que provoca interrupção da gestação com nascimento sem vida, independentemente da idade gestacional",
+      "Qualquer parto prematuro em que o bebê sobrevive",
+      "Gestante que sofre queda, mas a gestação continua até o termo",
+      "Perda espontânea da gestação sem relação com agressão",
+      "Cesárea agendada por motivos clínicos na 39ª semana"
     ],
     "correctIndex": 0,
     "explanation": "O aborto decorrente de violência é critério de lesão gravíssima: se a agressão provoca a interrupção da gestação e o feto nasce morto, a lei enquadra o resultado como gravíssimo, independentemente do tempo gestacional【287051749618227†L653-L656】. Quando o parto é acelerado e o bebê nasce vivo, trata‑se de lesão grave【287051749618227†L659-L660】.",
@@ -158,89 +158,89 @@
   {
     "question": "Como são classificadas as lesões corporais simples de acordo com o mecanismo de ação do agente?",
     "options": [
-      "Lesões cortantes, perfurantes ou contusas, produzidas isoladamente por instrumentos que cortam, perfuram ou contudem", 
-      "Apenas lesões que combinam corte e perfuração no mesmo golpe, produzidas isoladamente por instrumentos que cortam, perfuram ou contudem", 
-      "Qualquer lesão que cause a morte instantânea, produzidas isoladamente por instrumentos que cortam, perfuram ou contudem", 
-      "Lesões que envolvem agentes químicos como ácidos ou bases, produzidas isoladamente por instrumentos que cortam, perfuram ou contudem", 
-      "Somente contusões que resultam em fraturas complexas, produzidas isoladamente por instrumentos que cortam, perfuram ou contudem"
+      "Somente contusões que resultam em fraturas complexas, produzidas isoladamente por instrumentos que cortam, perfuram ou contudem",
+      "Lesões que envolvem agentes químicos como ácidos ou bases, produzidas isoladamente por instrumentos que cortam, perfuram ou contudem",
+      "Apenas lesões que combinam corte e perfuração no mesmo golpe, produzidas isoladamente por instrumentos que cortam, perfuram ou contudem",
+      "Lesões cortantes, perfurantes ou contusas, produzidas isoladamente por instrumentos que cortam, perfuram ou contudem",
+      "Qualquer lesão que cause a morte instantânea, produzidas isoladamente por instrumentos que cortam, perfuram ou contudem"
     ],
-    "correctIndex": 0,
+    "correctIndex": 3,
     "explanation": "As lesões simples são classificadas conforme o tipo de energia aplicada: podem ser cortantes (produzidas por instrumentos que seccionam), perfurantes (pontiagudos) ou contusas (golpes rombos). Lesões complexas resultam da combinação desses mecanismos, como perfurocortantes【287051749618227†L697-L704】. O item correto menciona as três modalidades simples.",
     "type": "conteudista"
   },
   {
     "question": "Quais são as penas previstas para lesão corporal leve, grave e gravíssima, de acordo com a aula?",
     "options": [
-      "De três meses a um ano para leve, de um a cinco anos para grave, e de dois a oito anos para gravíssima", 
-      "De um a três anos para leve, de quatro a seis anos para grave, e de dez a doze anos para gravíssima", 
-      "Pena igual a seis meses para leve, dois anos para grave e quatro anos para gravíssima", 
-      "Somente multa para leve, prisão de cinco anos para grave e prisão perpétua para gravíssima", 
-      "Detenção de um ano para todas as modalidades, variando apenas a multa aplicada"
+      "De um a três anos para leve, de quatro a seis anos para grave, e de dez a doze anos para gravíssima",
+      "Somente multa para leve, prisão de cinco anos para grave e prisão perpétua para gravíssima",
+      "Detenção de um ano para todas as modalidades, variando apenas a multa aplicada",
+      "De três meses a um ano para leve, de um a cinco anos para grave, e de dois a oito anos para gravíssima",
+      "Pena igual a seis meses para leve, dois anos para grave e quatro anos para gravíssima"
     ],
-    "correctIndex": 0,
+    "correctIndex": 3,
     "explanation": "O professor destacou que, segundo o Código Penal, a pena para lesão leve é de três meses a um ano; para lesão grave, reclusão de um a cinco anos; e para lesão gravíssima, reclusão de dois a oito anos【287051749618227†L543-L551】. Esses intervalos refletem a gravidade crescente e não incluem penas fixas ou perpétuas.",
     "type": "conteudista"
   },
   {
     "question": "Por que o médico legista pode solicitar exame complementar ao classificar uma lesão corporal?",
     "options": [
-      "Porque a gravidade só pode ser determinada após a evolução da lesão, necessitando reavaliação para verificar incapacidade ou sequelas permanentes", 
-      "Para aumentar o valor da perícia e beneficiar financeiramente o perito", 
-      "Para adiar a decisão judicial e favorecer a defesa do agressor", 
-      "Porque a lei exige dois laudos em qualquer caso de lesão", 
+      "Porque a lei exige dois laudos em qualquer caso de lesão",
+      "Para aumentar o valor da perícia e beneficiar financeiramente o perito",
+      "Porque a gravidade só pode ser determinada após a evolução da lesão, necessitando reavaliação para verificar incapacidade ou sequelas permanentes",
+      "Para adiar a decisão judicial e favorecer a defesa do agressor",
       "Nenhuma das alternativas"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "O laudo inicial pode não revelar a extensão definitiva dos danos; fraturas e lesões podem evoluir para osteomielite, gangrena ou amputação, alterando a classificação de grave para gravíssima. Por isso, o médico legista solicita exame complementar, esperando a alta do tratamento para avaliar incapacidade ou perda permanente【287051749618227†L675-L693】. Não se trata de interesse financeiro nem de exigência formal sem fundamento.",
     "type": "conteudista"
   },
   {
     "question": "Qual a principal diferença entre incapacidade para as ocupações habituais e incapacidade permanente para o trabalho?",
     "options": [
-      "A primeira refere‑se a atividades por mais de 30 dias, enquanto a segunda, impossibilidade duradoura de exercer qualquer atividade laborativa", 
-      "A incapacidade para as ocupações habituais só se aplica a trabalhadores com carteira assinada", 
-      "Ambas significam a mesma coisa e são usadas de forma intercambiável", 
-      "A primeira exige prova pericial, e a segunda não", 
-      "A incapacidade permanente para o trabalho abrange apenas incapacidade de praticar esportes" 
+      "A incapacidade para as ocupações habituais só se aplica a trabalhadores com carteira assinada",
+      "Ambas significam a mesma coisa e são usadas de forma intercambiável",
+      "A primeira refere‑se a atividades por mais de 30 dias, enquanto a segunda, impossibilidade duradoura de exercer qualquer atividade laborativa",
+      "A incapacidade permanente para o trabalho abrange apenas incapacidade de praticar esportes",
+      "A primeira exige prova pericial, e a segunda não"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "A incapacidade para as ocupações habituais diz respeito às atividades de rotina – higiene, lazer, estudos e trabalho – e basta que dure mais de 30 dias para qualificar a lesão como grave【550527429706474†L253-L262】. Já a incapacidade permanente para o trabalho é critério de lesão gravíssima e engloba impossibilidade duradoura de exercer qualquer atividade profissional, independentemente do cargo【550527429706474†L369-L391】.",
     "type": "conteudista"
   },
   {
     "question": "O que caracteriza a lesão corporal leve de acordo com a classificação legal?",
     "options": [
-      "Lesões que não preenchem os requisitos de grave ou gravíssima", 
-      "Qualquer lesão que cause perda de membro ou sentido", 
-      "Apenas ferimentos que não deixam marcas visíveis", 
-      "Lesões que implicam incapacidade permanente para o trabalho", 
-      "Qualquer agressão que ocorra em contexto doméstico ou familiar"
+      "Qualquer agressão que ocorra em contexto doméstico ou familiar",
+      "Qualquer lesão que cause perda de membro ou sentido",
+      "Apenas ferimentos que não deixam marcas visíveis",
+      "Lesões que não preenchem os requisitos de grave ou gravíssima",
+      "Lesões que implicam incapacidade permanente para o trabalho"
     ],
-    "correctIndex": 0,
+    "correctIndex": 3,
     "explanation": "Lesões corporais leves são aquelas que não se enquadram nos critérios de grave ou gravíssima, correspondendo a ferimentos sem risco de vida, sem incapacidade prolongada ou sequelas permanentes【287051749618227†L540-L542】. Abrangem arranhões, contusões simples e feridas que cicatrizam rapidamente. A perda de membro, a incapacidade permanente e o aborto são critérios de gravíssima.",
     "type": "conteudista"
   },
   {
     "question": "Caso um ferimento cause abalo estético significativo, como a cicatriz, qual providência deve tomar o perito?",
     "options": [
-      "Descrever a cicatriz e estimar o dano estético para subsidiar a indenização, separando‑o da classificação da lesão corporal", 
-      "Ignorar a cicatriz porque dano estético não tem relevância jurídica", 
-      "Classificar automaticamente como lesão gravíssima pelo critério de deformidade", 
-      "Indicar apenas que se trata de cicatriz sem analisar extensão ou profundidade", 
-      "Encaminhar o paciente ao cirurgião plástico sem emitir laudo pericial"
+      "Ignorar a cicatriz porque dano estético não tem relevância jurídica",
+      "Encaminhar o paciente ao cirurgião plástico sem emitir laudo pericial",
+      "Indicar apenas que se trata de cicatriz sem analisar extensão ou profundidade",
+      "Classificar automaticamente como lesão gravíssima pelo critério de deformidade",
+      "Descrever a cicatriz e estimar o dano estético para subsidiar a indenização, separando‑o da classificação da lesão corporal"
     ],
-    "correctIndex": 0,
+    "correctIndex": 4,
     "explanation": "O dano estético deve ser avaliado e descrito em separado, servindo de parâmetro para indenização civil. O perito quantifica a gravidade da cicatriz sem confundi‑la com a classificação penal da lesão corporal【287051749618227†L712-L716】. Uma cicatriz visível pode configurar deformidade permanente se alterou de forma relevante a aparência, mas nem toda cicatriz é gravíssima; a avaliação depende de sua extensão e repercussão.",
     "type": "conteudista"
   },
   {
     "question": "(Raciocínio) Uma pessoa sofreu fratura do úmero, precisou de osteossíntese e permaneceu 45 dias sem escovar os dentes nem frequentar a escola, mas recuperou completamente a função. Qual é a classificação da lesão?",
     "options": [
-      "Lesão grave pela incapacidade para as ocupações habituais superior a 30 dias", 
-      "Lesão gravíssima por incapacidade permanente para o trabalho", 
-      "Lesão leve porque a fratura consolidou‑se", 
-      "Lesão gravíssima por perda de membro", 
-      "Não há crime de lesão corporal" 
+      "Lesão grave pela incapacidade para as ocupações habituais superior a 30 dias",
+      "Lesão gravíssima por perda de membro",
+      "Lesão gravíssima por incapacidade permanente para o trabalho",
+      "Não há crime de lesão corporal",
+      "Lesão leve porque a fratura consolidou‑se"
     ],
     "correctIndex": 0,
     "explanation": "As lesões graves incluem aquelas em que a vítima fica impossibilitada de exercer suas ocupações habituais por mais de 30 dias【287051749618227†L532-L540】. A fratura que exige imobilização prolongada e impede a realização das atividades diárias é classificada como grave, ainda que, após a consolidação, não haja sequela permanente. Não se trata de incapacidade permanente nem de perda de membro.",
@@ -249,37 +249,37 @@
   {
     "question": "(Raciocínio) Um homem recebe um golpe no tórax, desenvolve pneumotórax e necessita de drenagem com selo d’água. Se não houvesse intervenção, poderia ocorrer desvio de mediastino e parada respiratória. Qual é a classificação da lesão?",
     "options": [
-      "Lesão grave por perigo de vida decorrente do pneumotórax", 
-      "Lesão gravíssima por perda permanente de função respiratória", 
-      "Lesão leve porque o tratamento foi bem sucedido", 
-      "Lesão gravíssima por incapacidade permanente para o trabalho", 
-      "Não é lesão corporal porque não houve fratura" 
+      "Lesão gravíssima por perda permanente de função respiratória",
+      "Não é lesão corporal porque não houve fratura",
+      "Lesão grave por perigo de vida decorrente do pneumotórax",
+      "Lesão gravíssima por incapacidade permanente para o trabalho",
+      "Lesão leve porque o tratamento foi bem sucedido"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "A classificação grave abrange o perigo de vida, definido como risco concreto de morte se não houver intervenção médica【287051749618227†L599-L606】. O pneumotórax hipertensivo poderia levar a desvio de mediastino e parada respiratória; a drenagem salvou o paciente. Não houve perda permanente de função, logo não é gravíssima.",
     "type": "raciocínio"
   },
   {
     "question": "(Raciocínio) Após agressão, uma pessoa perde completamente a visão de um olho, enquanto o outro permanece intacto. Como deve ser classificada a lesão?",
     "options": [
-      "Lesão gravíssima, pois há perda de sentido (visão) em órgão duplo", 
-      "Lesão grave, por debilidade permanente de sentido", 
-      "Lesão leve, porque a pessoa ainda possui o outro olho", 
-      "Não é lesão corporal porque a causa foi externa", 
-      "Lesão grave, por incapacidade para ocupações habituais por mais de 30 dias"
+      "Não é lesão corporal porque a causa foi externa",
+      "Lesão gravíssima, pois há perda de sentido (visão) em órgão duplo",
+      "Lesão grave, por incapacidade para ocupações habituais por mais de 30 dias",
+      "Lesão grave, por debilidade permanente de sentido",
+      "Lesão leve, porque a pessoa ainda possui o outro olho"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "A perda ou inutilização de membro, sentido ou função caracteriza lesão gravíssima【550527429706474†L369-L375】. No caso de órgãos duplos, a perda de um deles (como a visão de um olho) já é considerada perda de sentido, enquadrando a lesão no § 2º. A debilidade permanente (redução parcial) seria grave, mas a perda total é gravíssima.",
     "type": "raciocínio"
   },
   {
     "question": "(Raciocínio) Uma gestante sofre agressão e seu parto é antecipado; a criança nasce viva apesar de prematura. Qual a natureza jurídica da lesão?",
     "options": [
-      "Lesão grave, pois houve aceleração de parto sem aborto", 
-      "Lesão gravíssima, pois qualquer agressão a gestante é gravíssima", 
-      "Lesão leve, porque a criança sobreviveu", 
-      "Lesão gravíssima por perda de membro", 
-      "Lesão grave por debilidade permanente da mãe"
+      "Lesão grave, pois houve aceleração de parto sem aborto",
+      "Lesão gravíssima por perda de membro",
+      "Lesão gravíssima, pois qualquer agressão a gestante é gravíssima",
+      "Lesão grave por debilidade permanente da mãe",
+      "Lesão leve, porque a criança sobreviveu"
     ],
     "correctIndex": 0,
     "explanation": "A aceleração de parto é uma das hipóteses de lesão grave: ocorre quando o parto é precipitado e o bebê nasce vivo【287051749618227†L539-L540】. Esse resultado não se confunde com aborto (feto sem vida), o qual caracteriza lesão gravíssima【287051749618227†L653-L656】. Portanto, a alternativa correta é a de lesão grave.",
@@ -288,13 +288,13 @@
   {
     "question": "(Raciocínio) Uma mulher grávida é agredida e, devido ao trauma, entra em trabalho de parto, mas o feto nasce morto. Como deve ser classificada a lesão?",
     "options": [
-      "Lesão gravíssima, pois a agressão resultou em aborto", 
-      "Lesão grave por aceleração de parto", 
-      "Lesão leve porque não houve sequelas na gestante", 
-      "Lesão grave por perigo de vida", 
-      "Não há lesão corporal, trata‑se de evento obstétrico natural"
+      "Lesão leve porque não houve sequelas na gestante",
+      "Não há lesão corporal, trata‑se de evento obstétrico natural",
+      "Lesão grave por aceleração de parto",
+      "Lesão grave por perigo de vida",
+      "Lesão gravíssima, pois a agressão resultou em aborto"
     ],
-    "correctIndex": 0,
+    "correctIndex": 4,
     "explanation": "Quando a agressão leva à interrupção da gravidez e o feto nasce sem vida, independentemente da idade gestacional, trata‑se de aborto. O § 2º do art. 129 prevê o aborto como hipótese de lesão gravíssima【287051749618227†L653-L656】. A aceleração de parto com bebê vivo caracteriza lesão grave, e eventos naturais ou lesões sem morte do feto não entram nessa hipótese.",
     "type": "raciocínio"
   }

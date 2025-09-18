@@ -3,9 +3,9 @@
     "question": "Qual definição descreve com maior precisão a perícia médico-legal?",
     "options": [
       "Conjunto de atos administrativos voltados à gestão de serviços de saúde",
-      "Ato policial de coleta de depoimentos sem intervenção técnica",
-      "Conjunto de procedimentos técnicos e científicos para esclarecer fato de interesse da Justiça",
       "Relatório clínico elaborado exclusivamente pelo médico assistente",
+      "Conjunto de procedimentos técnicos e científicos para esclarecer fato de interesse da Justiça",
+      "Ato policial de coleta de depoimentos sem intervenção técnica",
       "Medida cautelar destinada apenas à preservação de objetos do crime"
     ],
     "correctIndex": 2,
@@ -18,8 +18,8 @@
       "Peritia percipiendi analisa fato pretérito com base em laudo já existente",
       "Peritia deducendi é a inspeção direta do corpo de delito em tempo real",
       "Peritia percipiendi avalia diretamente alterações e vestígios do evento",
-      "Peritia deducendi é sinônimo de exame necroscópico obrigatório",
-      "Peritia percipiendi restringe-se a exames laboratoriais complementares"
+      "Peritia percipiendi restringe-se a exames laboratoriais complementares",
+      "Peritia deducendi é sinônimo de exame necroscópico obrigatório"
     ],
     "correctIndex": 2,
     "explanation": "Peritia percipiendi corresponde à avaliação direta de vestígios/alterações; a deducendi aprecia uma perícia já realizada ou fatos pretéritos.",
@@ -28,76 +28,76 @@
   {
     "question": "De acordo com o CPP, quando a infração deixar vestígios:",
     "options": [
-      "Dispensa-se o exame de corpo de delito se houver confissão",
-      "É indispensável o exame de corpo de delito, direto ou indireto",
       "O exame de corpo de delito só é válido se feito por três peritos",
+      "O exame é facultativo quando houver relatório hospitalar detalhado",
       "A prova testemunhal sempre substitui o exame material",
-      "O exame é facultativo quando houver relatório hospitalar detalhado"
+      "Dispensa-se o exame de corpo de delito se houver confissão",
+      "É indispensável o exame de corpo de delito, direto ou indireto"
     ],
-    "correctIndex": 1,
+    "correctIndex": 4,
     "explanation": "O art. 158 do CPP torna indispensável o exame de corpo de delito quando há vestígios; a confissão não supre o exame.",
     "type": "conteudista"
   },
   {
     "question": "No estudo do corpo de delito, a tríade corpus criminis, corpus instrumentorum e corpus probatorum indica, respectivamente:",
     "options": [
-      "Pessoa/objeto afetado; instrumento empregado; conjunto de provas/vestígios",
+      "Causa jurídica; causa médica; cadeia de custódia",
       "Instrumento do crime; local do fato; autor do delito",
-      "Vítima; autoria; materialidade presumida",
       "Laudo pericial; depoimentos; sentença judicial",
-      "Causa jurídica; causa médica; cadeia de custódia"
+      "Pessoa/objeto afetado; instrumento empregado; conjunto de provas/vestígios",
+      "Vítima; autoria; materialidade presumida"
     ],
-    "correctIndex": 0,
+    "correctIndex": 3,
     "explanation": "Corpus criminis é a pessoa/coisa atingida; corpus instrumentorum é o instrumento; corpus probatorum reúne provas/vestígios do crime.",
     "type": "conteudista"
   },
   {
     "question": "Quanto à realização do exame pericial, é correto afirmar que:",
     "options": [
-      "Sempre exige três peritos oficiais com pós-graduação na área",
       "Na falta de perito oficial, dois idôneos com diploma superior podem atuar",
-      "Só pode ser feito por médicos; outras formações são vedadas em qualquer caso",
+      "É válido apenas se realizado no local do fato",
+      "Sempre exige três peritos oficiais com pós-graduação na área",
       "Depende de anuência do investigado em todos os casos",
-      "É válido apenas se realizado no local do fato"
+      "Só pode ser feito por médicos; outras formações são vedadas em qualquer caso"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "O CPP admite que, inexistindo perito oficial, o exame seja feito por duas pessoas idôneas com diploma superior relacionado.",
     "type": "conteudista"
   },
   {
     "question": "Assinale a alternativa correta sobre perícia complexa:",
     "options": [
-      "É aquela que exige apenas repetição de exames simples",
-      "Impede a indicação de assistentes técnicos pelas partes",
       "Admite a designação de mais de um perito oficial e múltiplos assistentes",
-      "Exclui a necessidade de laudo escrito quando há parecer oral",
-      "Restringe-se a casos de toxicologia e balística"
+      "Restringe-se a casos de toxicologia e balística",
+      "Impede a indicação de assistentes técnicos pelas partes",
+      "É aquela que exige apenas repetição de exames simples",
+      "Exclui a necessidade de laudo escrito quando há parecer oral"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "Perícia complexa envolve mais de uma área de conhecimento, permitindo a atuação de mais de um perito oficial e a indicação de mais de um assistente técnico.",
     "type": "conteudista"
   },
   {
     "question": "A função típica do assistente técnico é:",
     "options": [
+      "Homologar o laudo e responder pelos quesitos oficiais",
       "Produzir a prova pericial no lugar do perito judicial",
       "Fiscalizar a elaboração da prova, analisar nexo causal e apresentar parecer",
       "Nomear peritos ad hoc e definir prazos processuais",
-      "Determinar diligências policiais coercitivas",
-      "Homologar o laudo e responder pelos quesitos oficiais"
+      "Determinar diligências policiais coercitivas"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "O assistente técnico fiscaliza o trabalho pericial, pode levantar pontos, analisar o nexo e apresentar parecer após o laudo do perito.",
     "type": "conteudista"
   },
   {
     "question": "Sobre quesitos e prazos, assinale a correta:",
     "options": [
-      "Somente o juiz pode formular quesitos em matéria penal",
+      "Quesitos só são admitidos após a sentença",
       "As partes não podem requerer a oitiva dos peritos em audiência",
       "Assistentes técnicos apresentam parecer em prazo fixado pelo juiz",
       "Não há prazo para respostas em laudo complementar",
-      "Quesitos só são admitidos após a sentença"
+      "Somente o juiz pode formular quesitos em matéria penal"
     ],
     "correctIndex": 2,
     "explanation": "As partes podem indicar assistentes técnicos, e estes podem apresentar parecer em prazo fixado pelo juiz; é possível a oitiva dos peritos.",
@@ -107,38 +107,38 @@
     "question": "No tocante aos direitos do perito, é correto afirmar que ele:",
     "options": [
       "Deve prestar esclarecimentos diretamente às partes, sem intimação",
-      "Não pode solicitar prorrogação de prazo por motivo justificado",
-      "Pode definir metodologia e fontes de informação necessárias ao exame",
       "Está impedido de consultar autos e documentos do processo",
-      "Não pode instruir o laudo com fotografias ou plantas"
+      "Não pode instruir o laudo com fotografias ou plantas",
+      "Não pode solicitar prorrogação de prazo por motivo justificado",
+      "Pode definir metodologia e fontes de informação necessárias ao exame"
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "O perito tem liberdade metodológica, podendo recorrer a fontes, consultar autos/documentos e instruir o laudo com peças gráficas; pode pedir prorrogação justificada.",
     "type": "conteudista"
   },
   {
     "question": "Quanto aos honorários periciais, assinale a correta:",
     "options": [
-      "Peritos oficiais podem cobrar honorários adicionais da vítima",
-      "Peritos oficiais não cobram honorários além de sua remuneração pública",
       "Honorários sempre são pagos pela parte ré, independentemente do caso",
+      "No benefício da justiça gratuita, o pagamento é do perito assistente",
+      "Peritos oficiais não cobram honorários além de sua remuneração pública",
       "Não existe obrigatoriedade de aceitar o encargo quando nomeado",
-      "No benefício da justiça gratuita, o pagamento é do perito assistente"
+      "Peritos oficiais podem cobrar honorários adicionais da vítima"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Peritos oficiais são remunerados pelo Estado e não cobram da vítima; quando nomeados, há obrigatoriedade do múnus, e na justiça gratuita o Estado arca com o pagamento do perito.",
     "type": "conteudista"
   },
   {
     "question": "A cadeia de custódia de evidências consiste em:",
     "options": [
-      "Registro documental de envio, guarda e análise dos elementos probatórios",
       "Qualquer relatório de atendimento médico de emergência",
       "Ato de interrogatório conduzido pelo delegado de polícia",
-      "Procedimento exclusivo de balística, sem aplicação em biologia forense",
-      "Controle de agenda de audiências pelos peritos oficiais"
+      "Controle de agenda de audiências pelos peritos oficiais",
+      "Registro documental de envio, guarda e análise dos elementos probatórios",
+      "Procedimento exclusivo de balística, sem aplicação em biologia forense"
     ],
-    "correctIndex": 0,
+    "correctIndex": 3,
     "explanation": "Cadeia de custódia é o registro formal de toda movimentação da prova desde a coleta até a análise, preservando sua integridade.",
     "type": "conteudista"
   },
@@ -146,194 +146,194 @@
     "question": "Qual é a estrutura canônica do laudo pericial médico-legal?",
     "options": [
       "Relato, síntese, assinatura e anexo fotográfico",
+      "Qualificação, quesitos, termo de compromisso e termo de assentada",
       "Preâmbulo, histórico, descrição, discussão, conclusão e respostas aos quesitos",
       "Introdução, revisão bibliográfica, metodologia, resultados e referências",
-      "Qualificação, quesitos, termo de compromisso e termo de assentada",
       "Resumo, fundamentação jurídica, dispositivo e trânsito em julgado"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "O laudo médico-legal organiza-se em preâmbulo, histórico, descrição, discussão, conclusão e respostas aos quesitos.",
     "type": "conteudista"
   },
   {
     "question": "Constituem hipóteses típicas de impedimento/suspeição do perito:",
     "options": [
-      "Ter participado de congressos na área pericial no último ano",
       "Ser amigo íntimo de uma das partes, ou já ter opinado sobre o objeto da perícia",
-      "Ter concluído residência médica em especialidade afim",
       "Exercer magistério em universidade pública",
+      "Ter participado de congressos na área pericial no último ano",
+      "Ter concluído residência médica em especialidade afim",
       "Estar cadastrado em tribunal para nomeações futuras"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "São causas de impedimento/suspeição ter opinado previamente no processo e vínculos como amizade íntima com as partes, entre outras listadas em lei.",
     "type": "conteudista"
   },
   {
     "question": "A segunda perícia tem por finalidade principal:",
     "options": [
-      "Reavaliar a competência do juiz no processo",
-      "Aumentar o número de quesitos apresentados pelas partes",
       "Corrigir omissões ou inexatidões da primeira perícia sobre os mesmos fatos",
       "Produzir novo laudo em área diversa do conhecimento",
-      "Substituir automaticamente a primeira perícia, tornando-a nula"
+      "Substituir automaticamente a primeira perícia, tornando-a nula",
+      "Reavaliar a competência do juiz no processo",
+      "Aumentar o número de quesitos apresentados pelas partes"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "A segunda perícia recai sobre os mesmos fatos e visa corrigir omissões ou inexatidões da primeira.",
     "type": "conteudista"
   },
   {
     "question": "Sobre a presença de advogados durante o exame pericial:",
     "options": [
+      "Invalida o laudo por quebra do contraditório",
       "É proibida em qualquer hipótese por violar o sigilo do inquérito",
-      "É sempre obrigatória e com direito a intervenção direta no ato",
-      "Pode ser admitida como acompanhamento, sem interferência no exame",
       "Só é possível com ordem expressa do Ministério Público",
-      "Invalida o laudo por quebra do contraditório"
+      "Pode ser admitida como acompanhamento, sem interferência no exame",
+      "É sempre obrigatória e com direito a intervenção direta no ato"
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": "A presença pode ser admitida como acompanhamento, sem participação ativa, privilegiando transparência e moralidade dos atos.",
     "type": "conteudista"
   },
   {
     "question": "No tocante ao periciando, o consentimento livre e esclarecido implica que:",
     "options": [
-      "É dispensável informação prévia sobre riscos do procedimento",
       "Pode ser obtido por terceiros sem ciência do examinado",
-      "Exige informação adequada e permite recusa a atos que o prejudiquem",
       "Implica obrigatoriedade de colaborar integralmente com o exame",
+      "É dispensável informação prévia sobre riscos do procedimento",
+      "Exige informação adequada e permite recusa a atos que o prejudiquem",
       "Autoriza o uso de qualquer método para atingir a verdade real"
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": "O consentimento deve ser precedido de informação adequada; o examinado pode recusar atos que lhe prejudiquem, preservando direitos fundamentais.",
     "type": "conteudista"
   },
   {
     "question": "A Lei nº 12.030/2009 estabelece, entre outros pontos, que:",
     "options": [
+      "Laudos penais são sempre sigilosos e inacessíveis às partes",
       "Peritos oficiais dependem de autorização da vítima para atuar",
-      "A atividade pericial oficial tem autonomia técnica, científica e funcional",
-      "O ingresso na carreira pericial independe de concurso público",
       "Assistentes técnicos exercem função decisória sobre o laudo",
-      "Laudos penais são sempre sigilosos e inacessíveis às partes"
+      "O ingresso na carreira pericial independe de concurso público",
+      "A atividade pericial oficial tem autonomia técnica, científica e funcional"
     ],
-    "correctIndex": 1,
+    "correctIndex": 4,
     "explanation": "A Lei 12.030/2009 assegura autonomia técnica, científica e funcional à perícia oficial e exige concurso para provimento dos cargos.",
     "type": "conteudista"
   },
   {
     "question": "Quanto às responsabilidades do perito, assinale a correta:",
     "options": [
-      "A falsa perícia configura infração meramente administrativa",
-      "Não há previsão penal aplicável ao perito em processo judicial",
-      "Falsa perícia enquadra-se no art. 342 do Código Penal",
       "Quebra de sigilo nunca é punida quando a intenção é provar a verdade",
-      "Impedimentos e suspeição não se aplicam ao perito, apenas ao juiz"
+      "Impedimentos e suspeição não se aplicam ao perito, apenas ao juiz",
+      "A falsa perícia configura infração meramente administrativa",
+      "Falsa perícia enquadra-se no art. 342 do Código Penal",
+      "Não há previsão penal aplicável ao perito em processo judicial"
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": "A falsa perícia é prevista no art. 342 do CP; além disso, aplicam-se regras de impedimento/suspeição e o crime de violação de segredo quando cabível.",
     "type": "conteudista"
   },
   {
     "question": "Em relação aos documentos médico-legais, assinale a alternativa correta:",
     "options": [
-      "Relatório médico é opinião conclusiva com respostas aos quesitos",
-      "Atestado afirma fato médico e consequências, em regra com autorização do paciente para CID",
       "Parecer médico-legal é sinônimo de prontuário multiprofissional",
+      "Depoimento oral substitui o laudo pericial em crimes com vestígios",
       "Declaração de óbito integra a cadeia de custódia da prova",
-      "Depoimento oral substitui o laudo pericial em crimes com vestígios"
+      "Atestado afirma fato médico e consequências, em regra com autorização do paciente para CID",
+      "Relatório médico é opinião conclusiva com respostas aos quesitos"
     ],
-    "correctIndex": 1,
+    "correctIndex": 3,
     "explanation": "Atestado descreve fato e consequências e, por se tratar de informação sigilosa, costuma exigir autorização para constar CID; relatório é resumo sem opinião; parecer é manifestação técnica finalística.",
     "type": "conteudista"
   },
   {
     "question": "Sobre ‘laudo indireto’ feito apenas a partir de prontuário hospitalar quando havia possibilidade de exame direto, é correto afirmar que:",
     "options": [
-      "É plenamente válido e preferível por ser menos invasivo",
-      "Supre o corpo de delito e afasta a necessidade de oitiva de testemunhas",
-      "É imprestável para fins probatórios em infrações que deixam vestígios",
       "Torna automática a necessidade de segunda perícia",
-      "Equivale a parecer técnico complementar obrigatório"
+      "É plenamente válido e preferível por ser menos invasivo",
+      "Equivale a parecer técnico complementar obrigatório",
+      "É imprestável para fins probatórios em infrações que deixam vestígios",
+      "Supre o corpo de delito e afasta a necessidade de oitiva de testemunhas"
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": "Quando há vestígios e possibilidade de exame direto, laudo baseado apenas em prontuário é imprestável para fins probatórios.",
     "type": "conteudista"
   },
   {
     "question": "No tocante ao valor racional da prova e corpo de delito:",
     "options": [
-      "A confissão do acusado substitui o exame material sempre que detalhada",
-      "A omissão do exame de corpo de delito não acarreta nulidade processual",
-      "O corpo de delito direto é base residual do crime e exige vestígios materiais",
       "O estudo do local e do instrumento não integra o corpo de delito",
-      "O corpo da vítima é, por si só, o corpo de delito consumado"
+      "O corpo da vítima é, por si só, o corpo de delito consumado",
+      "A omissão do exame de corpo de delito não acarreta nulidade processual",
+      "A confissão do acusado substitui o exame material sempre que detalhada",
+      "O corpo de delito direto é base residual do crime e exige vestígios materiais"
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "O corpo de delito direto, composto por vestígios materiais do dano, é base residual do crime; a confissão não supre o exame quando há vestígios.",
     "type": "conteudista"
   },
   {
     "question": "CASO 1 – Laudo baseado apenas em ficha hospitalar: qual a consequência mais adequada?",
     "options": [
-      "Validade plena do laudo por se tratar de documento oficial",
       "Nulidade absoluta de todo o processo independentemente de outras provas",
-      "Imprestabilidade do laudo e possibilidade de suprimento por prova testemunhal se vestígios desapareceram",
+      "Validade plena do laudo por se tratar de documento oficial",
       "Obrigatoriedade de terceira perícia por peritos de outra comarca",
+      "Imprestabilidade do laudo e possibilidade de suprimento por prova testemunhal se vestígios desapareceram",
       "Determinação automática de indenização por danos morais"
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": "A jurisprudência considera imprestável o laudo feito apenas com ficha hospitalar quando havia possibilidade de exame direto; se os vestígios desapareceram, art. 167 CPP permite suprimento por prova testemunhal/documental.",
     "type": "raciocínio"
   },
   {
     "question": "CASO 2 – Perito é amigo íntimo do autor em ação cível de responsabilidade médica. Qual a medida?",
     "options": [
-      "Manutenção do perito, pois amizade não configura suspeição",
-      "Substituição do perito por suspeição, com nomeação de outro profissional",
-      "Apenas advertência ética, sem efeitos processuais",
       "Ratificação do laudo por assistente técnico da parte contrária",
-      "Suspensão do processo até julgamento criminal do perito"
+      "Apenas advertência ética, sem efeitos processuais",
+      "Manutenção do perito, pois amizade não configura suspeição",
+      "Suspensão do processo até julgamento criminal do perito",
+      "Substituição do perito por suspeição, com nomeação de outro profissional"
     ],
-    "correctIndex": 1,
+    "correctIndex": 4,
     "explanation": "Amizade íntima é causa típica de suspeição/impedimento; o juiz deve substituir o perito.",
     "type": "raciocínio"
   },
   {
     "question": "CASO 3 – Vestígios desapareceram e o exame de corpo de delito direto tornou-se impossível. O que fazer?",
     "options": [
-      "Arquivar o processo por ausência de materialidade",
       "Realizar ‘laudo indireto’ com base em suposições do perito",
       "Suprir a prova por depoimentos e documentos já constantes dos autos",
-      "Determinar exame necroscópico em qualquer cadáver compatível",
-      "Aguardar confissão para suprir a materialidade"
+      "Arquivar o processo por ausência de materialidade",
+      "Aguardar confissão para suprir a materialidade",
+      "Determinar exame necroscópico em qualquer cadáver compatível"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "O art. 167 do CPP permite suprir o corpo de delito por prova testemunhal/documental quando desaparecem os vestígios.",
     "type": "raciocínio"
   },
   {
     "question": "CASO 4 – Perícia envolvendo balística e toxicologia. Qual encaminhamento é mais adequado?",
     "options": [
-      "Nomear um único perito e impedir assistentes técnicos",
-      "Designar perícia complexa com mais de um perito oficial e admitir múltiplos assistentes",
       "Solicitar apenas parecer do assistente técnico do MP",
+      "Substituir a perícia por inspeção judicial",
+      "Nomear um único perito e impedir assistentes técnicos",
       "Dispensar laudo escrito e registrar apenas exposição oral",
-      "Substituir a perícia por inspeção judicial"
+      "Designar perícia complexa com mais de um perito oficial e admitir múltiplos assistentes"
     ],
-    "correctIndex": 1,
+    "correctIndex": 4,
     "explanation": "Tratando-se de áreas distintas, configura perícia complexa, com possibilidade de mais de um perito oficial e indicação de múltiplos assistentes.",
     "type": "raciocínio"
   },
   {
     "question": "CASO 5 – Periciando adulto recusa exame íntimo por entender prejudicial. Conduta correta do perito:",
     "options": [
-      "Realizar o exame à força para garantir a verdade real",
-      "Ameaçar com crime de desobediência para obter o consentimento",
-      "Respeitar a recusa, registrar a negativa e orientar a autoridade sobre alternativas legais",
       "Substituir o exame por depoimento do advogado do periciando",
-      "Encaminhar compulsoriamente ao hospital para contenção mecânica"
+      "Ameaçar com crime de desobediência para obter o consentimento",
+      "Realizar o exame à força para garantir a verdade real",
+      "Encaminhar compulsoriamente ao hospital para contenção mecânica",
+      "Respeitar a recusa, registrar a negativa e orientar a autoridade sobre alternativas legais"
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "O consentimento deve ser livre e esclarecido; o examinado pode recusar atos que lhe tragam prejuízo. O perito registra e comunica a autoridade, preservando direitos.",
     "type": "raciocínio"
   }

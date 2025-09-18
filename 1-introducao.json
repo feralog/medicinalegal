@@ -2,63 +2,63 @@
   {
     "question": "A Medicina Legal é amplamente definida como a aplicação do conhecimento médico ao direito. Qual das seguintes opções melhor sintetiza essa definição, abrangendo sua natureza e propósito?",
     "options": [
-      "O estudo exclusivo das patologias que resultam em óbito, com foco na causa mortis e nos procedimentos de autópsia.",
-      "Um ramo da medicina que se dedica apenas à elaboração de laudos periciais para processos civis, sem envolvimento criminal.",
       "O conjunto de conhecimentos das ciências médicas e correlatas utilizado para subsidiar as decisões da Justiça e a elaboração das leis.",
-      "A especialidade médica que trata da recuperação de pacientes vítimas de violência, sem interface direta com o sistema legal.",
-      "Uma disciplina que investiga apenas crimes violentos, limitando-se à análise de vestígios biológicos em cenas de crime."
+      "Um ramo da medicina que se dedica apenas à elaboração de laudos periciais para processos civis, sem envolvimento criminal.",
+      "O estudo exclusivo das patologias que resultam em óbito, com foco na causa mortis e nos procedimentos de autópsia.",
+      "Uma disciplina que investiga apenas crimes violentos, limitando-se à análise de vestígios biológicos em cenas de crime.",
+      "A especialidade médica que trata da recuperação de pacientes vítimas de violência, sem interface direta com o sistema legal."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "A Medicina Legal é definida como o conjunto de informações e conhecimentos que a ciência médica, a tecnologia e outras ciências afins oferecem à Justiça para a elaboração de leis, administração judiciária e consolidação da doutrina. Ela aplica o conhecimento de diversos ramos da Medicina às solicitações do Direito, sendo considerada Ciência, Técnica e Arte ao mesmo tempo.",
     "type": "conteudista"
   },
   {
     "question": "Conforme os materiais, a Medicina Legal possui um papel fundamental na sociedade. Qual das seguintes opções descreve sua principal finalidade?",
     "options": [
-      "Formar médicos especialistas em cirurgia forense e procedimentos de autópsia avançados.",
-      "Publicar artigos científicos sobre novas técnicas de tratamento em casos de trauma e lesões diversas.",
-      "Proporcionar à Justiça elementos técnicos e científicos para a elucidação de fatos e a aplicação da lei.",
       "Atuar exclusivamente na prevenção de acidentes e doenças ocupacionais em ambientes de trabalho.",
-      "Cuidar da saúde mental de detentos e infratores para reintegração social e reabilitação."
+      "Proporcionar à Justiça elementos técnicos e científicos para a elucidação de fatos e a aplicação da lei.",
+      "Cuidar da saúde mental de detentos e infratores para reintegração social e reabilitação.",
+      "Formar médicos especialistas em cirurgia forense e procedimentos de autópsia avançados.",
+      "Publicar artigos científicos sobre novas técnicas de tratamento em casos de trauma e lesões diversas."
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "A Medicina Legal tem como finalidade principal oferecer à Justiça elementos técnicos e científicos oriundos da ciência médica para a elucidação de fatos e a correta aplicação da lei, orientando a consciência do magistrado e contribuindo para a ordem pública e o equilíbrio social.",
     "type": "conteudista"
   },
   {
     "question": "A relação entre Medicina Legal e o Direito é intrínseca e multifacetada. Em qual das seguintes áreas do Direito a Medicina Legal NÃO empresta sua colaboração, segundo os materiais?",
     "options": [
-      "Direito Penal, em casos de aborto e crimes contra a liberdade sexual.",
-      "Direito Civil, abordando questões de paternidade e nulidade de casamento.",
-      "Direito Processual Civil e Penal, estudando a psicologia da testemunha e do delinquente.",
       "Direito Marítimo Internacional, tratando exclusivamente de acidentes em águas jurisdicionais.",
+      "Direito Processual Civil e Penal, estudando a psicologia da testemunha e do delinquente.",
+      "Direito Civil, abordando questões de paternidade e nulidade de casamento.",
+      "Direito Penal, em casos de aborto e crimes contra a liberdade sexual.",
       "Direito Trabalhista, ao analisar doenças profissionais e acidentes de trabalho."
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "explanation": "Os materiais indicam que a Medicina Legal empresta sua colaboração a diversas áreas do Direito, incluindo Penal, Civil, Administrativo, Processual, Trabalhista, Penitenciário, Ambiental, Desportos, Internacional Público e Privado, Comercial e Canônico. Não há menção direta de atuação exclusiva em Direito Marítimo Internacional de forma específica para acidentes em águas jurisdicionais, tornando esta a opção menos condizente com as fontes.",
     "type": "conteudista"
   },
   {
     "question": "A Medicina Legal Geral, também conhecida como Jurisprudência Médica, abrange a Diceologia e a Deontologia Médica. Qual o principal foco desses estudos para o profissional médico?",
     "options": [
-      "A elaboração de relatórios sobre autópsias complexas e a identificação de corpos em desastres.",
-      "A investigação de novas tecnologias para a análise de vestígios biológicos em cenas de crime.",
       "O estudo dos direitos, deveres, obrigações e responsabilidades éticas do médico no exercício profissional.",
+      "A pesquisa sobre a imputabilidade penal em casos de transtornos mentais e comportamentais.",
       "A análise de traumas físicos e suas implicações legais em vítimas de agressões e acidentes.",
-      "A pesquisa sobre a imputabilidade penal em casos de transtornos mentais e comportamentais."
+      "A investigação de novas tecnologias para a análise de vestígios biológicos em cenas de crime.",
+      "A elaboração de relatórios sobre autópsias complexas e a identificação de corpos em desastres."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "A Medicina Legal Geral, composta pela Diceologia e Deontologia Médica, estuda as obrigações e os deveres (deontologia) e os direitos (diceologia) dos médicos. Particulariza-se em temas como Exercício Legal e Ilegal da Medicina, Segredo Médico, Honorários Médicos, Responsabilidade Médica e Ética Médica, visando orientar o médico no exercício regular de sua profissão.",
     "type": "conteudista"
   },
   {
     "question": "De acordo com os materiais, qual o impacto da falta de conhecimentos médico-legais para a prática profissional do médico?",
     "options": [
-      "Aumenta a especialização do médico em áreas clínicas, diminuindo a carga de trabalho burocrática.",
+      "Diminui a necessidade de colaboração com juristas, pois suas decisões se baseiam exclusivamente em aspectos médicos.",
       "Causa uma menor demanda por perícias, liberando o médico para atividades de pesquisa acadêmica.",
       "Torna sua sabedoria clínica improfícua e perigosa, podendo levar a erros e falhas na elucidação de fatos jurídicos.",
       "Não afeta sua capacidade de atuar em hospitais e clínicas, pois a Medicina Legal é uma área distinta.",
-      "Diminui a necessidade de colaboração com juristas, pois suas decisões se baseiam exclusivamente em aspectos médicos."
+      "Aumenta a especialização do médico em áreas clínicas, diminuindo a carga de trabalho burocrática."
     ],
     "correctIndex": 2,
     "explanation": "Segundo Hélio Gomes, citado nos materiais, para um médico realizar perícias, é 'indispensável educação médico-legal, conhecimento da legislação que rege a matéria, noção clara da maneira como deverá responder aos quesitos, prática na redação dos laudos periciais. Sem esses conhecimentos puramente médico-legais, toda a sua sabedoria será improfícua e perigosa'. A falta desse conhecimento pode levar a falhas na apreciação de fatos com implicação jurídica.",
@@ -68,10 +68,10 @@
     "question": "O sigilo médico é um princípio fundamental da prática da medicina. Em qual área de estudo da Medicina Legal esse tema é abordado para orientar o profissional?",
     "options": [
       "Na Tanatologia Médico-Legal, ao discutir os direitos sobre o cadáver e a destinação dos corpos.",
-      "Na Psiquiatria Forense, ao avaliar a imputabilidade penal e os transtornos mentais.",
+      "Na Infortunística, ao investigar acidentes de trabalho e doenças profissionais.",
       "Na Diceologia e Deontologia Médica, dentro da Medicina Legal Geral, como parte dos deveres profissionais.",
-      "Na Traumatologia Médico-Legal, ao analisar lesões corporais e suas consequências legais.",
-      "Na Infortunística, ao investigar acidentes de trabalho e doenças profissionais."
+      "Na Psiquiatria Forense, ao avaliar a imputabilidade penal e os transtornos mentais.",
+      "Na Traumatologia Médico-Legal, ao analisar lesões corporais e suas consequências legais."
     ],
     "correctIndex": 2,
     "explanation": "O segredo médico é um dos capítulos estudados na Diceologia e Deontologia Médica, que faz parte da Medicina Legal Geral (ou Jurisprudência Médica), com o objetivo de orientar o médico sobre seus deveres e direitos no exercício regular da profissão.",
@@ -80,11 +80,11 @@
   {
     "question": "A Antropologia Médico-Legal é um dos pilares da Medicina Legal Especial. Qual o principal objeto de estudo desta área, conforme os materiais?",
     "options": [
-      "A análise de traumas e lesões causadas por agentes externos no corpo humano, focando em sua natureza e gravidade.",
+      "A avaliação dos efeitos de substâncias tóxicas no organismo e seus procedimentos periciais para detecção e quantificação.",
       "O estudo das questões de identidade e identificação de pessoas, sejam vivas ou mortas, para fins judiciários.",
-      "A investigação de doenças mentais e transtornos de comportamento que afetam a imputabilidade penal.",
       "A pesquisa sobre as causas e mecanismos da morte, além do destino do cadáver em diferentes fases de decomposição.",
-      "A avaliação dos efeitos de substâncias tóxicas no organismo e seus procedimentos periciais para detecção e quantificação."
+      "A análise de traumas e lesões causadas por agentes externos no corpo humano, focando em sua natureza e gravidade.",
+      "A investigação de doenças mentais e transtornos de comportamento que afetam a imputabilidade penal."
     ],
     "correctIndex": 1,
     "explanation": "A Antropologia Médico-Legal é um dos capítulos da Medicina Legal Especial e tem como objeto de estudo a identidade e a identificação médico-legal e judiciária. Isso inclui, por exemplo, a identificação papiloscópica e a comparação de ossadas para determinar a idade.",
@@ -95,9 +95,9 @@
     "options": [
       "Psiquiatria, para avaliação de transtornos mentais e responsabilidade penal.",
       "Obstetrícia e Ginecologia, em casos de aborto e questões de nulidade matrimonial.",
-      "Traumatologia, na análise de lesões corporais e energias causadoras de dano.",
+      "Patologia, na determinação da causa mortis e análise de tecidos em necropsias.",
       "Pediatria Puericultura, focada no desenvolvimento infantil e rotinas de vacinação.",
-      "Patologia, na determinação da causa mortis e análise de tecidos em necropsias."
+      "Traumatologia, na análise de lesões corporais e energias causadoras de dano."
     ],
     "correctIndex": 3,
     "explanation": "Os materiais afirmam que a Medicina Legal 'se relaciona, especificamente, no campo da Medicina, com a Patologia, Psiquiatria, Traumatologia, Neurologia, Radiologia, Anatomia e Fisiologia Patológicas, com a Microbiologia e Parasitologia, Obstetrícia e Ginecologia e, finalmente, com todas as especialidades médicas'. A Pediatria Puericultura, embora importante para a saúde infantil, não é citada como área de colaboração direta e específica na Medicina Legal nos contextos apresentados, que incluem a análise de violência contra crianças.",
@@ -106,11 +106,11 @@
   {
     "question": "Embora 'Medicina Forense' e 'Medicina Judicial' sejam termos relacionados à Medicina Legal, qual a principal razão pela qual 'Medicina Legal' é a denominação mais amplamente aceita?",
     "options": [
-      "Pois é um termo mais antigo e com maior tradição histórica, sendo a base de todas as outras denominações.",
+      "Já que enfatiza o caráter de arte e intuição do perito, em detrimento dos aspectos científicos e técnicos da prática.",
       "Porque se restringe apenas às atividades periciais realizadas em tribunais, sendo mais precisa em seu foco.",
       "Devido à sua maior extensão e abrangência, incluindo contribuições legislativas, doutrinárias e filosóficas, além da perícia.",
-      "Por ser a denominação utilizada nos Estados Unidos, país de grande influência na Medicina Legal moderna.",
-      "Já que enfatiza o caráter de arte e intuição do perito, em detrimento dos aspectos científicos e técnicos da prática."
+      "Pois é um termo mais antigo e com maior tradição histórica, sendo a base de todas as outras denominações.",
+      "Por ser a denominação utilizada nos Estados Unidos, país de grande influência na Medicina Legal moderna."
     ],
     "correctIndex": 2,
     "explanation": "Mesmo que 'Medicina Forense' e 'Medicina Judicial' sejam consideradas sinônimos para as atividades periciais, 'Medicina Legal' é a denominação mais aceita devido à sua maior extensão e abrangência, incluindo contribuições legislativas, doutrinárias e filosóficas, advindas principalmente do ambiente universitário.",
@@ -119,24 +119,24 @@
   {
     "question": "A Medicina Legal é descrita como Ciência, Técnica e Arte. Qual característica justifica sua classificação como 'Arte'?",
     "options": [
-      "A capacidade de produzir laudos com linguagem figurada e estética para impactar emocionalmente o juiz ou o júri.",
-      "A liberdade criativa dos peritos para interpretar os fatos de forma subjetiva, sem restrições científicas rigorosas.",
-      "A exigência de qualidades instintivas para demonstrar de forma significativa a sequência lógica dos achados e a arte de redigir laudos compreensíveis.",
       "A necessidade de desenhar ilustrações complexas nos relatórios para facilitar a compreensão dos leigos e do público em geral.",
-      "O uso de técnicas artísticas para reconstruir cenas de crime com precisão visual e detalhamento estético e decorativo."
+      "A exigência de qualidades instintivas para demonstrar de forma significativa a sequência lógica dos achados e a arte de redigir laudos compreensíveis.",
+      "O uso de técnicas artísticas para reconstruir cenas de crime com precisão visual e detalhamento estético e decorativo.",
+      "A capacidade de produzir laudos com linguagem figurada e estética para impactar emocionalmente o juiz ou o júri.",
+      "A liberdade criativa dos peritos para interpretar os fatos de forma subjetiva, sem restrições científicas rigorosas."
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "A Medicina Legal é considerada uma arte porque, mesmo aplicando métodos exatos e sofisticados, exige qualidades instintivas para demonstrar de forma significativa a sequência lógica dos fatos e a capacidade de redigir laudos de forma clara e precisa, transformando a diagnose em uma arte científica.",
     "type": "conteudista"
   },
   {
     "question": "A Medicina Legal no Brasil, em suas fases históricas de desenvolvimento, foi fortemente influenciada por uma escola estrangeira. Qual país exerceu a influência mais decisiva na origem da Medicina Legal brasileira?",
     "options": [
-      "Estados Unidos, pela sua excelência em tabelas e dados estatísticos forenses para identificação.",
       "Itália, com nomes como Fortunatus Fidelis e Paolo Zacchias, que publicaram os primeiros tratados completos.",
+      "Portugal, devido à colonização, que estabeleceu os primeiros marcos legais e periciais no país.",
       "França, que teve uma influência marcante em muitos países do mundo, incluindo o Brasil.",
       "Alemanha, onde surgiram os primeiros institutos médico-legais e revistas especializadas na área.",
-      "Portugal, devido à colonização, que estabeleceu os primeiros marcos legais e periciais no país."
+      "Estados Unidos, pela sua excelência em tabelas e dados estatísticos forenses para identificação."
     ],
     "correctIndex": 2,
     "explanation": "A Medicina Legal no Brasil teve uma influência muito grande e decisiva da medicina legal francesa, marcando sua origem e desenvolvimento, embora outras escolas como a alemã e a italiana também tenham exercido alguma influência.",
@@ -145,11 +145,11 @@
   {
     "question": "A importância do estudo da Medicina Legal se estende para além dos profissionais da saúde. Para o juiz, por que o conhecimento em Medicina Legal é considerado indispensável?",
     "options": [
+      "Para que possa intervir diretamente nos procedimentos de necropsia e exames periciais realizados no local do crime.",
       "Para que possa substituir a atuação do perito, emitindo laudos técnicos por conta própria em julgamentos.",
-      "Para julgar a competência dos médicos em geral, atuando como fiscalizador da profissão médica.",
       "Para apreciar a verdade dos fatos com critério exato, analisar informes periciais e evitar erros judiciais.",
-      "Para elaborar novas leis que regulamentem a prática médica sem a necessidade de consultoria especializada.",
-      "Para que possa intervir diretamente nos procedimentos de necropsia e exames periciais realizados no local do crime."
+      "Para julgar a competência dos médicos em geral, atuando como fiscalizador da profissão médica.",
+      "Para elaborar novas leis que regulamentem a prática médica sem a necessidade de consultoria especializada."
     ],
     "correctIndex": 2,
     "explanation": "Para o juiz, o estudo da Medicina Legal é indispensável para que possa apreciar melhor a verdade com um critério exato, analisar os informes periciais e adquirir uma consciência dos fatos jurídicos, evitando, assim, erros judiciais que podem levar a sentenças trágicas.",
@@ -158,13 +158,13 @@
   {
     "question": "A Medicina Legal, acompanhando a evolução da medicina geral, discute o conceito de Medicina Legal Baseada em Evidências. Qual das seguintes definições melhor descreve essa abordagem?",
     "options": [
-      "Uma prática que se baseia exclusivamente na experiência individual do perito, desconsiderando estudos científicos.",
-      "Um modelo que prioriza a intuição e as teorias fisiopatológicas consagradas em detrimento de dados empíricos.",
-      "Uma abordagem fundada em resultados estatisticamente significantes e oriundos de pesquisa e investigação científica.",
       "A utilização de tecnologias avançadas para coletar dados, sem a necessidade de interpretação humana dos fatos.",
-      "Um método que busca a verdade soberana e absoluta em todas as conclusões periciais, sem margem para dúvida."
+      "Um modelo que prioriza a intuição e as teorias fisiopatológicas consagradas em detrimento de dados empíricos.",
+      "Uma prática que se baseia exclusivamente na experiência individual do perito, desconsiderando estudos científicos.",
+      "Um método que busca a verdade soberana e absoluta em todas as conclusões periciais, sem margem para dúvida.",
+      "Uma abordagem fundada em resultados estatisticamente significantes e oriundos de pesquisa e investigação científica."
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "A Medicina Legal Baseada em Evidências é conceituada como uma prática fundada em resultados estatisticamente significantes, padronizada e metanalítica, onde o 'mais certo' advém dos resultados científicos disponíveis e da pesquisa, em detrimento da experiência individual ou teorias consagradas.",
     "type": "conteudista"
   },
@@ -172,49 +172,49 @@
     "question": "Apesar de suas vantagens, a Medicina Legal Baseada em Evidências apresenta desvantagens reconhecidas. Qual das opções abaixo NÃO representa uma desvantagem desse método, conforme os materiais?",
     "options": [
       "A utilização intensiva de tempo em pesquisa e a complexidade do trabalho intelectual envolvido.",
-      "A dificuldade de acesso a publicações de elite e a ausência de subsídios para muitas questões periciais.",
+      "A garantia de uma verdade soberana e absoluta, eliminando qualquer margem para erro nas conclusões.",
       "A existência de estudos contraditórios e a pouca evidência científica para casos mais complexos.",
-      "O desestímulo à intuição e à experiência pessoal do perito, consideradas desnecessárias para o processo.",
-      "A garantia de uma verdade soberana e absoluta, eliminando qualquer margem para erro nas conclusões."
+      "A dificuldade de acesso a publicações de elite e a ausência de subsídios para muitas questões periciais.",
+      "O desestímulo à intuição e à experiência pessoal do perito, consideradas desnecessárias para o processo."
     ],
-    "correctIndex": 4,
+    "correctIndex": 1,
     "explanation": "As desvantagens da Medicina Legal Baseada em Evidências incluem a utilização de muito tempo em pesquisa, a complexidade intelectual, a dificuldade de revisão sistemática, a falta de subsídios para muitas questões periciais, a existência de estudos contraditórios e a escassez de evidências para casos complexos. A ideia de uma 'verdade soberana e absoluta' é refutada nos materiais, que afirmam que 'não existe verdade soberana'.",
     "type": "conteudista"
   },
   {
     "question": "A Medicina Legal tem uma relação intrínseca com os Direitos Humanos. De que forma ela contribui para a defesa e promoção desses direitos?",
     "options": [
-      "Limitando a atuação dos peritos para evitar a exposição excessiva de informações pessoais dos envolvidos.",
-      "Focando exclusivamente na punição de criminosos, sem considerar as condições da vítima ou seu bem-estar.",
-      "Constituindo-se em um instrumento que denuncia agressões e protege a dignidade da pessoa humana através de suas perícias.",
       "Elaborando teorias jurídicas sobre a origem dos direitos humanos, sem envolvimento prático com a justiça.",
-      "Buscando a verdade soberana e absoluta nos laudos, mesmo que isso implique desconsiderar o contexto social."
+      "Constituindo-se em um instrumento que denuncia agressões e protege a dignidade da pessoa humana através de suas perícias.",
+      "Limitando a atuação dos peritos para evitar a exposição excessiva de informações pessoais dos envolvidos.",
+      "Buscando a verdade soberana e absoluta nos laudos, mesmo que isso implique desconsiderar o contexto social.",
+      "Focando exclusivamente na punição de criminosos, sem considerar as condições da vítima ou seu bem-estar."
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "A Medicina Legal é um instrumento de grande valia em favor dos direitos humanos, contribuindo de maneira significativa ao denunciar, por meio de suas práticas periciais, as modalidades de agressões e ao proteger a dignidade da pessoa humana. Ela se constitui em um ato de comprometimento social na busca da cidadania e justiça social.",
     "type": "conteudista"
   },
   {
     "question": "Durante um atendimento em pronto-socorro, um médico observa em uma criança equimoses azuladas no tórax e esverdeadas no dorso, além de escoriações no rosto. A mãe relata que a criança caiu no dia anterior. Qual a implicação médico-legal mais provável que o médico deve considerar?",
     "options": [
-      "As lesões são consistentes com a queda recente, exigindo apenas um tratamento sintomático e alta.",
-      "As equimoses de diferentes tonalidades sugerem traumas em diferentes datas, indicando suspeita de violência e necessidade de investigação.",
-      "A variedade de lesões é um achado comum em crianças ativas, sem necessidade de intervenção legal.",
       "A discrepância entre a história e os achados é irrelevante para a prática médico-legal, sendo foco apenas da medicina clínica.",
-      "A presença de equimoses coloridas é um sinal de doença autoimune, demandando exames laboratoriais aprofundados."
+      "A presença de equimoses coloridas é um sinal de doença autoimune, demandando exames laboratoriais aprofundados.",
+      "As equimoses de diferentes tonalidades sugerem traumas em diferentes datas, indicando suspeita de violência e necessidade de investigação.",
+      "As lesões são consistentes com a queda recente, exigindo apenas um tratamento sintomático e alta.",
+      "A variedade de lesões é um achado comum em crianças ativas, sem necessidade de intervenção legal."
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "A presença de equimoses de diferentes colorações (azuis e esverdeadas) em diversas regiões do corpo, especialmente quando a história contada (queda recente) não é compatível com a idade das lesões (equimose esverdeada indica trauma de pelo menos 20 dias), deve levantar forte suspeita de agressões em diferentes datas. Isso exige um olhar atento do médico para criar uma suspeita e direcionar uma investigação mais aprofundada por parte da justiça.",
     "type": "raciocínio"
   },
   {
     "question": "Um perito médico-legista analisa duas vítimas com lesões cervicais. Na primeira, observa um sulco cervical horizontalizado e contínuo. Na segunda, um sulco ascendente e descontínuo. Qual a principal distinção e implicação inicial que esses achados sugerem para a investigação forense?",
     "options": [
-      "Ambos os achados são característicos de enforcamento, variando apenas a posição da corda utilizada na constrição.",
+      "As lesões são consistentemente acidentais em ambos os casos, sem relevância para a determinação da causa da morte.",
       "O sulco horizontalizado contínuo sugere enforcamento, enquanto o ascendente descontínuo indica estrangulamento.",
       "O sulco horizontalizado e contínuo possui alto potencial de ser homicida (estrangulamento), e o ascendente e descontínuo é característico de enforcamento.",
-      "As lesões são consistentemente acidentais em ambos os casos, sem relevância para a determinação da causa da morte.",
-      "A continuidade do sulco é irrelevante, sendo apenas a profundidade o fator determinante da causa da lesão."
+      "A continuidade do sulco é irrelevante, sendo apenas a profundidade o fator determinante da causa da lesão.",
+      "Ambos os achados são característicos de enforcamento, variando apenas a posição da corda utilizada na constrição."
     ],
     "correctIndex": 2,
     "explanation": "Um sulco cervical horizontalizado e contínuo dificilmente é voluntário e tem grande potencial de ser homicida, sendo sugestivo de estrangulamento. Por outro lado, um sulco cervical ascendente e descontínuo é muito característico de enforcamentos. Essa distinção é crucial para direcionar a investigação da causa da morte e a natureza do evento.",
@@ -223,39 +223,39 @@
   {
     "question": "Em um caso de agressão a uma gestante, onde o chute na barriga resulta no nascimento de um feto sem vida com 36 semanas de gestação, o médico legista declara 'aborto' no laudo. Qual a implicação dessa declaração para o agressor e a responsabilidade do médico que a emite?",
     "options": [
+      "A pena do agressor será atenuada, pois o feto não é considerado juridicamente uma 'pessoa' antes do nascimento.",
       "A declaração de 'aborto' não possui impacto legal na pena do agressor, sendo apenas um termo médico descritivo.",
-      "A responsabilidade do médico se limita a registrar o óbito, sem considerar as repercussões jurídicas da terminologia utilizada.",
-      "A declaração de 'aborto' para um feto sem vida, independentemente da idade gestacional, agrava a lesão para 'gravíssima', aumentando significativamente a pena do agressor, demonstrando a responsabilidade do médico na precisão do laudo.",
       "O médico deve omitir o termo 'aborto' e utilizar 'nascimento de natimorto' para não influenciar a decisão judicial sobre a pena.",
-      "A pena do agressor será atenuada, pois o feto não é considerado juridicamente uma 'pessoa' antes do nascimento."
+      "A responsabilidade do médico se limita a registrar o óbito, sem considerar as repercussões jurídicas da terminologia utilizada.",
+      "A declaração de 'aborto' para um feto sem vida, independentemente da idade gestacional, agrava a lesão para 'gravíssima', aumentando significativamente a pena do agressor, demonstrando a responsabilidade do médico na precisão do laudo."
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "Para a Medicina Legal, todo ser humano que sai do útero da mãe sem vida, independentemente da idade gestacional, é considerado legalmente aborto. Se uma agressão resulta em aborto, a lesão corporal é classificada como gravíssima, o que acarreta um aumento significativo da pena para o agressor (de 8 a 12 anos). Assim, o médico, ao preencher a declaração de óbito com a terminologia correta, tem a grande responsabilidade de 'selar a quantidade de pena que o ofensor vai receber'.",
     "type": "raciocínio"
   },
   {
     "question": "Uma mulher, na vigência do estado puerperal, mata seu recém-nascido. Do ponto de vista médico-legal, qual a principal implicação dessa condição para a responsabilidade penal da mãe?",
     "options": [
-      "O estado puerperal é irrelevante para a determinação da pena, devendo ser aplicada a mesma sanção de um homicídio comum.",
-      "A mãe deve ser considerada totalmente inimputável devido à ausência completa de discernimento de seus atos.",
-      "A condição de estado puerperal, que afeta o discernimento da mãe, leva à atenuação da pena pelo crime de infanticídio, conforme a lei.",
       "O médico-legista não tem responsabilidade em caracterizar o estado puerperal, sendo essa uma tarefa exclusiva do juiz.",
-      "A mãe no estado puerperal que mata o filho deve receber tratamento psiquiátrico compulsório, sem aplicação de pena criminal."
+      "O estado puerperal é irrelevante para a determinação da pena, devendo ser aplicada a mesma sanção de um homicídio comum.",
+      "A mãe no estado puerperal que mata o filho deve receber tratamento psiquiátrico compulsório, sem aplicação de pena criminal.",
+      "A mãe deve ser considerada totalmente inimputável devido à ausência completa de discernimento de seus atos.",
+      "A condição de estado puerperal, que afeta o discernimento da mãe, leva à atenuação da pena pelo crime de infanticídio, conforme a lei."
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "A Medicina Legal, especialmente a Psiquiatria Forense, é crucial para caracterizar o estado puerperal. Quando uma mãe mata o próprio filho na vigência desse estado, a lei entende que ela não possui discernimento claro do que está fazendo, o que acarreta uma atenuação da pena pelo crime de infanticídio.",
     "type": "raciocínio"
   },
   {
     "question": "Um perito médico-legista, ao examinar uma vítima de ferimento por arma de fogo, encontra grânulos de pólvora incbusta impregnados na pele. Qual a informação crucial que esse achado permite determinar e qual a relevância para a justiça?",
     "options": [
-      "A pólvora incbusta indica que a arma utilizada era de fabricação artesanal, afetando a classificação do crime.",
-      "A presença de pólvora incbusta é irrelevante para a investigação, sendo um achado comum em qualquer disparo.",
       "Esse achado permite determinar a distância do disparo, sendo crucial para a investigação de defesa ou não, por exemplo.",
+      "A impregnação da pólvora significa que a vítima tentou manusear a arma, indicando uma possível autodefesa.",
+      "A presença de pólvora incbusta é irrelevante para a investigação, sendo um achado comum em qualquer disparo.",
       "O médico-legista deve manter essa informação em sigilo, pois a distância do disparo não é uma questão médica, mas policial.",
-      "A impregnação da pólvora significa que a vítima tentou manusear a arma, indicando uma possível autodefesa."
+      "A pólvora incbusta indica que a arma utilizada era de fabricação artesanal, afetando a classificação do crime."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "A presença de pólvora incbusta na pele da vítima é um achado médico-legal crucial, pois indica que o disparo foi feito a muito curta distância ou à queima-roupa. Essa informação é de extrema importância para a autoridade policial e judiciária, pois pode ser determinante para analisar a dinâmica do crime, como se houve defesa ou a natureza do evento (acidental, suicida, homicida).",
     "type": "raciocínio"
   }

@@ -2,13 +2,13 @@
   {
     "question": "De acordo com a classificação dos meios mecânicos em traumatologia forense, quais categorias de lesões se distinguem pelos agentes que as produzem?",
     "options": [
-      "Perfurantes, cortantes, contundentes, perfurocortantes, perfurocontundentes e cortocontundentes",
-      "Incisas, lacerantes, abrasivas, perfurotorácicas, barométricas e excoriantes",
-      "Ponto‑cortantes, fraturantes, vibratórias, barotraumatizantes, contorcidas e descompressivas",
       "Oxidantes, mordentes, urticantes, constritivas, hematogênicas e necrotizantes",
-      "Térmicas, químicas, elétricas, radioativas, traumatoidénticas e vasculares"
+      "Térmicas, químicas, elétricas, radioativas, traumatoidénticas e vasculares",
+      "Perfurantes, cortantes, contundentes, perfurocortantes, perfurocontundentes e cortocontundentes",
+      "Ponto‑cortantes, fraturantes, vibratórias, barotraumatizantes, contorcidas e descompressivas",
+      "Incisas, lacerantes, abrasivas, perfurotorácicas, barométricas e excoriantes"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "O capítulo de traumatologia médico‑legal explica que os meios mecânicos agem por pressão, percussão, tração e outras forças e, conforme o agente, são classificados em perfurantes, cortantes, contundentes, perfurocortantes, perfurocontundentes e cortocontundentes, produzindo respectivamente feridas punctiformes, cortantes, contusas, perfurocortantes, perfurocontusas e cortocontusas【228092321055444†L52-L75】. Nenhuma das outras alternativas corresponde às classes reconhecidas para instrumentos mecânicos.",
     "type": "conteudista"
   },
@@ -16,10 +16,10 @@
     "question": "Um ferimento apresenta abertura pontiforme, pouco sangramento e trajeto profundo em forma de túnel. A pele ao redor retrai‑se de modo que a entrada parece menor que o diâmetro do instrumento. Que tipo de lesão e agente correspondem a essa descrição?",
     "options": [
       "Ferida perfurante provocada por estilete ou agulha",
-      "Ferida cortante produzida por lâmina afiada",
-      "Ferida contusa causada por superfície romba",
       "Ferida perfurocontusa por projétil de arma de fogo",
-      "Ferida lacerante de alto calibre com bordas irregulares"
+      "Ferida lacerante de alto calibre com bordas irregulares",
+      "Ferida cortante produzida por lâmina afiada",
+      "Ferida contusa causada por superfície romba"
     ],
     "correctIndex": 0,
     "explanation": "As lesões produzidas por instrumentos perfurantes – de ponta aguda e diâmetro reduzido como estilete, sovela ou agulha – mostram abertura estreita, pouco sangramento e trajeto representado por um túnel profundo; devido à elasticidade dos tecidos, a ferida de entrada costuma ter diâmetro menor que o do instrumento【228092321055444†L86-L114】. As feridas cortantes têm bordas lineares e sangram muito, as contusas possuem margens irregulares e pontes de tecido, e as perfurocontusas são produzidas por projéteis de armas de fogo.",
@@ -28,39 +28,39 @@
   {
     "question": "Na análise de uma ferida incisa, quais são características típicas observadas pelo perito legista?",
     "options": [
-      "Borda linear, regular e separada, cauda de escoriação indicando direção do golpe e abundante sangramento",
       "Bordas estreladas, pontes de tecido íntegro e leve sangramento",
+      "Bordas evertidas com saída de gases e fragmentos ósseos",
       "Abertura puntiforme com trajeto profundo semelhante a túnel",
       "Halo de tatuagem, esfumaçamento e contusão marginal",
-      "Bordas evertidas com saída de gases e fragmentos ósseos"
+      "Borda linear, regular e separada, cauda de escoriação indicando direção do golpe e abundante sangramento"
     ],
-    "correctIndex": 0,
+    "correctIndex": 4,
     "explanation": "As feridas cortantes apresentam forma linear, base e bordas regulares, afastamento das bordas por falta de pontes de tecido e sangramento abundante; é comum a presença de uma pequena abrasão terminal denominada cauda de escoriação que indica a direção do corte【228092321055444†L235-L377】【228092321055444†L369-L376】. Feridas contusas exibem bordas estreladas e pontes de tecido, as perfurantes mostram abertura puntiforme e túnel, os sinais de halo e esfumaçamento são típicos de tiros, e bordas evertidas com gases correspondem à saída de projéteis.",
     "type": "conteudista"
   },
   {
     "question": "Qual é a descrição correta para uma ferida contusa produzida por instrumento rombo?",
     "options": [
-      "Bordas irregulares com escoriações e equimoses, fundo e margens irregulares, pontes de tecido íntegro e sangramento discreto",
       "Corte linear com bordas regulares e cauda de escoriação",
-      "Abertura puntiforme, com trajeto profundo em forma de túnel",
       "Sangramento abundante com bordas regulares, separadas e sem escoriações",
+      "Abertura puntiforme, com trajeto profundo em forma de túnel",
+      "Bordas irregulares com escoriações e equimoses, fundo e margens irregulares, pontes de tecido íntegro e sangramento discreto",
       "Orla de escoriação concêntrica, halo de enxugo e zona de tatuagem"
     ],
-    "correctIndex": 0,
+    "correctIndex": 3,
     "explanation": "As feridas contusas, resultantes de ação de meios rombos, apresentam forma sinuosa ou estrelada, bordas irregulares com escoriações e equimoses, fundo e margens irregulares, pontes de tecido íntegro ligando as bordas, retração das bordas e pouco sangramento【228092321055444†L992-L1051】. Feridas cortantes são lineares e regulares, feridas perfurantes têm abertura puntiforme, e sinais de halo ou tatuagem decorrem de ferimentos por armas de fogo.",
     "type": "conteudista"
   },
   {
     "question": "Durante a avaliação de uma escoriação, o perito observa que o leito está seco, pálido e sem crosta. Que conclusão pode ser inferida quanto ao momento da lesão?",
     "options": [
-      "Trata‑se de uma escoriação produzida após a morte, pois não há exsudação nem formação de crosta",
-      "É uma escoriação vital em processo de cicatrização, com sangue seco e serosidade",
-      "O aspecto indica lesão vital recente com exsudato sero‑hemático e crosta aderente",
       "Trata‑se de contusão profunda com equimose subjacente",
-      "A lesão é fruto de queimadura solar de primeiro grau"
+      "O aspecto indica lesão vital recente com exsudato sero‑hemático e crosta aderente",
+      "Trata‑se de uma escoriação produzida após a morte, pois não há exsudação nem formação de crosta",
+      "A lesão é fruto de queimadura solar de primeiro grau",
+      "É uma escoriação vital em processo de cicatrização, com sangue seco e serosidade"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Nas escoriações produzidas post mortem, a derme apresenta-se seca, descorada e apergaminhada, sem formação de crosta ou exsudação de serosidade ou sangue【228092321055444†L660-L664】. Escoriações vitais mostram crosta e exsudato seroso ou sanguinolento; contusões têm equimose; e queimaduras solares são eritematosas.",
     "type": "conteudista"
   },
@@ -68,10 +68,10 @@
     "question": "Instrumentos de ponta e gume podem ter um, dois ou três gumes. Qual associação entre tipo de lâmina e forma da ferida está correta?",
     "options": [
       "Uma lâmina de um só gume causa ferida em forma de botoeira com um ângulo agudo e outro arredondado",
-      "Lâminas de dois gumes originam uma fenda de bordas desiguais, com um ângulo obtuso e outro agudo",
-      "Lâminas triangulares produzem feridas lineares com bordas regulares",
+      "Uma lâmina de três gumes origina ferida circular com halo de escoriação",
       "Uma faca de um só gume causa ferida triangular ou estrelada",
-      "Uma lâmina de três gumes origina ferida circular com halo de escoriação"
+      "Lâminas triangulares produzem feridas lineares com bordas regulares",
+      "Lâminas de dois gumes originam uma fenda de bordas desiguais, com um ângulo obtuso e outro agudo"
     ],
     "correctIndex": 0,
     "explanation": "As lesões perfurocortantes resultam de instrumentos de ponta e corte. Nas armas de um só gume (faca‑peixeira, canivete), a ferida assume forma de botoeira com fenda linear, apresentando um ângulo agudo e outro arredondado; nas de dois gumes (punhal) a fenda é simétrica e com dois ângulos agudos; e nos instrumentos de três gumes ou triangulares a lesão tem forma triangular ou estrelada【228092321055444†L1979-L2003】.",
@@ -80,91 +80,91 @@
   {
     "question": "Em um ferimento de entrada por projétil de arma de fogo a curta distância (10 a 50 cm), quais estigmas são normalmente encontrados?",
     "options": [
-      "Orla de escoriação, halo de enxugo, halo de tatuagem, zona de esfumaçamento e, às vezes, queimadura com pelos chamuscados",
-      "Somente bordas evertidas com orla equimótica sem qualquer depósito de pólvora",
       "Ferida puntiforme com ausência de equimose ou escoriação marginal e sem resíduos de pólvora",
+      "Bordas reviradas para fora e ausência de contusão nas margens",
+      "Somente bordas evertidas com orla equimótica sem qualquer depósito de pólvora",
       "Somente abertura linear e regular, sem halo de enxugo ou tatuagem",
-      "Bordas reviradas para fora e ausência de contusão nas margens"
+      "Orla de escoriação, halo de enxugo, halo de tatuagem, zona de esfumaçamento e, às vezes, queimadura com pelos chamuscados"
     ],
-    "correctIndex": 0,
+    "correctIndex": 4,
     "explanation": "Os ferimentos de entrada a curta distância mostram forma arredondada ou elíptica, orla de escoriação (zona de contusão), halo de enxugo (impurezas deixadas pelo projétil), halo ou zona de tatuagem (grãos de pólvora incombusta), orla ou zona de esfumaçamento (fuligem removível) e, nos tiros à queima‑roupa, zona de queimadura com pelos crestados e pele apergaminhada【228092321055444†L2453-L2474】【228092321055444†L2550-L2561】. Bordas evertidas e ausência de resíduos ocorrem nos orifícios de saída.",
     "type": "conteudista"
   },
   {
     "question": "Quais diferenças permitem distinguir o orifício de entrada do orifício de saída de projétil de arma de fogo em ossos chatos, conforme o sinal do funil de Bonnet?",
     "options": [
-      "Na lâmina externa, a entrada é regular e arredondada e, na lâmina interna, apresenta bisel interno maior; no ferimento de saída, o bisel é externo e voltado para fora",
-      "O orifício de entrada apresenta bordas evertidas e irregulares, e o de saída tem bordas invertidas e regulares",
       "No orifício de entrada há grande perda de tecido e fragmentos ósseos, enquanto o de saída apresenta pequena laceração",
-      "A entrada mostra apenas depósito de pólvora e fuligem, enquanto a saída apresenta orla de escoriação extensa",
-      "O ferimento de entrada em osso sempre é maior que o de saída e sem biséis"
+      "O ferimento de entrada em osso sempre é maior que o de saída e sem biséis",
+      "O orifício de entrada apresenta bordas evertidas e irregulares, e o de saída tem bordas invertidas e regulares",
+      "Na lâmina externa, a entrada é regular e arredondada e, na lâmina interna, apresenta bisel interno maior; no ferimento de saída, o bisel é externo e voltado para fora",
+      "A entrada mostra apenas depósito de pólvora e fuligem, enquanto a saída apresenta orla de escoriação extensa"
     ],
-    "correctIndex": 0,
+    "correctIndex": 3,
     "explanation": "O sinal do funil de Bonnet permite identificar a direção do tiro em ossos chatos. No ferimento de entrada, a lâmina externa do osso exibe orifício arredondado e regular em forma de saca‑bocado; a lâmina interna apresenta um bisel interno maior, conferindo aspecto de funil. No ferimento de saída, ocorre o contrário: há amplo bisel externo com base voltada para fora【228092321055444†L2669-L2681】. As alternativas que sugerem bordas evertidas na entrada ou ausência de biséis estão incorretas.",
     "type": "conteudista"
   },
   {
     "question": "Considerando a tabela de distâncias para disparos com armas portáteis, qual relação entre modalidade de tiro e distância usual está correta?",
     "options": [
-      "Tiro de contato: arma apoiada na vítima (0 cm); tiro a queima‑roupa: geralmente até 10 cm; tiro a curta distância: 10–50 cm; tiro a média distância: 50–60/70 cm; tiro a longa distância: acima de 60–70 cm",
-      "Tiro de contato: acima de 1 m; tiro a queima‑roupa: 20–50 cm; tiro a curta distância: 1–2 m; tiro a média distância: 5–10 m; tiro a longa distância: mais de 10 m",
       "Tiro de contato: 10–50 cm; tiro a queima‑roupa: 50–60 cm; tiro a curta distância: até 1 m; tiro a média distância: 2–3 m; tiro a longa distância: mais de 5 m",
+      "Tiro de contato: acima de 1 m; tiro a queima‑roupa: 20–50 cm; tiro a curta distância: 1–2 m; tiro a média distância: 5–10 m; tiro a longa distância: mais de 10 m",
+      "Tiro de contato: arma apoiada na vítima (0 cm); tiro a queima‑roupa: geralmente até 10 cm; tiro a curta distância: 10–50 cm; tiro a média distância: 50–60/70 cm; tiro a longa distância: acima de 60–70 cm",
       "Tiro de contato: 0 cm; tiro a queima‑roupa: 0–5 cm; tiro a curta distância: 5–15 cm; tiro a média distância: 15–30 cm; tiro a longa distância: acima de 30 cm",
       "Tiro de contato: 0 cm; tiro a queima‑roupa: até 20 cm; tiro a curta distância: 20–80 cm; tiro a média distância: 80–150 cm; tiro a longa distância: além de 150 cm"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "O Quadro 4.1 da obra de traumatologia estabelece distâncias usuais para disparos com armas portáteis: tiro de contato (a arma apoia‑se na vítima) equivale a zero de distância; tiro à queima‑roupa ocorre geralmente até 10 cm; tiro a curta distância, entre 10 e 50 cm; tiro a média distância, aproximadamente 50–60/70 cm (excepcionalmente até 2–3 m); e tiro a longa distância, acima de 60–70 cm【228092321055444†L2714-L2731】. As demais opções trazem números incompatíveis com a classificação indicada.",
     "type": "conteudista"
   },
   {
     "question": "Por que as microestrias presentes em projéteis de armas raiadas são importantes na balística forense?",
     "options": [
-      "Porque cada cano deixa microdeformações únicas que permitem identificar individualmente a arma que deflagrou o projétil",
-      "Porque as deformações macroscópicas são suficientes para identificar o calibre e fabricante da arma, dispensando exames microscópicos",
-      "Porque as microestrias identificam exclusivamente a munição utilizada, mas não têm relação com a arma",
       "Porque as microestrias são padronizadas em todos os canos de armas do mesmo modelo e não servem para individualizar",
-      "Porque as microestrias apenas indicam a velocidade do projétil, sem utilidade para a identificação da arma"
+      "Porque as microestrias identificam exclusivamente a munição utilizada, mas não têm relação com a arma",
+      "Porque as microestrias apenas indicam a velocidade do projétil, sem utilidade para a identificação da arma",
+      "Porque cada cano deixa microdeformações únicas que permitem identificar individualmente a arma que deflagrou o projétil",
+      "Porque as deformações macroscópicas são suficientes para identificar o calibre e fabricante da arma, dispensando exames microscópicos"
     ],
-    "correctIndex": 0,
+    "correctIndex": 3,
     "explanation": "Ao passar pelo cano de uma arma raiada, o projétil recebe impressões das raias sob a forma de microestrias. Essas microdeformações nunca se reproduzem de modo idêntico em dois canos diferentes, mesmo que fabricados pela mesma máquina. Por isso, a análise microscópica dessas estrias permite a identificação individual da arma que deflagrou o projétil【228092321055444†L2239-L2255】. As deformações macroscópicas têm valor limitado e as microestrias não são padronizadas entre armas.",
     "type": "conteudista"
   },
   {
     "question": "Uma explosão pode gerar lesões por ação mecânica e pela onda de choque. Quais manifestações são típicas da blast injury causada pela onda expansiva?",
     "options": [
-      "Ruptura do tímpano com perda auditiva, hemorragia pulmonar difusa, hemorragias e perfurações intestinais e hemorragia ocular com cegueira",
-      "Ferimentos puntiformes com túnel profundo, sem dano interno aos órgãos",
       "Corte linear com bordas regulares, cauda de escoriação e hemorragia abundante",
-      "Equimoses superficiais sem lesão interna, limitadas à pele",
-      "Fraturas expostas com perda óssea mas sem hemorragia dos órgãos internos"
+      "Ruptura do tímpano com perda auditiva, hemorragia pulmonar difusa, hemorragias e perfurações intestinais e hemorragia ocular com cegueira",
+      "Fraturas expostas com perda óssea mas sem hemorragia dos órgãos internos",
+      "Ferimentos puntiformes com túnel profundo, sem dano interno aos órgãos",
+      "Equimoses superficiais sem lesão interna, limitadas à pele"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "A blast injury, produzida pela onda de pressão e sucção de uma explosão, provoca lesões internas características: a mais comum é a ruptura do tímpano, acompanhada de surdez; há hemorragia capilar difusa nos pulmões, com escarros hemoptoicos; lesões abdominais com sangramentos em anéis e perfurações de intestino; e lesões oculares com hemorragia vítrea e cegueira【228092321055444†L1273-L1341】. Ferimentos puntiformes e cortes lineares relacionam‑se a armas de ponta ou lâmina, equimoses superficiais e fraturas expostas decorrem de outras formas de trauma.",
     "type": "conteudista"
   },
   {
     "question": "Como se classificam as queimaduras segundo Hoffmann e quais características se associam a cada grau?",
     "options": [
-      "Primeiro grau: eritema com edema e dor; segundo grau: vesículas com líquido seroso e derme desnuda quando rompidas; terceiro grau: necrose coagulativa atingindo planos musculares e menor dor; quarto grau: carbonização envolvendo ossos",
-      "Primeiro grau: carbonização com músculos retraídos; segundo grau: escaras negras e exposição óssea; terceiro grau: flictenas contendo líquido seroso; quarto grau: eritema simples sem lesão de epiderme",
       "Primeiro grau: flictenas com líquido seroso; segundo grau: eritema simples sem dor; terceiro grau: necrose seguida de coágulo; quarto grau: úlceras profundas sem carbonização",
+      "Primeiro grau: lesão elétrica profunda; segundo grau: necrose súbita do músculo cardíaco; terceiro grau: carbonização generalizada; quarto grau: eritema solar",
+      "Primeiro grau: eritema com edema e dor; segundo grau: vesículas com líquido seroso e derme desnuda quando rompidas; terceiro grau: necrose coagulativa atingindo planos musculares e menor dor; quarto grau: carbonização envolvendo ossos",
       "Primeiro grau: ulceração cutânea com perda de epiderme; segundo grau: desorganização da epiderme com comprometimento da camada de Malpighi; terceiro grau: escaras negras; quarto grau: carbonização de partes moles sem ossos",
-      "Primeiro grau: lesão elétrica profunda; segundo grau: necrose súbita do músculo cardíaco; terceiro grau: carbonização generalizada; quarto grau: eritema solar"
+      "Primeiro grau: carbonização com músculos retraídos; segundo grau: escaras negras e exposição óssea; terceiro grau: flictenas contendo líquido seroso; quarto grau: eritema simples sem lesão de epiderme"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "A classificação de Hoffmann divide as queimaduras em quatro graus. O primeiro grau corresponde ao eritema simples, com edema e dor, envolvendo apenas a epiderme; o segundo grau apresenta vesículas (flictenas) com líquido seroso, e, quando rompidas, deixam a derme desnuda e apergaminhada【228092321055444†L4045-L4085】; o terceiro grau apresenta necrose coagulativa dos tecidos moles, atingindo planos musculares, com menos dor pela destruição de terminações nervosas【228092321055444†L4086-L4095】; e o quarto grau caracteriza‑se pela carbonização, inclusive de planos ósseos, com redução do corpo e postura típica de lutador【228092321055444†L4097-L4113】.",
     "type": "conteudista"
   },
   {
     "question": "Ao avaliar uma equimose, o legista observa que a cor predominante é azulada. Segundo o espectro equimótico de Legrand du Saulle, em que período após o trauma essa coloração costuma ocorrer?",
     "options": [
-      "Entre o quarto e o sexto dia pós‑trauma",
       "No primeiro dia após a agressão",
       "No segundo e terceiro dias",
       "Entre o sétimo e o décimo dia",
-      "Por volta do décimo segundo dia"
+      "Por volta do décimo segundo dia",
+      "Entre o quarto e o sexto dia pós‑trauma"
     ],
-    "correctIndex": 0,
+    "correctIndex": 4,
     "explanation": "O espectro equimótico de Legrand du Saulle descreve a evolução das cores das equimoses: inicialmente vermelha, tornando‑se vermelho‑escura ou violácea; em seguida azulada entre o quarto e o sexto dia; esverdeada do sétimo ao décimo dia; e amarelada por volta do décimo segundo dia, desaparecendo geralmente entre o 15º e 20º dia【228092321055444†L765-L770】. Portanto, a coloração azul indica aproximadamente o quarto ao sexto dia após o trauma.",
     "type": "conteudista"
   },
@@ -172,10 +172,10 @@
     "question": "Entre os mecanismos de lesão provocados por agentes contundentes, qual é considerado a forma mais leve e de rápida regressão?",
     "options": [
       "Rubefação (eritema) resultante de congestão capilar",
-      "Escoriação com remoção da epiderme e exsudação serosa",
       "Ferida contusa com pontes de tecido e fundo irregular",
       "Equimose com infiltração hemorrágica dos tecidos",
-      "Fratura completa com cominuição óssea"
+      "Fratura completa com cominuição óssea",
+      "Escoriação com remoção da epiderme e exsudação serosa"
     ],
     "correctIndex": 0,
     "explanation": "Entre as lesões por ação contundente, a rubefação é a forma mais leve. Trata‑se de uma área avermelhada (eritematosa) resultante de congestão súbita dos vasos, desaparecendo rapidamente se não houver continuação da agressão【228092321055444†L603-L617】. A escoriação já envolve remoção da epiderme, a ferida contusa apresenta irregularidades e pontes de tecido, a equimose caracteriza extravasamento de sangue e as fraturas correspondem a solução de continuidade óssea.",
@@ -184,13 +184,13 @@
   {
     "question": "No contexto das queimaduras, qual é a finalidade da denominada Regra dos Noves de Pulaski e Tennisson?",
     "options": [
-      "Estimativa da superfície corporal queimada para avaliar o perigo de vida e a classificação jurídico‑penal da lesão",
-      "Classificação do grau de queimadura pelo tipo de tecido atingido",
-      "Determinação da causa da queimadura (acidental, homicida ou suicida)",
       "Identificação do agente térmico (chama, sólido quente ou substância química)",
-      "Contagem do número de bolhas e de escaras para definir a responsabilidade penal"
+      "Classificação do grau de queimadura pelo tipo de tecido atingido",
+      "Estimativa da superfície corporal queimada para avaliar o perigo de vida e a classificação jurídico‑penal da lesão",
+      "Contagem do número de bolhas e de escaras para definir a responsabilidade penal",
+      "Determinação da causa da queimadura (acidental, homicida ou suicida)"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "O texto explica que, para avaliar o perigo de vida e a gravidade jurídica das lesões por queimadura, utiliza‑se a Regra dos Noves de Pulaski e Tennisson, a qual estima a superfície corporal queimada em porcentagens (9 % para cabeça e pescoço, 9 % para cada membro superior, etc.). Essa estimativa é importante para caracterizar se há risco à vida, o que influencia a classificação legal da lesão【228092321055444†L4045-L4051】. As outras alternativas referem‑se a aspectos distintos.",
     "type": "conteudista"
   },
@@ -198,10 +198,10 @@
     "question": "Durante a perícia, o legista necessita determinar o intervalo temporal de uma escoriação. Que elementos são considerados para estimar a idade da lesão?",
     "options": [
       "Aspecto do leito e da crosta e a coloração durante a reepitelização",
-      "Profundidade do túnel e diâmetro de entrada e saída",
-      "Quantidade de escaras negras e presença de carbonização",
+      "O comprimento das pontes de tecido e a retração das bordas",
       "A presença de halo de tatuagem e zone de esfumaçamento ao redor",
-      "O comprimento das pontes de tecido e a retração das bordas"
+      "Profundidade do túnel e diâmetro de entrada e saída",
+      "Quantidade de escaras negras e presença de carbonização"
     ],
     "correctIndex": 0,
     "explanation": "A idade de uma escoriação possui interesse médico‑legal. Para estimá‑la, examina‑se cuidadosamente o aspecto do leito da lesão, a presença e a aparência da crosta (serosidade versus sangue) e as mudanças de coloração que acompanham a reepitelização【228092321055444†L668-L671】. O diâmetro do túnel refere‑se a ferimentos perfurantes, escaras negras e carbonização correspondem a queimaduras, e halos de tatuagem pertencem a tiros.",
@@ -210,39 +210,39 @@
   {
     "question": "Qual das afirmações abaixo está correta sobre equimoses no exame médico‑legal?",
     "options": [
-      "As equimoses são provas de reação vital, podem reproduzir a marca do instrumento e sua tonalidade evolui de vermelha para violácea, azulada, esverdeada e amarelada até desaparecer em 15–20 dias",
-      "Equimoses não têm valor cronológico, pois não sofrem alterações de cor ao longo do tempo",
-      "Equimoses sempre surgem imediatamente no local do impacto e nunca em regiões distantes",
       "As equimoses são mais sangrantes que as feridas cortantes e não reproduzem a forma do instrumento",
-      "A presença de equimose indica obrigatoriamente a utilização de instrumento perfurante de médio calibre"
+      "A presença de equimose indica obrigatoriamente a utilização de instrumento perfurante de médio calibre",
+      "Equimoses não têm valor cronológico, pois não sofrem alterações de cor ao longo do tempo",
+      "As equimoses são provas de reação vital, podem reproduzir a marca do instrumento e sua tonalidade evolui de vermelha para violácea, azulada, esverdeada e amarelada até desaparecer em 15–20 dias",
+      "Equimoses sempre surgem imediatamente no local do impacto e nunca em regiões distantes"
     ],
-    "correctIndex": 0,
+    "correctIndex": 3,
     "explanation": "As equimoses resultam do extravasamento de sangue nos tecidos e constituem prova de reação vital. Podem reproduzir com fidelidade a forma do objeto (equimose figurada) e sua tonalidade evolui com o tempo: inicial avermelhada, depois vermelha‑escura ou violácea, azulada por volta do quarto ao sexto dia, esverdeada do sétimo ao décimo dia e finalmente amarelada, desaparecendo em média entre 15 e 20 dias【228092321055444†L765-L770】. Portanto, têm valor cronológico relativo. Elas nem sempre surgem imediatamente no local do trauma (podem migrar), sangram pouco em comparação às feridas cortantes e não resultam de instrumentos perfurantes.",
     "type": "conteudista"
   },
   {
     "question": "Na balística forense, qual é a diferença entre balística interna, externa e dos efeitos?",
     "options": [
-      "A balística interna estuda o funcionamento e a estrutura das armas e o disparo; a externa examina a trajetória do projétil até o impacto; e a balística dos efeitos analisa os danos causados pelo projétil nos corpos atingidos",
-      "A balística interna analisa a trajetória do projétil no ar; a externa estuda apenas o calibre das munições; e a balística dos efeitos trata da identificação de armas por microestrias",
       "A balística interna define a natureza jurídica do disparo; a externa determina a intenção do atirador; e a balística dos efeitos avalia a culpabilidade do agente",
-      "A balística interna refere‑se às lesões observadas nos alvos; a externa avalia as deformações nas cápsulas; e a dos efeitos investiga o calibre das armas",
-      "A balística interna examina as marcas de percussão nos estojos; a externa estuda a compressão de gases; e a dos efeitos estuda as leis de Filhos e Langer"
+      "A balística interna examina as marcas de percussão nos estojos; a externa estuda a compressão de gases; e a dos efeitos estuda as leis de Filhos e Langer",
+      "A balística interna analisa a trajetória do projétil no ar; a externa estuda apenas o calibre das munições; e a balística dos efeitos trata da identificação de armas por microestrias",
+      "A balística interna estuda o funcionamento e a estrutura das armas e o disparo; a externa examina a trajetória do projétil até o impacto; e a balística dos efeitos analisa os danos causados pelo projétil nos corpos atingidos",
+      "A balística interna refere‑se às lesões observadas nos alvos; a externa avalia as deformações nas cápsulas; e a dos efeitos investiga o calibre das armas"
     ],
-    "correctIndex": 0,
+    "correctIndex": 3,
     "explanation": "A balística forense divide‑se em três ramos: a balística interna trata do funcionamento das armas, de sua estrutura e da técnica do tiro; a balística externa estuda o trajeto do projétil desde a saída da arma até alcançar seu alvo; e a balística dos efeitos (ou do ferimento) analisa os danos produzidos pelo projétil nos corpos atingidos, incluindo ricochetes, impactos e lesões【228092321055444†L2190-L2213】. As outras afirmações confundem as áreas ou atribuem-lhes funções incorretas.",
     "type": "conteudista"
   },
   {
     "question": "Qual das opções a seguir descreve corretamente a diferença entre lesão corporal grave e lesão corporal gravíssima, segundo o artigo 129 do Código Penal e a doutrina médico‑legal?",
     "options": [
+      "Lesão grave e gravíssima são sinônimos, pois ambas resultam em pena de reclusão de dois a oito anos",
+      "Lesão grave depende apenas da opinião subjetiva do perito, sem critérios objetivos na lei",
       "Lesão grave envolve incapacidade para as ocupações habituais por mais de 30 dias, debilidade de membro, sentido ou função, perigo de vida ou aceleração do parto; lesão gravíssima inclui incapacidade permanente para o trabalho, enfermidade incurável, perda ou inutilização de membro, sentido ou função, deformidade permanente e aborto",
       "Lesão grave corresponde à perda permanente de membro ou sentido e ao aborto, enquanto a lesão gravíssima refere‑se apenas à incapacidade temporária para o trabalho",
-      "Lesão grave é aquela que provoca incapacidade para o trabalho por qualquer período e perda permanente de membro, e a gravíssima é caracterizada apenas por perigo de vida",
-      "Lesão grave e gravíssima são sinônimos, pois ambas resultam em pena de reclusão de dois a oito anos",
-      "Lesão grave depende apenas da opinião subjetiva do perito, sem critérios objetivos na lei"
+      "Lesão grave é aquela que provoca incapacidade para o trabalho por qualquer período e perda permanente de membro, e a gravíssima é caracterizada apenas por perigo de vida"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "O Código Penal e a doutrina médico‑legal distinguem lesão corporal grave de gravíssima. A lesão grave caracteriza‑se pela incapacidade para as ocupações habituais por mais de 30 dias, pela debilidade permanente de membro, sentido ou função, pelo perigo de vida ou pela aceleração do parto【547151445941047†L520-L541】. A lesão gravíssima, por sua vez, envolve incapacidade permanente para o trabalho, enfermidade incurável, perda ou inutilização de membro, sentido ou função, deformidade permanente e aborto【547151445941047†L601-L667】. As demais alternativas misturam ou inversam esses critérios.",
     "type": "conteudista"
   },
@@ -250,9 +250,9 @@
     "question": "Em relação às contusões no couro cabeludo, o que constitui a ‘erosão epidérmica marginal apergaminhada’ de Simonin e qual é sua importância pericial?",
     "options": [
       "É uma zona de erosão seca e amarelada ao redor da lesão contusa que ajuda a diferenciar ferimentos contusos de cortantes e a determinar o instrumento",
-      "É uma borda com tecido desvitalizado e úmido que indica ferida cortante produzida por instrumento afiado",
-      "É uma fratura linear do osso craniano que indica impacto de projétil de arma de fogo",
       "É um halo de esfumaçamento ao redor de ferimento por arma de fogo que indica tiro à queima‑roupa",
+      "É uma fratura linear do osso craniano que indica impacto de projétil de arma de fogo",
+      "É uma borda com tecido desvitalizado e úmido que indica ferida cortante produzida por instrumento afiado",
       "É uma vesícula serosa perilesional presente nas queimaduras de segundo grau que ajuda a determinar a extensão da lesão"
     ],
     "correctIndex": 0,
@@ -262,104 +262,104 @@
   {
     "question": "Um perito analisa uma escoriação com crosta serosa amarelada e bordas róseas em processo de reepitelização. Qual é a interpretação mais plausível?",
     "options": [
-      "Trata‑se de escoriação vital em fase de cicatrização, indicando que a lesão ocorreu há alguns dias",
-      "É uma escoriação pós‑mortem, pois há crosta seca e ausência de serosidade",
       "Corresponde a queimadura de terceiro grau com necrose do tecido e retração da pele",
+      "Trata‑se de escoriação vital em fase de cicatrização, indicando que a lesão ocorreu há alguns dias",
       "Indica lesão perfurocortante com túnel profundo e pouca hemorragia",
+      "É uma escoriação pós‑mortem, pois há crosta seca e ausência de serosidade",
       "Trata‑se de escoriação produzida por artefato explosivo com blast injury associada"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "O aspecto da crosta e da coloração é fundamental para estimar a idade das escoriações. Uma crosta serosa amarelada, com bordas róseas e sinais de reepitelização, indica que se trata de escoriação vital em processo de cicatrização ocorrido alguns dias antes; com o tempo a crosta seca e a lesão adquire coloração rosada até a total reepitelização【228092321055444†L668-L671】. Escoriações post mortem não formam crosta e têm o leito seco e pálido. Queimaduras de terceiro grau mostram necrose, perfurocortantes apresentam túnel profundo e lesões explosivas causam blast injuries internas.",
     "type": "conteudista"
   },
   {
     "question": "Entre os seguintes critérios, qual é utilizado para diferenciar lesões corporais leves das graves no contexto jurídico?",
     "options": [
-      "A presença de incapacidade para as ocupações habituais por mais de 30 dias",
       "A existência de incapacidade permanente para o trabalho",
       "A ocorrência de aborto em gestante devido à agressão",
+      "A presença de incapacidade para as ocupações habituais por mais de 30 dias",
       "A perda permanente de membro, sentido ou função",
       "A deformidade permanente produzida pela lesão"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "As lesões corporais leves compreendem todas aquelas que não se enquadram nos critérios de grave ou gravíssima. A gravidade passa a ser considerada quando a agressão determina incapacidade para as ocupações habituais por mais de 30 dias, debilidade de membro, sentido ou função, perigo de vida ou aceleração do parto【547151445941047†L520-L541】. Incapacidade permanente para o trabalho, aborto, perda de membro e deformidade permanente são critérios de lesão gravíssima【547151445941047†L601-L667】.",
     "type": "conteudista"
   },
   {
     "question": "Qual das seguintes condutas integra a identificação indireta de uma arma de fogo, segundo a balística forense?",
     "options": [
-      "Análise comparativa das microestrias nos projéteis e nas espoletas recuperadas, utilizando projéteis padrão e microscópio de comparação",
+      "Avaliação do ruído do disparo para determinar o tipo de arma",
+      "Identificação do número de série da arma e verificação dos registros oficiais",
       "Determinação da carga de pólvora no estojo e do fabricante da arma por observação visual",
       "Medida do peso do projétil e do calibre da munição sem avaliação microscópica",
-      "Identificação do número de série da arma e verificação dos registros oficiais",
-      "Avaliação do ruído do disparo para determinar o tipo de arma"
+      "Análise comparativa das microestrias nos projéteis e nas espoletas recuperadas, utilizando projéteis padrão e microscópio de comparação"
     ],
-    "correctIndex": 0,
+    "correctIndex": 4,
     "explanation": "Na identificação indireta de armas de fogo, realiza‑se a comparação macro e micro das deformações impressas nos elementos de munição. O exame mais importante é o microcomparativo dos projéteis e das espoletas, envolvendo a obtenção de projéteis padrão (disparados em meios como água ou algodão) e o uso de microscópio de comparação para analisar as microestrias e estabelecer a identidade da arma【228092321055444†L2239-L2255】【228092321055444†L2289-L2333】. Simples observação do estojo ou do peso do projétil não permite individualização, e o número de série se refere à identificação direta.",
     "type": "conteudista"
   },
   {
     "question": "Um ferimento de entrada por arma de fogo apresenta bordas invertidas, orla de escoriação concêntrica, halo de enxugo, halo de tatuagem e zona de queimadura com pelos chamuscados. Qual distância e modalidade de disparo são compatíveis com esses achados?",
     "options": [
-      "Disparo à queima‑roupa, com a boca da arma a poucos centímetros da pele",
+      "Disparo transfixante, no qual o projétil atravessa o corpo e retorna",
+      "Disparo médio, entre 50 e 70 cm, sem ação de chama",
       "Disparo de contato, com a boca da arma apoiada diretamente na pele",
       "Disparo a longa distância, acima de 2 m",
-      "Disparo médio, entre 50 e 70 cm, sem ação de chama",
-      "Disparo transfixante, no qual o projétil atravessa o corpo e retorna"
+      "Disparo à queima‑roupa, com a boca da arma a poucos centímetros da pele"
     ],
-    "correctIndex": 0,
+    "correctIndex": 4,
     "explanation": "No tiro à queima‑roupa a curta distância (geralmente até 10 cm), além da lesão de entrada, são observados os efeitos secundários do disparo: orla de escoriação e halo de enxugo, halo de tatuagem decorrente de grãos de pólvora incombusta e zona de esfumaçamento; quando a boca da arma se encontra muito próxima, verifica‑se também queimadura da pele e pelos crestados, caracterizando o tiro à queima‑roupa【228092321055444†L2453-L2474】【228092321055444†L2550-L2561】. No tiro de contato o efeito de gases ocorre no subcutâneo, e em tiros médios ou longos não há tatuagem nem queimadura.",
     "type": "raciocínio"
   },
   {
     "question": "Um paciente apresenta ferimento estrelado no couro cabeludo, com bordas irregulares, escoriações marginais e pontes de tecido ligando as bordas. Ele afirma ter sido atacado com uma faca afiada. Qual é a avaliação médico‑legal mais adequada sobre a compatibilidade dessa versão com a lesão observada?",
     "options": [
-      "A lesão é típica de ação contundente; ferida contusa não é compatível com faca afiada, indicando provável impacto por objeto rombo",
-      "A ferida estrelada decorre de instrumento perfurocortante, confirmando o uso de faca na agressão",
       "O padrão observado corresponde a uma ferida perfurante por objeto pontiagudo como agulha ou estilete",
+      "A lesão somente poderia ser causada por projétil de arma de fogo a grande distância",
       "Trata‑se de ferida incisa, confirmando que a faca foi utilizada e não há contradições",
-      "A lesão somente poderia ser causada por projétil de arma de fogo a grande distância"
+      "A ferida estrelada decorre de instrumento perfurocortante, confirmando o uso de faca na agressão",
+      "A lesão é típica de ação contundente; ferida contusa não é compatível com faca afiada, indicando provável impacto por objeto rombo"
     ],
-    "correctIndex": 0,
+    "correctIndex": 4,
     "explanation": "Feridas contusas apresentam forma sinuosa ou estrelada, bordas irregulares com escoriações, fundo irregular e, frequentemente, pontes de tecido íntegro; essas características são produzidas pela ação de um objeto rombo e não por lâminas afiadas【228092321055444†L992-L1051】. Portanto, a presença de ferida estrelada no couro cabeludo com tais sinais indica ação contundente e é incompatível com ataque por faca, sugerindo que a versão do paciente não corresponde à dinâmica da lesão.",
     "type": "raciocínio"
   },
   {
     "question": "Uma escoriação analisada apresenta leito seco e pálido, sem crosta, e a derme tem aspecto de papel (“apergaminhada”). Isso indica que a lesão foi produzida em que momento?",
     "options": [
-      "Depois da morte, pois escoriações post mortem não formam crosta nem exsudato",
+      "No contexto de queimadura de segundo grau, com formação de flictenas",
       "Logo após o trauma, pois escoriações vitais mostram leito seco sem crosta",
       "Durante a reepitelização, com formação de crosta serosa e bordas róseas",
-      "Após 15 dias, quando a equimose passa de verde para amarelo",
-      "No contexto de queimadura de segundo grau, com formação de flictenas"
+      "Depois da morte, pois escoriações post mortem não formam crosta nem exsudato",
+      "Após 15 dias, quando a equimose passa de verde para amarelo"
     ],
-    "correctIndex": 0,
+    "correctIndex": 3,
     "explanation": "Escoriações post mortem não apresentam exsudação nem formação de crosta; a derme fica branca, seca e apergaminhada【228092321055444†L660-L664】. Já as escoriações vitais formam crosta serosa ou sanguinolenta e bordas róseas durante a cicatrização. A equimose e as queimaduras não estão relacionadas ao aspecto descrito.",
     "type": "raciocínio"
   },
   {
     "question": "Uma vítima sofreu trauma abdominal por acidente de trânsito. Houve ruptura de baço com necessidade de transfusão sanguínea e internação em UTI, porém, após quatro semanas de recuperação, ela retomou suas atividades habituais. Segundo o Código Penal e a prática médico‑legal, como deve ser classificada essa lesão?",
     "options": [
-      "Lesão corporal grave, pois houve perigo de vida e incapacidade para as ocupações habituais por mais de 30 dias",
-      "Lesão corporal gravíssima, devido à incapacidade permanente para o trabalho",
       "Lesão corporal leve, pois a vítima se recuperou em quatro semanas sem sequela permanente",
+      "Lesão corporal gravíssima, devido à incapacidade permanente para o trabalho",
       "Homicídio culposo, já que houve transfusão de sangue e risco de morte",
-      "Tentativa de aborto, pois houve intervenção cirúrgica que antecipou o parto"
+      "Tentativa de aborto, pois houve intervenção cirúrgica que antecipou o parto",
+      "Lesão corporal grave, pois houve perigo de vida e incapacidade para as ocupações habituais por mais de 30 dias"
     ],
-    "correctIndex": 0,
+    "correctIndex": 4,
     "explanation": "A ruptura esplênica com transfusão sanguínea e internação em UTI configura perigo de vida. Além disso, a vítima ficou incapaz para as ocupações habituais por mais de 30 dias. Esses critérios enquadram a lesão como lesão corporal grave, segundo o artigo 129, § 1º, que considera lesão grave quando há incapacidade para as ocupações habituais por mais de 30 dias, perigo de vida ou debilidade de membro, sentido ou função【547151445941047†L532-L541】【547151445941047†L560-L567】. Não se trata de gravíssima porque a incapacidade não foi permanente, nem de lesão leve, e não há relação com aborto ou homicídio.",
     "type": "raciocínio"
   },
   {
     "question": "Uma gestante de oito meses sofreu agressão física e o médico decidiu antecipar o parto. O bebê nasceu vivo, mas precisou ficar na unidade neonatal. Qual é a classificação jurídica dessa lesão para fins de dosimetria da pena?",
     "options": [
-      "Lesão corporal grave, pois houve aceleração do parto sem morte do feto",
       "Lesão corporal gravíssima, devido à ocorrência de aborto",
-      "Lesão corporal leve, porque não ocorreu incapacidade temporária da mãe",
+      "Lesão corporal grave, pois houve aceleração do parto sem morte do feto",
       "Não configura lesão corporal, pois o bebê nasceu vivo e sem sequelas",
-      "Lesão corporal gravíssima, pois a gestante perdeu um membro"
+      "Lesão corporal gravíssima, pois a gestante perdeu um membro",
+      "Lesão corporal leve, porque não ocorreu incapacidade temporária da mãe"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Quando a agressão à gestante provoca a antecipação do parto com nascimento de feto vivo, caracteriza‑se a aceleração do parto, que é um dos critérios de lesão corporal grave de acordo com o artigo 129, § 1º do Código Penal【547151445941047†L532-L541】. A lesão corporal gravíssima refere‑se à ocorrência de aborto (morte do feto), incapacidade permanente para o trabalho, perda de membro, deformidade permanente ou enfermidade incurável【547151445941047†L601-L667】. Portanto, como houve apenas aceleração do parto e o bebê nasceu vivo, a lesão é grave.",
     "type": "raciocínio"
   }

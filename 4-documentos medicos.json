@@ -2,39 +2,39 @@
   {
     "question": "O que melhor caracteriza um atestado médico dentro dos documentos médico‑legais?",
     "options": [
-      "Narrativa detalhada e opinativa sobre os fatos investigados",
       "Comunicação compulsória de agravos à autoridade sanitária competente",
       "Declaração simples e escrita de um fato médico e suas consequências",
       "Documento que reúne anamnese, exames e prescrições terapêuticas",
-      "Manifesto técnico de um perito em processo já em andamento"
+      "Manifesto técnico de um perito em processo já em andamento",
+      "Narrativa detalhada e opinativa sobre os fatos investigados"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "O atestado ou certificado médico é uma declaração pura e simples, por escrito, que afirma um fato médico e suas consequências, sem se confundir com relatórios ou pareceres.  O material destaca que o atestado objetiva reproduzir com idoneidade uma manifestação do pensamento e resume de forma objetiva o que resultou do exame em um paciente.",
     "type": "conteudista"
   },
   {
     "question": "Quanto à classificação de atestados conforme sua finalidade, qual afirmação está correta?",
     "options": [
-      "Todos os atestados são apenas judiciários e dispensam finalidade administrativa",
       "Há atestados administrativos, judiciários ou oficiosos, dependendo do destinatário",
-      "Somente médicos legistas podem elaborar atestados com valor jurídico",
+      "A classificação considera apenas a gravidade da enfermidade declarada",
+      "Todos os atestados são apenas judiciários e dispensam finalidade administrativa",
       "Atestados e relatórios são equivalentes e não admitem subdivisões",
-      "A classificação considera apenas a gravidade da enfermidade declarada"
+      "Somente médicos legistas podem elaborar atestados com valor jurídico"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "O texto ressalta que o atestado, quanto à sua procedência ou finalidade, pode ser administrativo quando destinado ao serviço público, judiciário quando solicitado pela Justiça ou oficioso quando de interesse privado.  As demais opções são incorretas pois restringem indevidamente a natureza do documento ou confundem atestado com outros tipos de documento.",
     "type": "conteudista"
   },
   {
     "question": "Notificações compulsórias são entendidas, na área médico‑legal, como:",
     "options": [
-      "Resumos narrativos sem opinião a respeito do caso clínico",
       "Comunicados obrigatórios de fatos profissionais relevantes à saúde pública",
-      "Emissões de parecer técnico sobre fatos já comprovados em processo",
+      "Declarações emitidas pelo paciente sobre seu estado de saúde",
       "Solicitações de exames complementares feitas pelo perito ao laboratório",
-      "Declarações emitidas pelo paciente sobre seu estado de saúde"
+      "Emissões de parecer técnico sobre fatos já comprovados em processo",
+      "Resumos narrativos sem opinião a respeito do caso clínico"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Segundo o capítulo sobre documentos médico‑legais, notificações são comunicações compulsórias feitas pelos médicos às autoridades competentes sobre fatos profissionais como acidentes de trabalho, doenças infectocontagiosas e crimes de ação pública.  Elas visam proteger a coletividade, não são relatórios ou pareceres.",
     "type": "conteudista"
   },
@@ -44,47 +44,47 @@
       "Acidente de trabalho que resulte em afastamento prolongado",
       "Morte encefálica em instituição de saúde pública ou privada",
       "Doença infectocontagiosa de comunicação imediata",
-      "Uso de substância que cause dependência física ou psíquica",
-      "Crime de ação pública conhecido no exercício profissional"
+      "Crime de ação pública conhecido no exercício profissional",
+      "Uso de substância que cause dependência física ou psíquica"
     ],
-    "correctIndex": 3,
+    "correctIndex": 4,
     "explanation": "O texto indica que as notificações incluem acidentes de trabalho, doenças infectocontagiosas, crimes de ação pública e morte encefálica.  A lei que obrigava comunicar viciados em substâncias capaz de causar dependência foi revogada, portanto essa situação não é mais objeto de notificação compulsória.",
     "type": "conteudista"
   },
   {
     "question": "Qual informação está entre os elementos que devem constar em um atestado médico idôneo?",
     "options": [
+      "Testemunhos de familiares sobre a conduta do paciente",
       "Parecer pessoal do médico sobre possível responsabilidade penal",
       "Diagrama anatômico detalhado da lesão ou doença",
-      "Local, data, assinatura e carimbo profissional do médico emissor",
       "Análise de literatura especializada para justificar o diagnóstico",
-      "Testemunhos de familiares sobre a conduta do paciente"
+      "Local, data, assinatura e carimbo profissional do médico emissor"
     ],
-    "correctIndex": 2,
+    "correctIndex": 4,
     "explanation": "O atestado deve conter cabeçalho com qualificação do médico, qualificação do interessado, referência à solicitação, finalidade, fato médico e suas consequências e encerrar com local, data e assinatura com o carimbo profissional.  Pareceres, diagramas anatômicos ou análises bibliográficas não integram o atestado.",
     "type": "conteudista"
   },
   {
     "question": "Segundo a ética médica, em que circunstâncias pode o médico revelar o diagnóstico em um atestado?",
     "options": [
-      "Sempre, pois a precisão diagnóstica é obrigatória por lei",
-      "Apenas quando houver justa causa, dever legal ou consentimento do paciente",
-      "Somente em atestados administrativos, mas nunca em judiciários",
       "Quando solicitado por qualquer familiar maior de idade",
-      "Nunca, pois o sigilo médico impede qualquer menção à doença"
+      "Somente em atestados administrativos, mas nunca em judiciários",
+      "Nunca, pois o sigilo médico impede qualquer menção à doença",
+      "Apenas quando houver justa causa, dever legal ou consentimento do paciente",
+      "Sempre, pois a precisão diagnóstica é obrigatória por lei"
     ],
-    "correctIndex": 1,
+    "correctIndex": 3,
     "explanation": "O Conselho Federal de Medicina esclarece que o médico pode colocar o diagnóstico no atestado apenas nos casos de justa causa, dever legal ou a pedido do paciente ou de seus representantes legais.  Fora dessas hipóteses, deve-se evitar a declaração para respeitar o sigilo profissional.",
     "type": "conteudista"
   },
   {
     "question": "Pode um atestado particular substituir o laudo pericial no processo penal quando há vestígios do crime?",
     "options": [
-      "Sim, pois qualquer atestado tem valor de prova material equivalente",
-      "Não, salvo nas hipóteses legais restritas e de menor potencial ofensivo",
-      "Sim, desde que seja assinado por médico perito oficial",
       "Pode substituir se houver consentimento do acusado e da vítima",
-      "Pode substituir desde que conste o CID e o carimbo do CRM"
+      "Não, salvo nas hipóteses legais restritas e de menor potencial ofensivo",
+      "Pode substituir desde que conste o CID e o carimbo do CRM",
+      "Sim, desde que seja assinado por médico perito oficial",
+      "Sim, pois qualquer atestado tem valor de prova material equivalente"
     ],
     "correctIndex": 1,
     "explanation": "O capítulo esclarece que o atestado fornecido por médico particular não substitui o laudo para comprovação da materialidade em processo criminal, excetuando‑se as hipóteses previstas no § 1º do artigo 77 da Lei 9.099/1995, relativas a infrações de menor potencial ofensivo.  Portanto, ele não supre o exame de corpo de delito quando há vestígios.",
@@ -93,24 +93,24 @@
   {
     "question": "Qual denominação recebe o atestado concedido para favorecer o paciente, sem compromisso com a veracidade?",
     "options": [
+      "Atestado imprudente, dado após cuidadosa avaliação clínica",
       "Atestado idôneo, elaborado dentro de rigor científico",
       "Atestado gracioso ou de favor, emitido para agradar o solicitante",
-      "Atestado imprudente, dado após cuidadosa avaliação clínica",
-      "Atestado judiciário, fornecido a pedido da autoridade policial",
-      "Atestado técnico, relacionado à análise de laboratório forense"
+      "Atestado técnico, relacionado à análise de laboratório forense",
+      "Atestado judiciário, fornecido a pedido da autoridade policial"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "O capítulo classifica os atestados quanto ao conteúdo em idôneos, graciosos (ou complacentes), imprudentes e falsos.  O atestado gracioso é aquele concedido sem compromisso com a verdade, visando apenas agradar o paciente ou ampliar clientela, o que é condenável ética e legalmente.",
     "type": "conteudista"
   },
   {
     "question": "Sobre o prontuário médico, é correto afirmar que ele:",
     "options": [
-      "Registra apenas a anamnese inicial, sem envolver prescrições e exames",
+      "Tem uso apenas administrativo e não possui relevância médico‑legal",
       "É um acervo organizado que inclui anamnese, prescrições, relatórios e exames complementares",
       "É propriedade exclusiva da instituição, que pode fornecê‑lo a terceiros livremente",
-      "Tem uso apenas administrativo e não possui relevância médico‑legal",
-      "Serve apenas para cobrança de procedimentos e controle de despesas hospitalares"
+      "Serve apenas para cobrança de procedimentos e controle de despesas hospitalares",
+      "Registra apenas a anamnese inicial, sem envolver prescrições e exames"
     ],
     "correctIndex": 1,
     "explanation": "O prontuário médico é definido como um acervo documental padronizado, organizado e conciso que registra a anamnese, fichas de ocorrências, prescrições, relatórios de enfermagem, de cirurgia e os resultados de exames complementares.  Ele possui relevância médico‑legal e não serve apenas para fins burocráticos ou de cobrança.",
@@ -119,11 +119,11 @@
   {
     "question": "Quem detém a propriedade das informações contidas no prontuário médico, segundo pareceres do CFM?",
     "options": [
-      "O médico assistente, que pode divulgá‑las a seu critério",
+      "O perito judicial, que arquiva o prontuário quando atua no caso",
       "A instituição de saúde, que deve enviá‑las ao contratante sempre que solicitado",
       "O paciente, que tem direito permanente às suas informações, cabendo ao médico apenas a guarda",
-      "Os conselhos de saúde, que podem requisitar as fichas a qualquer momento",
-      "O perito judicial, que arquiva o prontuário quando atua no caso"
+      "O médico assistente, que pode divulgá‑las a seu critério",
+      "Os conselhos de saúde, que podem requisitar as fichas a qualquer momento"
     ],
     "correctIndex": 2,
     "explanation": "O texto explica que, embora o médico seja o autor intelectual do prontuário e a instituição tenha a guarda do documento, a propriedade das informações pertence ao paciente, que tem a disponibilidade permanente do conteúdo.  Nem médicos nem instituições podem fornecê‑lo sem autorização legal.",
@@ -133,12 +133,12 @@
     "question": "A respeito da entrega de prontuários a autoridades, qual alternativa está de acordo com os pareceres do CFM?",
     "options": [
       "Instituições são obrigadas a enviar os originais de prontuários a qualquer solicitante público",
+      "O paciente não tem acesso ao seu prontuário por envolver sigilo profissional",
       "Apenas o perito designado pode consultar o prontuário, mantendo sigilo das informações",
       "O diretor clínico deve liberar cópias sempre que conselho de saúde requisitar",
-      "O paciente não tem acesso ao seu prontuário por envolver sigilo profissional",
       "A polícia pode recolher o prontuário sem autorização judicial ou comunicação ao paciente"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Os pareceres do CFM determinam que as instituições de saúde não são obrigadas a enviar os originais de prontuários aos seus contratantes e que a entrega a terceiros somente ocorre com autorização legal.  O perito pode consultar o prontuário para sua análise, mas deve manter o sigilo pericial.",
     "type": "conteudista"
   },
@@ -146,25 +146,25 @@
     "question": "Qual é a principal distinção entre relatório médico‑legal, laudo e auto, segundo o texto?",
     "options": [
       "Relatório é elaborado pelo escrivão; laudo, pelo juiz; auto, pelo paciente",
-      "Relatório é a descrição minuciosa do exame; quando feito após investigações chama‑se laudo; ditado ao escrivão em audiência recebe o nome de auto",
       "Laudo e auto são sinônimos; relatório é o documento que acompanha o processo",
+      "Relatório é documento particular do perito, enquanto laudo é administrativo e auto não tem valor legal",
       "Auto é um relatório com cópia autenticada do prontuário; laudo é uma opinião subjetiva",
-      "Relatório é documento particular do perito, enquanto laudo é administrativo e auto não tem valor legal"
+      "Relatório é a descrição minuciosa do exame; quando feito após investigações chama‑se laudo; ditado ao escrivão em audiência recebe o nome de auto"
     ],
-    "correctIndex": 1,
+    "correctIndex": 4,
     "explanation": "O capítulo informa que o relatório médico‑legal é a descrição minuciosa de uma perícia.  Quando o relatório resulta de investigações com auxílio de fontes adicionais é denominado laudo, e quando o exame é ditado diretamente a um escrivão e perante testemunhas, recebe o nome de auto.",
     "type": "conteudista"
   },
   {
     "question": "Quais são as partes fundamentais de um relatório/ laudo médico‑legal?",
     "options": [
-      "Preâmbulo, quesitos, histórico, descrição, discussão, conclusão e respostas aos quesitos",
-      "Introdução, metodologia, resultados, discussão, referências e anexo fotográfico",
-      "Resumo, fundamentação jurídica, dispositivo e assinatura do juiz",
       "Termo de assentada, laudo indireto, perícia complementar e sentença",
-      "Qualificação, questionário, parecer, despacho e recurso"
+      "Qualificação, questionário, parecer, despacho e recurso",
+      "Introdução, metodologia, resultados, discussão, referências e anexo fotográfico",
+      "Preâmbulo, quesitos, histórico, descrição, discussão, conclusão e respostas aos quesitos",
+      "Resumo, fundamentação jurídica, dispositivo e assinatura do juiz"
     ],
-    "correctIndex": 0,
+    "correctIndex": 3,
     "explanation": "O material define a estrutura do relatório/ laudo em preâmbulo (hora, data, local, autoridade, peritos, examinado), quesitos, histórico, descrição detalhada, discussão, conclusão e respostas aos quesitos.",
     "type": "conteudista"
   },
@@ -172,23 +172,23 @@
     "question": "Na estrutura do laudo, qual parte é considerada mais importante por exigir descrição minuciosa das lesões sem recorrer a rótulos genéricos?",
     "options": [
       "Preâmbulo, com dados do exame e das partes envolvidas",
-      "Histórico, com relato do periciado e circunstâncias do fato",
-      "Descrição, que deve detalhar todas as características das lesões",
+      "Conclusão, que sintetiza o diagnóstico e as respostas aos quesitos",
       "Discussão, onde são analisadas as hipóteses e teses doutrinárias",
-      "Conclusão, que sintetiza o diagnóstico e as respostas aos quesitos"
+      "Descrição, que deve detalhar todas as características das lesões",
+      "Histórico, com relato do periciado e circunstâncias do fato"
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": "A descrição é a parte mais importante do laudo porque deve expor completa, minuciosa e objetivamente todas as particularidades das lesões, evitando apenas nomeá‑las e deixando clara sua forma, direção, número, extensão e outras características.  Essa minúcia é essencial para uma correta interpretação.",
     "type": "conteudista"
   },
   {
     "question": "Quando é indicado o parecer médico‑legal em vez do laudo?",
     "options": [
-      "Quando há necessidade de reproduzir anamnese, exames e prescrições",
-      "Quando o perito precisa apenas avaliar peças processuais e emitir opinião sem examinar o periciando",
-      "Quando se comunica à autoridade sanitária uma doença contagiosa confirmada",
       "Quando a autoridade requer o prontuário original de um paciente",
-      "Quando o perito necessita redigir o preâmbulo e a descrição do exame fisicamente realizado"
+      "Quando o perito precisa apenas avaliar peças processuais e emitir opinião sem examinar o periciando",
+      "Quando o perito necessita redigir o preâmbulo e a descrição do exame fisicamente realizado",
+      "Quando se comunica à autoridade sanitária uma doença contagiosa confirmada",
+      "Quando há necessidade de reproduzir anamnese, exames e prescrições"
     ],
     "correctIndex": 1,
     "explanation": "O capítulo esclarece que o parecer médico‑legal é produzido quando o perito é chamado a intervir em um processo em andamento em que a questão de fato é pacífica e ele precisa apenas avaliar peças processuais à luz da Medicina Legal, emitindo suas impressões e respondendo aos quesitos sem realizar exame técnico.  O parecer contém as partes do relatório, exceto a descrição.",
@@ -197,11 +197,11 @@
   {
     "question": "Um médico assistente é solicitado a registrar por escrito a evolução clínica de um paciente para encaminhamento a outro serviço, sem opinar sobre o caso. Qual documento ele deve elaborar?",
     "options": [
-      "Laudo médico‑legal detalhado, com discussão e conclusão pericial",
+      "Declaração simples de óbito, com identificação do cadáver",
       "Relatório médico, que sintetiza o caso sem emitir juízo de valor",
       "Atestado administrativo, com carimbo e CID obrigatórios",
-      "Parecer médico‑legal baseado apenas em documentos anexos",
-      "Declaração simples de óbito, com identificação do cadáver"
+      "Laudo médico‑legal detalhado, com discussão e conclusão pericial",
+      "Parecer médico‑legal baseado apenas em documentos anexos"
     ],
     "correctIndex": 1,
     "explanation": "Relatórios médicos são resumos de casos sem opinião, usados, por exemplo, em altas hospitalares ou encaminhamentos.  Laudos e pareceres pressupõem análise pericial e as demais alternativas não correspondem ao pedido.",
@@ -210,39 +210,39 @@
   {
     "question": "Um empregador exige que o médico inclua o diagnóstico de doença em atestado de afastamento. O paciente não autoriza essa divulgação. Qual é a conduta ética correta?",
     "options": [
+      "Registrar o diagnóstico em código secreto sem informar o paciente",
       "Incluir o diagnóstico, pois atende ao interesse administrativo da empresa",
-      "Omitir o diagnóstico e registrar apenas o tempo de afastamento ou orientações, respeitando o sigilo",
-      "Negar o atestado, pois sem diagnóstico ele não tem validade",
       "Fazer constar o CID, ainda que o paciente não concorde, para evitar responsabilidade",
-      "Registrar o diagnóstico em código secreto sem informar o paciente"
+      "Omitir o diagnóstico e registrar apenas o tempo de afastamento ou orientações, respeitando o sigilo",
+      "Negar o atestado, pois sem diagnóstico ele não tem validade"
     ],
-    "correctIndex": 1,
+    "correctIndex": 3,
     "explanation": "Conforme o Código de Ética Médica e os pareceres do CFM, o médico deve evitar declarar o diagnóstico no atestado, salvo por justa causa, dever legal ou a pedido do paciente.  Assim, deve consignar apenas as informações essenciais ao afastamento, protegendo o sigilo.",
     "type": "raciocínio"
   },
   {
     "question": "O juiz convoca um perito para esclarecer dúvidas de um laudo já realizado, sem que o profissional produza novo documento escrito. Essa participação denomina‑se:",
     "options": [
-      "Notificação compulsória junto ao Ministério Público",
-      "Declaração médica de óbito em audiência",
-      "Depoimento oral, em que o perito esclarece pontos obscuros perante o juízo",
       "Relatório complementar de anamnese e evolução clínica",
+      "Depoimento oral, em que o perito esclarece pontos obscuros perante o juízo",
+      "Declaração médica de óbito em audiência",
+      "Notificação compulsória junto ao Ministério Público",
       "Quesito suplementar respondido por escrita pelo assistente técnico"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "O capítulo explica que o depoimento oral consiste na declaração prestada pelo perito em audiência para esclarecer pontos duvidosos de perícias realizadas por ele ou por outrem.  Não se trata de um novo laudo ou de notificação, mas de uma manifestação oral.",
     "type": "raciocínio"
   },
   {
     "question": "Durante um processo, não há controvérsia sobre os fatos materiais, mas o juiz precisa de orientação técnico‑científica para interpretar as consequências médico‑legais de um evento. Qual documento é mais apropriado para fornecer essa orientação?",
     "options": [
-      "Atestado idôneo emitido pelo médico assistente",
-      "Parecer médico‑legal, elaborado a partir das peças processuais sem exame físico",
-      "Relatório pericial contendo descrição minuciosa de lesões e conclusões",
       "Notificação compulsória de doença de interesse público",
-      "Prontuário médico enviado ao tribunal por ofício"
+      "Prontuário médico enviado ao tribunal por ofício",
+      "Atestado idôneo emitido pelo médico assistente",
+      "Relatório pericial contendo descrição minuciosa de lesões e conclusões",
+      "Parecer médico‑legal, elaborado a partir das peças processuais sem exame físico"
     ],
-    "correctIndex": 1,
+    "correctIndex": 4,
     "explanation": "Quando a questão de fato é pacífica e o perito precisa apenas avaliar peças do processo à óptica médico‑legal, ele emite um parecer, respondendo aos quesitos sem realizar exame físico.  Um relatório ou laudo supõe realização de exame e descrição de vestígios.",
     "type": "raciocínio"
   },
@@ -252,8 +252,8 @@
       "Entregar imediatamente o prontuário original, pois é dever colaborar com a investigação",
       "Negar a entrega do prontuário e aguardar solicitação legal, permitindo consulta apenas ao perito nomeado sob sigilo",
       "Fornecer cópia autenticada ao conselho de saúde local, que repassará à polícia",
-      "Destruir o prontuário para resguardar o sigilo médico e evitar vazamentos",
-      "Informar apenas o diagnóstico verbalmente ao delegado, sem documento escrito"
+      "Informar apenas o diagnóstico verbalmente ao delegado, sem documento escrito",
+      "Destruir o prontuário para resguardar o sigilo médico e evitar vazamentos"
     ],
     "correctIndex": 1,
     "explanation": "Os pareceres do CFM determinam que as instituições de saúde não são obrigadas a entregar os originais de prontuários às autoridades sem previsão legal e que apenas o perito pode consultá‑los, mantendo o sigilo.  Assim, o diretor deve negar a entrega, aguardando autorização judicial e garantindo que o perito designado tenha acesso controlado.",
